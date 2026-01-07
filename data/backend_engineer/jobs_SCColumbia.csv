@@ -1,0 +1,2886 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"li-4333102065","linkedin","https://www.linkedin.com/jobs/view/4333102065","","Systems Engineer II","Angi","South Carolina, United States","2025-11-20","fulltime","","","","","",True,"mid-senior level","Information Technology","","","At Angi®, we’ve had one simple mission for 30 years: get jobs done well. We make it happen by connecting homeowners with reliable pros who have the skills they need — and connecting pros with homeowners who have the jobs they want.
+   
+
+  
+
+**Angi At a Glance**
+* Homeowners have turned to Angi for more than 300 million projects
+* 1,000\\+ home service tasks covered
+* 2,800 employees worldwide
+
+
+**Why Join Angi**
+ Angi® is defining the future of the home services industry, creating an environment where homeowners, pros, and employees benefit from more jobs done well.
+   
+
+  
+
+ For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we’re an amazing place to call home. We can’t wait to welcome you.
+   
+
+  
+
+**About The Team**
+ The IT Infrastructure team at Angi designs, builds, and maintains the systems that power our business and employees. We focus on automation, scalability, and security to ensure our technology foundation runs efficiently and reliably. The team partners across the business to deliver secure, scalable, and efficient technology solutions.
+   
+
+  
+
+*While this is a remote position, we are a global company and are looking for applicants located in eastern or central time zones to align with our team's working hours.*
+**What You’ll Do**
+ Angi is looking for a Systems Engineer to join our Infrastructure team. We’re seeking someone with a strong technical foundation and an Infrastructure as Code (IaC) and Infrastructure as a Service (IaaS) mindset. In this role, you’ll help design, implement, and maintain endpoint and operating environments across the company, ensuring performance, reliability, and security through automation and proactive monitoring.
+   
+
+  
+
+* Implement and manage IT Endpoint principles across Windows, Mac, and ChromeOS
+* Automate installation, configuration, and maintenance of operating environments
+* Manage software updates and system patching through automation and scheduling tools
+* Monitor system performance, troubleshoot issues, and respond to incidents
+* Maintain security and compliance across all endpoint environments
+* Participate in an on\\-call rotation after becoming proficient in core technologies
+* Document procedures, incidents, and lessons learned
+* Collaborate cross\\-functionally to resolve technical problems and improve processes
+* Provide training and technical support to users and team members
+
+
+**Who You Are**
+* 3\\+ years of experience in Systems Engineering, IT Infrastructure, or Endpoint Management
+* Hands\\-on experience with tools like Jamf, Intune, or Google Workspace
+* Strong knowledge of operating system updates, patching, and security principles
+* Proficiency in PowerShell (Bash or Ruby a plus)
+* Experience managing endpoints from vendors such as Apple and Lenovo
+* In\\-depth experience with Linux, Mac, and Windows administration
+* Familiarity with automation platforms (e.g., Jenkins) and scripting for configuration management
+* Working knowledge of Microsoft Active Directory, Group Policy, IIS, and File Services
+* Understanding of modern authentication and identity tools (Okta preferred)
+* Excellent problem\\-solving and analytical skills
+* Strong communication, collaboration, and time management abilities
+* Awareness of data privacy and compliance best practices
+
+
+**We value diversity**
+ We know that the best ideas come from teams where diverse points of view uncover new solutions to hard problems. We welcome and value individuals who bring diverse life experiences, educational backgrounds, cultures, and work experiences.
+   
+
+  
+
+**Compensation \\& Benefits**
+* The salary band for this position ranges $80,000 \\- $135,000 commensurate with experience and performance. Compensation may vary based on factors such as cost of living.
+* This position will be eligible for a competitive year end performance bonus \\& equity package.
+* Full medical, dental, vision package to fit your needs
+* Flexible vacation policy; work hard and take time when you need it
+* Pet discount plans \\& retirement plan with company match (401K)
+* The rare opportunity to work with sharp, motivated teammates solving some of the most unique challenges and changing the world","Software Development","https://www.linkedin.com/company/angi","https://media.licdn.com/dms/image/v2/C4D0BAQEgk8MjLI5aEg/company-logo_100_100/company-logo_100_100/0/1630461500802/angi_logo?e=2147483647&v=beta&t=PPOvd3-FUmy7sxW0fgwr3CG1mgVJpopIWnUvpOsiWrM","","","","","","","","","","",""
+"li-4324759184","linkedin","https://www.linkedin.com/jobs/view/4324759184","https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA\\u002d\\u002d-Remote-CT/Backend-Engineer\\u002d\\u002d-Charlotte-AI\\u002d\\u002dRemote\\u002d\\u002dEST-_R24747-1?source=LinkedIn_jobs&urlHash=LSRh","Backend Engineer III - Charlotte AI (Remote, EST)","CrowdStrike","South Carolina, United States","2025-11-20","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","recruiting@crowdstrike.com","As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI\\-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We’re also a mission\\-driven company. We cultivate a culture that gives every CrowdStriker both the flexibility and autonomy to own their careers. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you.
+   
+
+  
+
+****About The Role:****
+ CrowdStrike is looking for a
+ **Cloud Software Engineer** 
+ to join our growing Charlotte AI Engineering Team. Our new colleague will be responsible for building globally distributed, fault\\-tolerant, and highly scalable cloud ecosystems using Golang and Large Language Models. Prior experience with Golang and LLMs is not required, but will be helpful.
+   
+
+  
+
+ CrowdStrike is a computer security company, but we do not require candidates for this role to have prior security industry experience. We will mentor and train in security topics as needed. We do expect a strong interest in CrowdStrike's mission and a willingness to engage with the needs of our product teams and customers.
+   
+
+  
+
+****About The Product:****
+ CrowdStrike has pioneered the use of artificial intelligence (AI) since we first introduced AI\\-powered protection to replace signature\\-based antivirus over 10 years ago, and we’ve continued to deeply integrate it across our platform since.
+   
+
+  
+
+ Using the recent advances in Large Language Models technologies, CrowdStrike introduced
+ **Charlotte AI** 
+ , a new
+ **generative AI security analyst** 
+ . It uses the world’s highest\\-fidelity security data and it is seamlessly integrated with CrowdStrike’s industry\\-leading threat hunters, managed detection and response operators, and incident response experts. Charlotte AI engine represents a first of its type offering empowering users of all skill levels to leverage the data available in the Falcon Platform,while reducing security operations complexity and cost.
+   
+
+  
+
+**Learn more about Charlotte AI:** 
+ https://www.crowdstrike.com/products/charlotte\\-ai/
+   
+
+  
+
+****What You'll Do:****
+* Advance backend microservices, pinpointing and addressing critical concerns to implement effective solutions.
+* Employ established CrowdStrike tools and services to build cloud solutions for detecting and countering targeted cyber assaults.
+* Innovate with Large Language Models to develop and refine Charlotte AI's capabilities.
+* Construct and maintain data pipelines, engage in data upkeep, and contribute to the training and implementation of custom LLMs.
+* Collaborate across various teams to brainstorm, define, and devise solutions.
+* Commit to ongoing learning and self\\-improvement.
+* Stay attuned to our customers' challenges, always seeking ways to enhance support.
+* Emphasize top\\-tier coding quality by adhering to best practices, rigorous testing, and thorough logging and metrics.
+* Work within a collaborative and agile team environment.
+* Contribute to mentoring fellow engineers across a spectrum of technologies and also absorb knowledge from them.
+* Constantly explore ways to refine product architecture, knowledge models, user experience, performance, and reliability.
+* Own your work with autonomy, end to end: develop, test, deploy and monitor your changes.
+* Thrive in an environment that highly values trust.
+
+
+****What You'll Need:****
+* Degree in Computer Science (or professional experience in data structures/algorithms/distributed systems).
+* Prior work experience with GenAI, LLMs or Agentic Systems.
+* Prior work experience with big data and microservices.
+* Understanding scalability and distributed systems i.e. sharding, partitioning, concurrency, etc.
+* Being a team player.
+* A thorough understanding of engineering best practices from appropriate testing paradigms to effective peer code reviews and resilient architecture.
+* The ability to thrive in a test\\-driven, collaborative, and iterative programming environment.
+* The skills to meet your commitments on time and produce high\\-quality software that is unit tested, code reviewed and checked in regularly for continuous integration.
+
+
+**Tech Stack (** 
+*not mandatory to know everything; a robust learning capacity is essentia* 
+*l)
+ **:***
+* Go (Golang)
+* Python
+* Docker
+* Kubernetes
+* AWS
+* Redis / S3 / EC2 / IAM
+* Kafka
+* GIT
+* Cassandra
+* ElasticSearch
+
+
+****Bonus Points:****
+* Existing exposure to Go, AWS, Cassandra, Kafka, Elasticsearch.
+* Prior experience in the cybersecurity or intelligence fields.
+
+
+ \\#HTF
+   
+
+  
+
+ This role will require the candidate to periodically undergo and pass additional background and fingerprint check(s) consistent with government customer requirements.
+   
+
+  
+
+****Benefits Of Working At CrowdStrike:****
+* Remote\\-friendly and flexible work culture
+* Market leader in compensation and equity awards
+* Comprehensive physical and mental wellness programs
+* Competitive vacation and holidays for recharge
+* Paid parental and adoption leaves
+* Professional development opportunities for all employees regardless of level or role
+* Employee Networks, geographic neighborhood groups, and volunteer opportunities to build connections
+* Vibrant office culture with world class amenities
+* Great Place to Work Certified™ across the globe
+
+
+ CrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program.
+   
+
+  
+
+ CrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy\\-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions\\-\\-including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay\\-offs, return from lay\\-off, terminations and social/recreational programs\\-\\-on valid job requirements.
+   
+
+  
+
+ If you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at recruiting@crowdstrike.com for further assistance.
+   
+
+  
+
+ Find out more about your rights as an applicant.
+   
+
+  
+
+ CrowdStrike participates in the E\\-Verify program.
+   
+
+  
+
+ Notice of E\\-Verify Participation
+   
+
+  
+
+ Right to Work
+   
+
+  
+
+ CrowdStrike, Inc. is committed to fair and equitable compensation practices. Placement within the pay range is dependent on a variety of factors including, but not limited to, relevant work experience, skills, certifications, job level, supervisory status, and location. The base salary range for this position for all U.S. candidates is $120,000 \\- $180,000 per year, with eligibility for bonuses, equity grants and a comprehensive benefits package that includes health insurance, 401k and paid time off.
+   
+
+  
+
+ For detailed information about the U.S. benefits package, please click here.
+   
+
+  
+
+ ,
+   
+
+  
+
+****Bonus Points:****
+* Existing exposure to Go, AWS, Cassandra, Kafka, Elasticsearch.
+* Prior experience in the cybersecurity or intelligence fields.","Computer and Network Security","https://www.linkedin.com/company/crowdstrike","https://media.licdn.com/dms/image/v2/C560BAQFxQkzeHZxIYg/company-logo_100_100/company-logo_100_100/0/1633985771178/crowdstrike_logo?e=2147483647&v=beta&t=7TeodHVOuBXCNYfZBj65JvaqHKl0yY9VsRaTEj8ISQA","","","","","","","","","","",""
+"li-4331405931","linkedin","https://www.linkedin.com/jobs/view/4331405931","","Global Infrastructure Engineer","Meta","Aiken, SC","2025-11-20","fulltime","","","","","",False,"not applicable","Information Technology","","-ext@fb.com","The Site Operations team is responsible for the delivery of data center compute and storage at Meta, enabling our family of apps and services to support a growing global community. We are seeking a forward\\-thinking individual skilled across multiple disciplines to lead global initiatives on this team. The mission of this role is to identify and tackle the biggest technical and operational challenges and opportunities before SiteOps. The Infrastructure Engineer is expected to personally advance our highest impact initiatives, and to work with others to closure through the right working groups and delegates. The scope of the role is Infra\\-wide; the DC Infra Engineer is expected to work with the data center teams, Core Systems, CEA, PE, and hardware engineering to architect and implement adaptable solutions that transform our infrastructure in dimensions including performance, efficiency, quality, and resiliency. Areas of emphasis include next gen platforms, tools, and technologies; the interplay between our platforms and data centers; and the underlying architecture of our infrastructure including physical vs logical layer trade\\-offs.
+   
+
+  
+
+ Global Infrastructure Engineer Responsibilities:
+   
+
+  
+
+* Represent Site Operations in leading work to define and architect new solutions on global initiatives, working with stakeholders across Infra Data Centers \\& Infrastructure teams
+* Assemble and lead teams to address complex engineering challenges, requiring technical expertise as well as a broad understanding of Meta’s overall infrastructure
+* Address issues that can be ambiguous and global in nature, requiring leadership and collaboration across time zones, teams, and technical domains
+* Act as key SME and mentor in the design, operation, and troubleshooting of tools, technologies, and processes utilized within Site Operations
+* Understand and assess risks and challenges associated with emerging new hardware, data center and software technologies, and define \\& implement effective mitigations for these
+* Employ a holistic understanding of the full infrastructure stack to lead solutions that appropriately balance physical and logical layer
+* Act as a global communication and advisory point of contact for the design, implementation and delivery of projects that affect our global data center and server fleet and facilitate resolution of issues drawing on local expertise and global support partners
+* Leverage data\\-driven methodologies to understand a problem at the onset, define a plan, and measure progress throughout a project
+* Provide data supplied narratives and ensure a focus on continuous improvement
+* Build and support, trusted, cross\\-functional connections with teams across the globe and serve as an advocate for the Site Operations Team with key stakeholders, influencing policies and procedures to improve global data center operations
+* Approximately 20% \\- 30% travel
+
+
+ Minimum Qualifications:
+   
+
+  
+
+* Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
+* Knowledge of the full stack of infrastructure, with experience building or operating logical infrastructure on top of a complex, distributed physical infrastructure
+* Proven communication skills and experience working in a highly distributed environment, across teams/department boundaries
+* 10\\+ years of technical experience, in a large\\-scale data center or IT Infrastructure environment, or equivalent experience building platforms and systems for large scale compute
+* Experience building globally scalable solutions and translating global strategic initiatives into local executable projects
+* Knowledge of the interdependencies of data center functions and technologies including electrical, cooling, structured cabling, security, network, server and storage systems
+* Experience building, operating, and scaling with Linux or Unix Operating systems
+* Experience communicating the results of analysis and insights to cross functional teams and influencing the strategy of these teams
+* Experience with Data Center Design and Expansion
+
+
+ Preferred Qualifications:
+   
+
+  
+
+* Extensive knowledge of storage and AI/ML related services and the hardware that supports them
+* Coding or scripting experience such as Bash, PHP, Python, SQL, or Perl
+* Experience in providing technical guidance to external vendors and partners. Knowledge and experience with virtualization, containerization, distributed systems, fault tolerance, and incident management
+* Experience with high level data center design, operations, basic electrical/mechanical infrastructure, and scaling physical infrastructure
+
+
+ About Meta:
+   
+
+  
+
+ Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+   
+
+  
+
+ Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E\\-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+   
+
+  
+
+ Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations\\-ext@fb.com.
+   
+
+  
+
+ $191,000/year to $262,000/year \\+ bonus \\+ equity \\+ benefits
+   
+
+  
+
+ Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.","Technology, Information and Internet","https://www.linkedin.com/company/meta","https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=2147483647&v=beta&t=wKpKTUGAcanUzVRxCutYYO3NJ_Etr5c4n2AbPyOu260","","","","","","","","","","",""
+"li-4323624054","linkedin","https://www.linkedin.com/jobs/view/4323624054","","US Tech - Senior Developer","PwC","Columbia, SC","2025-11-20","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Specialty/Competency:** 
+ Software Engineering
+   
+
+  
+
+**Industry/Sector:** 
+ Not Applicable
+   
+
+  
+
+**Time Type:** 
+ Full time
+   
+
+  
+
+**Travel Requirements:** 
+ Up to 20%
+   
+
+  
+
+ At PwC, our people in software and product innovation focus on developing cutting\\-edge software solutions and driving product innovation to meet the evolving needs of clients. These individuals combine technical experience with creative thinking to deliver innovative software products and solutions. Those in software engineering at PwC will focus on developing innovative software solutions to drive digital transformation and enhance business performance. In this field, you will use your knowledge to design, code, and test cutting\\-edge applications that revolutionise industries and deliver exceptional user experiences.
+   
+
+  
+
+ Enhancing your leadership style, you motivate, develop and inspire others to deliver quality. You are responsible for coaching, leveraging team member’s unique strengths, and managing performance to deliver on client expectations. With your growing knowledge of how business works, you play an important role in identifying opportunities that contribute to the success of our Firm. You are expected to lead with integrity and authenticity, articulating our purpose and values in a meaningful way. You embrace technology and innovation to enhance your delivery and encourage others to do the same.
+   
+
+  
+
+**Skills**
+ Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:
+   
+
+  
+
+* Analyse and identify the linkages and interactions between the component parts of an entire system.
+* Take ownership of projects, ensuring their successful planning, budgeting, execution, and completion.
+* Partner with team leadership to ensure collective ownership of quality, timelines, and deliverables.
+* Develop skills outside your comfort zone, and encourage others to do the same.
+* Effectively mentor others.
+* Use the review of work as an opportunity to deepen the expertise of team members.
+* Address conflicts or issues, engaging in difficult conversations with clients, team members and other stakeholders, escalating where appropriate.
+* Uphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements.
+
+
+ The Opportunity
+   
+
+  
+
+ As part of the Software and Product Innovation team you will lead the development of innovative software solutions while managing a talented team of developers. As a Manager you will supervise, develop, and coach your team, promoting quality deliverables that meet client expectations and contribute to the firm's success. This role offers the chance to embrace technology and innovation, while also mentoring junior staff and driving strategic planning initiatives.
+   
+
+  
+
+**Responsibilities**
+* Facilitate the delivery of quality work that meets client needs
+* Embrace and implement new technologies and innovations
+* Manage project timelines and budgets effectively
+* Foster a collaborative and inclusive team environment
+* Utilize various technical tools and methodologies to streamline processes
+
+
+ What You Must Have
+   
+
+  
+
+* Bachelor's Degree
+* At least 6 years of experience
+* Bachelor's degree or in lieu of a degree, for each year of college not completed, demonstrate three years of specialized training and/or progressively responsible work experience in technology, in addition to the minimum years of experience required for the role.
+
+
+ What Sets You Apart
+   
+
+  
+
+* Bachelor's degree or equivalent experience preferred
+* Demonstrating proficiency in AI prompting
+* Excelling in communication and team leadership
+* Exhibiting experience with micro services and micro front ends
+* Understanding error handling and form field validation
+* Showcasing experience with REST APIs and authentication
+* Displaying experience in Angular, .NET/C\\#, and SQL Server
+* Utilizing DevOps and cloud technologies
+* Possessing experience with application integration and security
+
+
+ Learn more about how we work: https://pwc.to/how\\-we\\-work
+   
+
+  
+
+ PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H\\-1B lottery, except as set forth within the following policy: https://pwc.to/H\\-1B\\-Lottery\\-Policy.
+   
+
+  
+
+ As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.
+   
+
+  
+
+ For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.
+   
+
+  
+
+ The salary range for this position is: $73,500 \\- $244,000, plus individuals may be eligible for an annual discretionary bonus. For roles that are based in Maryland, this is the listed salary range for this position. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits\\-at\\-a\\-glance","Accounting, Financial Services, and Business Consulting and Services","https://uk.linkedin.com/company/pwc","https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_100_100/B4EZaB6j58H0AQ-/0/1745936334912/pwc_logo?e=2147483647&v=beta&t=stNIhYwMNfiRmzhcYIuKvLl6j-_E5sJ8JNb3x27Tv1s","","","","","","","","","","",""
+"li-4323312672","linkedin","https://www.linkedin.com/jobs/view/4323312672","","Software Engineer","Pearson","Columbia, SC","2025-11-19","fulltime","","","","","",True,"not applicable","Engineering and Information Technology","","TalentExperienceGlobalTeam@grp.pearson.com","**Organization Summary**
+ At Pearson, we are committed to a world that is always learning and to our talented team who makes it all possible.  We are bold thinkers and standout innovators who push the boundaries of technology. We create seeds of learning that become the catalyst for the world’s innovations. Within the Pearson Virtual Schools (PVS) division we have reimagined K\\-12 education through our virtual school and curriculum offerings. Our schools, Connections Academy and Pearson Online Academy, provide a best\\-in\\-class online learning environment for K\\-12 students to acquire the skills and confidence they need to adapt and thrive in a changing world.  We also support school districts with curriculum, teachers, and technology as they make the shift to online. The COVID\\-19 pandemic introduced significant disruption and transformation to the K\\-12 learning market. And as a result, our category has seen explosive growth, and our business has experienced enormous increases in awareness and enrollment. This presents an incredible opportunity for our team to chart a ground\\-breaking path through this shifting environment to achieve continued success.
+   
+
+  
+
+**Position Summary**
+**Pearson Virtual Schools is seeking a mission\\-driven software engineer with a passion for innovation and problem\\-solving.** 
+ This role is ideal for someone who thrives on exploring new technologies, values scalable and efficient solutions, and is committed to delivering exceptional customer experiences. As a key member of our team, you will contribute to the evolution of our K–12 online learning platform by building new features, enhancing existing functionality, and driving meaningful impact in digital education.
+   
+
+  
+
+**Core Tasks And Responsibilities**
+ Design and deliver high\\-quality software solutions using appropriate technologies, aligned with business goals, architectural standards, and engineering best practices.
+   
+
+  
+
+ Leverage modern development tools and emerging technologies, including AI\\-powered solutions, to accelerate delivery, enhance code quality, and drive innovation throughout the software lifecycle.
+   
+
+  
+
+ Evaluate technical alternatives and collaborate with cross\\-functional teams to determine and implement the most effective solutions.
+   
+
+  
+
+ Embrace and execute Agile methodologies to foster collaboration, transparency, and continuous delivery across the development lifecycle.
+   
+
+  
+
+ Document solutions at a level that supports clarity, collaboration, and long\\-term maintainability. Focus on capturing key design decisions, implementation details, and rationale to ensure shared understanding across the team and continuity over time.
+   
+
+  
+
+ Actively pursue technical growth through structured training opportunities, including courses, workshops, and certifications, while also staying informed through industry literature and peer engagement.
+   
+
+  
+
+ Support departmental and organizational goals by proactively contributing to initiatives and tasks that enhance engineering practices and operational efficiency.
+   
+
+  
+
+ Provide support for occasional system issues, including off\\-hours incidents, and coordinate team responses.
+   
+
+  
+
+**Required Skills, Experience, And Competencies**
+ Ability to develop object\\-oriented Web applications, preferably using C\\#/.NET.
+   
+
+  
+
+ Familiarity with JavaScript and modern web frameworks (e.g. React, Angular, Node.js).
+   
+
+  
+
+ Understanding of microservices architecture and building RESTful APIs.
+   
+
+  
+
+ Basic knowledge of SQL and relational databases.
+   
+
+  
+
+ Awareness of cloud computing concepts and technologies; exposure to platforms like AWS or Azure is a plus.
+   
+
+  
+
+ Basic understanding of AI and machine learning concepts.
+   
+
+  
+
+ Ability to integrate AI\\-powered features into applications to enhance functionality.
+   
+
+  
+
+ Capability to proactively use AI\\-assisted tools to improve engineering workflows, such as code generation, debugging, documentation, or task automation, to accelerate individual and team productivity.
+   
+
+  
+
+ Familiarity with the software development lifecycle and version control systems like Git.
+   
+
+  
+
+ Exposure to CI/CD practices, especially using tools like GitHub Actions or Azure Pipelines.
+   
+
+  
+
+ Experience with work item tracking tools (e.g. Jira, Azure DevOps).
+   
+
+  
+
+ Willingness to learn and apply Agile methodologies, particularly Scrum, including active participation in sprint planning, stand\\-ups, and retrospectives.
+   
+
+  
+
+ Understanding of Test\\-Driven Development (TDD) concepts.
+   
+
+  
+
+ Strong problem\\-solving skills with the ability to work independently and ask for help when needed.
+   
+
+  
+
+ Ability to work and collaborate effectively in a remote team environment.
+   
+
+  
+
+ Clear and professional verbal and written communication skills.
+   
+
+  
+
+ Attention to detail and commitment to writing clean, maintainable code.
+   
+
+  
+
+ Eagerness to learn and grow through feedback and mentorship.
+   
+
+  
+
+ Reliable high\\-speed internet access for remote work.
+   
+
+  
+
+**Key Behaviors**
+**Mission\\-Driven Mindset** 
+ : You care deeply about people and our mission. You prioritize collaboration with teammates, internal partners, and customers, and strive to contribute meaningfully to shared goals.
+   
+
+  
+
+**Active Listener** 
+ : You seek diverse perspectives, ask thoughtful questions, and remain open to learning new approaches and better ways of working.
+   
+
+  
+
+**Initiative and Ownership** 
+ : You take action when you see a problem, even if it’s outside your immediate scope. You’re eager to contribute and learn by doing, and you support others in finding solutions.
+   
+
+  
+
+**Courage to Grow** 
+ : You welcome new challenges, take calculated risks, and embrace opportunities to improve yourself, your team, and the customer experience.
+   
+
+  
+
+**Respectful Communication** 
+ : You engage in honest conversations with empathy and professionalism, even when the topics are difficult.
+   
+
+  
+
+**Proactive Contributor** 
+ : You stay alert to potential issues and work with your team to address them early, learning to anticipate needs and act with purpose.
+   
+
+  
+
+**Adaptability** 
+ : You respond positively to change and help your team navigate it, always keeping the customer’s best interest in mind.
+   
+
+  
+
+**Team\\-Oriented Collaboration** 
+ : You value input from others, technical and non\\-technical, and communicate clearly to bridge gaps and build shared understanding.
+   
+
+  
+
+**Attention to Detail** 
+ : You take pride in the quality of your work, ensuring accuracy and reliability in everything you build or support.
+   
+
+  
+
+*Applications will be accepted through 11/24/2025\\. This window may be extended depending on business needs.*
+ Compensation at Pearson is influenced by a wide array of factors including but not limited to skill set, level of experience, and specific location. As required by the California, Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, New York State, New York City, Vermont, Washington State, and Washington DC laws, the pay range for this position is as follows:
+   
+
+  
+
+ The minimum full\\-time salary range is between $85,000 \\- $100,000\\.
+   
+
+  
+
+ This position is eligible to participate in an annual incentive program, and information on benefits offered is here.
+   
+
+  
+
+**Who We Are**
+ At Pearson, our purpose is simple: to help people realize the life they imagine through learning. We believe that every learning opportunity is a chance for a personal breakthrough. We are the world's lifelong learning company. For us, learning isn't just what we do. It's who we are. To learn more: We are Pearson.
+   
+
+  
+
+ Pearson is an Equal Opportunity Employer and a member of E\\-Verify. Employment decisions are based on qualifications, merit and business need. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, sexual orientation, gender identity, gender expression, age, national origin, protected veteran status, disability status or any other group protected by law. We actively seek qualified candidates who are protected veterans and individuals with disabilities as defined under VEVRAA and Section 503 of the Rehabilitation Act.
+   
+
+  
+
+ If you are an individual with a disability and are unable or limited in your ability to use or access our career site as a result of your disability, you may request reasonable accommodations by emailing TalentExperienceGlobalTeam@grp.pearson.com.
+   
+
+  
+
+**Job:** 
+ Engineering
+   
+
+  
+
+**Job Family:** 
+ TECHNOLOGY
+   
+
+  
+
+**Organization:** 
+ Virtual Learning
+   
+
+  
+
+**Schedule:** 
+ FULL\\_TIME
+   
+
+  
+
+**Workplace Type:** 
+ Remote
+   
+
+  
+
+**Req ID:** 
+ 21664
+   
+
+  
+
+ \\#location","Education Administration Programs and E-Learning Providers","https://uk.linkedin.com/company/pearson","https://media.licdn.com/dms/image/v2/D4E0BAQG9W4lfcWc9dQ/company-logo_100_100/B4EZYPofEYHkAQ-/0/1744018993869/pearson_logo?e=2147483647&v=beta&t=tatnP8PCFOON7lKpbmG0JRCF4QYNwFaondEAOnunhUs","","","","","","","","","","",""
+"li-4319551506","linkedin","https://www.linkedin.com/jobs/view/4319551506","","Software Developer II","CompuGroup Medical SE & Co. KGaA","Columbia, SC","2025-11-19","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Create the future of e\\-health together with us by becoming a Software Developer II**
+ At CompuGroup Medical we have the mission of building ground\\-breaking solutions for digital healthcare. Our vision is revolutionizing how healthcare professionals produce, access, and utilize information and thus enabling them to focus on the core value of their work: patient outcomes.
+   
+
+  
+
+**Your Contribution**
+* Maintain and support existing applications.
+* Write, document and test new applications.
+* Work closely with team lead and other members in understanding the coding standards and architectural practices.
+* Work closely with team lead and other members in understanding our business processes.
+* Strong familiarity with Agile Software Development such as Scrum.
+* Provide production support of existing applications.
+* Must respond quickly to critical issues and may be required to provide support after hours.
+
+
+**Your Qualification**
+* Undergraduate degree in Computer Science/Related field required with minimum 2 years of experience or 5 years of equivalent experience.
+* Minimum 2 years of Java programming, web development including JSP, HTML, and CSS required.
+* Minimum 2 years of experience interacting with relational databases (PostgreSQL) required.
+* Minimum 2 year of experience using Spring/Hibernate Frameworks and minimum 1 year experience using Liferay Portal Web platform preferred.
+* Minimum 1 year experience with Angular, Typescript preferred.
+* Solid understanding of Object Oriented Programming concepts and practices.
+* Strong working knowledge of X12 is preferred.
+* Proven track record of hands\\-on technical design and code work within large complex systems.
+
+
+*Location: Columbia, South Carolina*
+**What You Can Expect From Us**
+* Purpose: Become a part of a significant initiative. At the intersection of healthcare and digital innovation, we are shaping the future of e\\-health.
+* Equal Opportunity Employer: At CGM, we value our team members and strive to create an environment where everyone has the opportunity to succeed.
+* Career Opportunities: We are offering a variety of internal career opportunities and numerous long\\-term perspectives.
+* Security: We offer a secure workplace in a crisis\\-proof market.
+* All\\-round benefits package: Medical, Dental and Vision as well as 401k with employer matching. Personal Time Off to promote work life balance.
+* Work environment: Modern workplaces, flexible working hours, hybrid work options and much more.
+
+
+ Convinced? Submit your application now! Please make sure to include your salary expectations as well as your earliest possible hire date.
+   
+
+  
+
+**We create the future of e\\-health.** 
+ Join us in a cause that shapes the very future of hope and healing. At the powerful crossroads of healthcare and innovation, we are passionately building the next chapter of e\\-health—a revolution that saves lives, transforms care, and brings compassion into the digital age. Together, we can make a lasting difference.","IT Services and IT Consulting","https://de.linkedin.com/company/compugroup-medical-ag","https://media.licdn.com/dms/image/v2/C560BAQE7bxVRmSyzoQ/company-logo_100_100/company-logo_100_100/0/1630576476267/compugroup_medical_ag_logo?e=2147483647&v=beta&t=Bo1rNJu4lMuD5oGk5Cqyln-8o8frPcDohD8V2sozmnY","","","","","","","","","","",""
+"li-4331312617","linkedin","https://www.linkedin.com/jobs/view/4331312617","","Developer III","Hansen Talent Group (HTG)","Columbia, SC","2025-11-19","contract","","","","","",True,"mid-senior level","Information Technology","","","Hansen Talent Group is seeking a
+ **Developer III** 
+ to join a large enterprise team in
+ **Columbia, SC** 
+ . The Developer III will design, build, and enhance web applications while collaborating closely in an agile, team\\-oriented environment.  This is a partially remote role requiring 3 days/week onsite. 
+ 
+
+
+
+**What You’ll Do:** 
+
+
+
+* Perform all phases of application system analysis, design, coding, testing, debugging, and documentation.
+* Develop and modify complex applications based on detailed specifications.
+* Maintain and enhance existing systems, ensuring quality, timeliness, and adherence to organizational standards.
+* Analyze system interrelationships and recommend technical solutions or enhancements.
+* Collaborate with team members to understand business requirements and deliver scalable, user\\-focused applications.
+* Provide support, troubleshooting, and documentation for production systems.
+
+
+
+**What You Need:** 
+
+
+
+
+  
+ 
+
+
+* Application development or systems testing experience.
+* Strong knowledge of
+ **JavaScript, HTML, CSS** 
+ , and
+ **Vue.js** 
+**or** 
+
+**React**
+* Familiarity with
+ **Node.js** 
+ ,
+ **OpenShift** 
+ , or
+ **UX design** 
+ is a plus.
+* Strong analytical, problem\\-solving, and communication skills.
+* Experience in agile environments and ability to collaborate effectively in a team setting.","IT Services and IT Consulting","https://www.linkedin.com/company/hansen-talent-group-htg-","https://media.licdn.com/dms/image/v2/C4E0BAQGH1bJ1r2Psaw/company-logo_100_100/company-logo_100_100/0/1630568435477/hansen_talent_group_htg__logo?e=2147483647&v=beta&t=m0LD2XcJDz8DmFLMiTrfakDPl4_aFVnhWrJIB6ThM_0","","","","","","","","","","",""
+"li-4341950479","linkedin","https://www.linkedin.com/jobs/view/4341950479","","Internet / Web Engineer","Elegant Enterprise-Wide Solutions, Inc.","South Carolina, United States","2025-11-19","contract","","","","","",True,"mid-senior level","Consulting, Human Resources, and Information Technology","","","**About this Position:** 
+
+
+
+
+  
+
+
+
+
+
+**Job Title: Internet / Web Engineer** 
+
+
+
+
+  
+
+
+
+
+
+**Daily Duties / Responsibilities:** 
+
+
+
+* RUBY AND JAVASCRIPT DEVELOPMENT, USING RAILS, WRITING TESTS, DEMONSTRATING WORK COMPLETED TO CUSTOMER IN MEETINGS, PROVIDING DAILY STATUS UPDATES TO TEAM, FOLLOWING CHANGE MANAGEMENT WORKFLOWS, ASSISTING HELP DESK WITH DEBUGGING USER ISSUES, PRESENCE ON OUR INTERNAL MESSAGING SYSTEM DURING WORK HOURS.
+
+
+
+  
+
+
+
+
+
+**Required Skills:** 
+
+
+
+* RUBY \\- 3\\+ years.
+* RAILS \\- 3\\+ years.
+* GIT \\- 3\\+ years.
+* JAVASCRIPT \\- 3\\+ years.
+* Web Security \\- 3\\+ years.
+* MYSQL \\- 3\\+ years.
+
+
+
+  
+
+
+
+
+
+**Preferred Skills:** 
+
+
+
+* JSON, COMMAND LINE, SQL, SSH, HAML, SCSS, VUE.JS, ABILITY TO WORK INDEPENDENTLY, PRIOR EXPERIENCE WORKING AS A REMOTE CANDIDATE.
+
+
+
+  
+
+
+
+
+
+**Required Education:** 
+
+
+
+* BACHELOR’S DEGREE PREFERRED.
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+***Note: For H\\-1B and OPT cases, we are seeking candidates from recognised organizations.***
+
+
+
+
+  
+
+
+
+
+
+***""No phone calls please.""***","Staffing and Recruiting, IT Services and IT Consulting, and Software Development","https://www.linkedin.com/company/elegant-enterprise-wide-solutions-inc","https://media.licdn.com/dms/image/v2/C4D0BAQEWGnzUkn6Wbg/company-logo_100_100/company-logo_100_100/0/1630548479824?e=2147483647&v=beta&t=ZNrScy824vb_fSA6_xK7VJjfRuRqqxP8bNrsHRih4Fo","","","","","","","","","","",""
+"li-4323267026","linkedin","https://www.linkedin.com/jobs/view/4323267026","","Systems Engineer II","State of South Carolina","Columbia, SC","2025-11-19","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Job Responsibilities**
+**The South Carolina Law Enforcement Division (SLED) is seeking a highly skilled Senior Systems Engineer to provide advanced\\-level design, implementation, and support of the agency’s enterprise IT infrastructure. This position is responsible for ensuring the security, performance, and high availability of SLED’s critical technology systems across on\\-premises, cloud, and hybrid environments.**
+**About SLED**
+ The South Carolina Law Enforcement Division (SLED) is a premier statewide law enforcement agency dedicated to serving and protecting the citizens of South Carolina. With a proud history rooted in integrity, professionalism, and public service, SLED is committed to providing high\\-quality investigative, intelligence, and forensic services to support law enforcement agencies across the state.
+   
+
+  
+
+ At SLED, we value dedication, ethical conduct, accountability, and a strong commitment to justice. Our agency plays a vital role in maintaining public safety and supporting criminal justice efforts at the local, state, and federal levels. From advanced forensic science to homeland security, criminal investigations, and criminal justice information systems, SLED's diverse responsibilities make it one of the most dynamic law enforcement agencies in the state.
+   
+
+  
+
+ We foster a professional work environment where teamwork, respect, and continuous improvement are fundamental. Our employees are held to the highest standards and are given opportunities to grow within a mission\\-driven organization that makes a meaningful difference in South Carolina communities.
+   
+
+  
+
+ Learn more about why you should join our team at www.sled.sc.gov .
+   
+
+  
+
+**General Responsibilities**
+ Provide advanced\\-level direction to SLED in the use of information technology. Design, configure, install, monitor, and support the agency's server, storage, and cloud environments on an advanced level. Ensures high availability, security, and performance of IT systems by implementing best practices, optimizing resources, and leading infrastructure projects. Oversee the security, integrity, and safety of critical IT systems.
+   
+
+  
+
+**Specific Duties**
+* Lead the architecture, configuration, installation, monitoring, and maintenance of SLED’s server, storage, virtualization, and cloud environments.
+* Manage and optimize Active Directory, Exchange / M365, Azure AD / Entra ID, Intune, DNS, DHCP, SQL, storage, and backup platforms to ensure maximum performance and reliability.
+* Serve as the technical lead for infrastructure modernization projects, coordinating with vendors, evaluating technologies, providing quotes, and implementing enterprise solutions.
+* Administer and enhance system security by enforcing patching, hardening, backup, and recovery strategies in alignment with agency and state cybersecurity policies.
+* Conduct research and make recommendations on emerging technologies to improve infrastructure scalability, automation, and cost efficiency.
+* Mentor and train the systems engineering team by providing technical guidance and leadership on troubleshooting, design, and best practices.
+* Develop and maintain system documentation, including configuration standards, procedures, and disaster\\-recovery plans.
+* Respond to critical incidents, lead incident resolution, and post\\-incident reviews.
+* Perform other related duties as assigned to support SLED’s mission and IT infrastructure operations.
+
+
+**Minimum And Additional Requirements**
+* A bachelor’s degree in computer science, information systems, or a related field and a minimum of five (5\\) years of experience supporting enterprise\\-class virtual and physical Windows server environments. Related experience may be substituted for the bachelor's degree on a year\\-for\\-year basis.
+* Advanced, hands\\-on experience with the following technologies is required:
++ Windows Server OS, Active Directory, DNS, DHCP, Group Policy \\- VMware vSphere / ESXi or Hyper\\-V
++ Microsoft 365 / Exchange Online, Azure AD / Entra ID, Intune
++ SQL Server, SAN / NAS storage, and enterprise backup solutions
++ Hybrid or cloud environments (Azure preferred)
+
+* Must have a strong understanding of IT security best practices, including patching, hardening, compliance, disaster recovery, and data protection.
+* A demonstrated ability to lead complex infrastructure projects, evaluate new technologies, and provide technical mentorship.
+* Excellent communication and documentation skills with the ability to work effectively across technical and non\\-technical teams is required.
+* Must be able to lift 50 pounds.
+* Must successfully complete a fingerprint background check.
+* Position requires participation in a rotating 24/7 on\\-call schedule and may involve occasional overnight travel.
+
+
+**Preferred Qualifications**
+* Professional certifications such as VMware VCP, Azure Administrator/Architect, other Microsoft certificates, or equivalent.
+* Experience with PowerShell, Terraform, or Ansible for automation and infrastructure\\-as\\-code.
+* Familiarity with container technologies (Docker / Kubernetes) and modern cloud architectures.
+* Experience in a law enforcement or public safety IT environment.
+
+
+**Additional Comments**
+ South Carolina Law Enforcement Division (SLED) is committed to providing equal employment opportunities to all applicants and does not discriminate on the basis of race, color, religion, sex (including pregnancy, childbirth, or related medical conditions, including, but not limited, to lactation), national origin, age (40 or older), disability or genetic information.
+   
+
+  
+
+**SLED offers an exceptional benefits package for FTE positions that includes:**
+* Health, Dental, Vision, Long Term Disability, and Life Insurance for Employee, Spouse, and Children
+* 15 days annual (vacation) leave per year
+* 15 days sick leave per year
+* 13 paid holidays
+* Paid Parental Leave
+* State Retirement Plan and Deferred Compensation Programs
+
+
+ Supplemental questions are considered part of the official application. Any misrepresentation of yourself may be grounds for disqualification.
+   
+
+  
+
+ Conditional selection based on candidate education, training, experience, oral interviews and clearance of background investigation.","Government Administration","https://www.linkedin.com/company/state-of-south-carolina","https://media.licdn.com/dms/image/v2/C4D0BAQHSxVRGckParA/company-logo_100_100/company-logo_100_100/0/1630569727142/state_of_south_carolina_logo?e=2147483647&v=beta&t=0gsmoM4icoID-DrRqIaVbMOMKqJOxS2o9LZ4Ws8smUk","","","","","","","","","","",""
+"li-4347000480","linkedin","https://www.linkedin.com/jobs/view/4347000480","","Senior Programmer","IQHector Technologies LLC.","Blythewood, SC","2025-11-19","contract","","","","","",False,"mid-senior level","Information Technology","","","**Daily Duties / Responsibilities:** 
+
+
+
+
+ 1\\. Analyze The Scdmv Phoenix Ii, Web Service, And Batch Business Applications
+ 
+
+
+
+ 2\\. Take The Lead In Analyzing And Trouble\\-Shooting Assigned System Problems
+ 
+
+
+
+ 3\\. Propose Solutions
+ 
+
+
+
+ 4\\. Code, Test, Promote, And Interact With Impacted Users Ensuring That Solution Meets Requirements.
+ 
+
+
+
+ 5\\. Provide Daily And Weekly Status To The Development Manager.
+ 
+
+
+
+  
+
+
+
+
+
+**Required Skills:** 
+
+
+
+
+ Bachelor's degree in Information Technology or related discipline with eight years of experience. Ten\\-years of experience without bachelor's degree acceptable.
+ 
+
+
+
+ 8 to 10 years of full stack system development in a complex and mission critical three\\-tier system development environment spanning COBOL, .Net, Web/Mobile, Oracle and MS SQL Server.
+ 
+
+
+
+ Strong DevSecOps skills and familiarity including formal release management processes, comprehensive testing (not just ""Happy Path""), and strong collaboration and coaching skills.
+ 
+
+
+
+ COBOL development with MICROFOCUS Visual COBOL using Visual Studio 2019/2022 in Windows Server 2022 under IIS. (MICROFOCUS Visual COBOL V7, V9, or higher strongly preferred)
+ 
+
+
+
+ Application programming against RDBMS (Oracle, MS SQL Server).
+ 
+
+
+
+ Visual Studio 2019 and higher – Debugging
+ 
+
+
+
+ Microsoft Team Foundation Server
+ 
+
+
+
+ Microsoft C\\# .NET
+ 
+
+
+
+ SQL for Oracle DB and MS SQL Server
+ 
+
+
+
+ IIS configuration/setup
+ 
+
+
+
+ MicroFocus certifications
+ 
+
+
+
+ DevSecOps certifications
+ 
+
+
+
+  
+
+
+
+
+
+**Only GC and USC's**","IT Services and IT Consulting","https://www.linkedin.com/company/iqhector-technologies-llc","https://media.licdn.com/dms/image/v2/C4D0BAQF8AfO2YqfHpw/company-logo_100_100/company-logo_100_100/0/1636758884846?e=2147483647&v=beta&t=zPlSX2tD8IAA16ihs9AXHRlaX7DMgEVJosUiWJTPAVI","","","","","","","","","","",""
+"li-4336918916","linkedin","https://www.linkedin.com/jobs/view/4336918916","","Freelance Software Developer (Rust) - Quality Assurance (AI Trainer)","Mindrift","South Carolina, United States","2025-11-19","parttime","","","","","",True,"mid-senior level","Other","","","***This opportunity is only for candidates currently residing in the specified country. Your location may affect eligibility and rates. Please submit your resume in English and indicate your level of English.***
+ At Mindrift, innovation meets opportunity. We believe in using the power of collective intelligence to ethically shape the future of AI.
+   
+
+  
+
+**What We Do**
+ The Mindrift platform connects specialists with AI projects from major tech innovators. Our mission is to unlock the potential of Generative AI by tapping into real\\-world expertise from across the globe.
+   
+
+  
+
+**About The Role**
+ GenAI models are improving very quickly, and one of our goals is to make them capable of addressing specialized questions and achieving complex reasoning skills. If you join the platform as an AI Tutor in Coding, you'll have the opportunity to collaborate on these projects.
+   
+
+  
+
+ Although every project is unique, you might typically:
+   
+
+  
+
+* Code generation and code review
+* Prompt evaluation and complex data annotation
+* Training and evaluation of large language models
+* Benchmarking and agent\\-based code execution in sandboxed environments
+* Working across multiple programming languages (Python, JavaScript/TypeScript, Rust, SQL, etc.)
+* Adapting guidelines for new domains and use cases
+* Following project\\-specific rubrics and requirements
+* Collaborating with project leads, solution engineers, and supply managers on complex or experimental projects
+
+
+**How To Get Started**
+ Simply apply to this post, qualify, and get the chance to contribute to projects aligned with your skills, on your own schedule. From creating training prompts to refining model responses, you'll help shape the future of AI while ensuring technology benefits everyone.
+   
+
+  
+
+**Requirements**
+* You hold a Bachelor's degree in Computer Science, Software Engineering, or related field
+* You have at least 3 years of professional experience, including Rust fundamentals: memory safety (ownership, borrow checker), concurrency, error handling, idiomatic syntax
+* Hands\\-on experience with Rust testing tools (e.g., cargo test, property\\-based testing with quickcheck).
+* Familiarity with Rust tooling (Cargo, Clippy, rustfmt), module and crate management
+* Experience with code review, quality analysis, and identifying/fixing code smells and type issues.⁠
+* Familiarity with test integration in CI/CD environments
+* Experience using, integrating, or tutoring others with AI solutions or LLMs in Rust/test automation contexts.
+* Strong skills in defect documentation, profiling/debugging Hackathon experience is a plus
+* Your level of English is advanced (C1\\) or above
+* You are ready to learn new methods, able to switch between tasks and topics quickly and sometimes work with challenging, complex guidelines
+* Our freelance role is fully remote so, you just need a laptop, internet connection, time available and enthusiasm to take on a challenge
+
+
+**Benefits**
+**Why this freelance opportunity might be a great fit for you?**
+* Get paid for your expertise, with rates that can go up to $60/hour depending on your skills, experience, and project needs
+* Take part in a part\\-time, remote, freelance project that fits around your primary professional or academic commitments
+* Work on advanced AI projects and gain valuable experience that enhances your portfolio
+* Influence how future AI models understand and communicate in your field of expertise","IT Services and IT Consulting","https://www.linkedin.com/company/mindrift-ai","https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_100_100/company-logo_100_100/0/1725448348201/mindrift_ai_logo?e=2147483647&v=beta&t=QWIMS9k-I4kkSKVcx06uFCRLdHDZZ1w9E8dWeBmOHCk","","","","","","","","","","",""
+"li-4323257490","linkedin","https://www.linkedin.com/jobs/view/4323257490","","Senior Developer","Meridian Technologies","Columbia, South Carolina Metropolitan Area","2025-11-19","contract","","","","","",False,"mid-senior level","Information Technology","","requests@consultingsolutions.com","**Job Title: Developer IV** 
+
+
+
+
+**Location:** 
+ Columbia, SC
+ 
+
+
+
+**Contract duration: 12 month contract with potential to extend or convert** 
+
+
+
+
+**Job Summary** 
+
+
+
+
+ We are seeking an experienced Senior Developer responsible for designing, building, testing, and maintaining complex business applications. The role focuses on creating and improving software systems, analyzing requirements, solving technical problems, and ensuring applications operate smoothly across multiple platforms. This position also supports the full development life cycle, provides technical guidance to others, and works closely with teams to deliver reliable, high\\-quality solutions.
+ 
+
+
+
+**Responsibilities** 
+ :
+ 
+
+
+* Responsible for analysis, design, programming, and implementation of complex applications tasks and projects.
+* Devise feasible, logical procedures to resolve business problems through the use of computer resources.
+* Formulate scope and objectives through research to develop or modify complex systems.
+* Review detailed specifications and recommend modifications.
+* Design, code, test, and debug complex application programs.
+* Produce deliverables related to the assigned project.
+* Perform analysis, design, programming, and implementation of systems and procedures to solve complex business or scientific problems.
+* Evaluate interrelationships in the immediate programming area to determine how changes in one program will affect another related area.
+* Apply conversions and enhancements to business systems.
+* May lead or provide expertise on assigned projects.
+* Work closely with customers, business analysts, and team members to understand business requirements that drive the analysis and design of quality technical solutions.
+* Ensure solutions are aligned with business and IT strategies and comply with the organization’s architectural standards.
+* Assist in post\\-implementation support and system enhancements.
+* Test modified programs, create necessary test files and data, verify logic, debug, and write relevant documentation.
+* Design and develop IT systems.
+* Devise new sources of data and develop new approaches and techniques.
+* Involved in the full systems life cycle and responsible for designing, coding, testing, implementing, maintaining, and supporting complex application software delivered on time and within budget.
+* Provide guidance to lower\\-level programmers/analysts.
+* Act as an internal consultant by providing technical guidance on complex projects.
+* Determine and resolve problems with other systems analysts, programmers, and systems users.
+* Test designed programs, verify logic, perform any necessary debugging, and write the documentation.
+
+
+
+  
+
+
+
+
+
+**Requirements** 
+
+
+
+
+ Minimum Required Education:
+ 
+
+
+
+ Bachelor's degree\\-in Computer Science, Information Technology or other job related degree.
+ 
+
+
+
+
+
+
+
+ Degree Equivalency:
+ 
+
+
+
+ 4 years of job related work experience or 2 years of job related experience plus an associate’s degree in Computer Science, Information Technology or other job related degree
+ 
+
+
+
+
+
+
+
+ Minimum Required Work Experience:
+ 
+
+
+
+ 6 years\\-of application development, systems testing or other job related experience.
+ 
+
+
+
+
+
+
+
+ Required Technologies:
+ 
+
+
+
+ • JavaScript language experience
+ 
+
+
+
+ • 2\\+ years of experience with Salesforce’s Business Rules Engine
+ 
+
+
+
+ • 6\\+ years of experience in OmniStudio components (Data Raptors, OmniScripts, Integration Procedures, Flex Cards, Vlocity Industry Data Models etc.)
+ 
+
+
+
+ • 6\\+ years of experience with native config, Apex, LWC, VisualForce
+ 
+
+
+
+**Screening questions:** 
+
+
+
+
+ Do you now or in the future require sponsorship (e.g. H\\-1B)? Y/N
+ 
+
+
+
+**EEO and ADA Statement:** 
+
+
+
+
+ Consulting Solutions and its family of companies is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.
+ 
+
+
+
+ If you are a person with a disability needing assistance with the application or at any point in the hiring process, please contact us at:
+ 
+
+
+
+ requests@consultingsolutions.com","Insurance","https://www.linkedin.com/company/meridian-technologies","https://media.licdn.com/dms/image/v2/D4E0BAQGUl7YqFuJNmg/company-logo_100_100/company-logo_100_100/0/1720554149998/meridian_technologies_logo?e=2147483647&v=beta&t=V2zJ1ZGRAaoOh0IfqhxV7jmMOQRtMTIUuGe1BAarxWw","","","","","","","","","","",""
+"li-4323446607","linkedin","https://www.linkedin.com/jobs/view/4323446607","","Design Engineer, Americas","Ashby","North, SC","2025-11-19","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Hi 👋🏾 I’m Abhik, Ashby's Co\\-Founder and VP of Engineering. As someone who could design and build software, this position is close to my heart. I always felt I had a unique perspective because I could play with design ideas and iterate
+ *in code* 
+ . My ideas could start in Figma but then be grounded (or sometimes more creative) in code. My prototypes used actual logic and data. My changes cascaded throughout the app for comprehensive critique (thanks, React component system!). But, every company made me pick one —I couldn’t design
+ *and* 
+ build. At Ashby, you can.
+   
+
+  
+
+ While Every Engineer Can Design And Build, You’ll Tackle Our Most Challenging Design Problems And Help Others Improve Their Designs By Expanding And Enhancing Our In\\-house Design System And Consulting On Bespoke Work. To Ground It With Examples, Engineers Who Can Design At Ashby Have
+   
+
+  
+
+* Redesigned our mobile web app by talking with customers who use it often, wireframing new flows, implementing its design system, and using it to make the wireframes a reality.
+* Built a set of flexible, composable components in our design system that allow other engineers to build custom autocompletes. These autocompletes can contain filters, options to create new records, etc.
+* Helped another engineer improve their design's information hierarchy and scannability for viewing a candidate’s assessments. Recruiters can quickly parse information and pick out anomalies.
+
+
+ These projects reflect what we’re accomplishing at Ashby: improving the productivity of working professionals (starting with talent teams) with intelligent and powerful software. We put a lot of effort into designing products that are approachable to beginners but mastered \\& extended by power users. In many ways, spreadsheets set the bar here.
+   
+
+  
+
+ We have notable customers like Notion, Linear, Shopify, and Snowflake. Our growth and retention metrics are best\\-in\\-class among our peers: we have tens of millions in ARR, growing \\>100% year over year, over 2500 customers, very low churn, and many years of runway. We’ll share more details once we meet, but you now probably have a good idea as to why we're hiring for this role 😅.
+   
+
+  
+
+ What We’re Building
+   
+
+  
+
+ As engineers, we are used to tooling that makes us
+ **better** 
+ at what we do. When we started Ashby, we saw the opposite with Talent Acquisition software. Recruiting teams were leveling up how they did their work, but instead of software meeting this new standard, it held them back.
+   
+
+  
+
+ Scheduling a final round is an excellent example. Recruiting teams wanted to schedule candidates faster, track interviewer preparation and quality, and do it with half the headcount. A recruiter needed to manually collect availability from the candidate, identify qualified interviewers, perform “Calendar Tetris” to find who is available to interview the candidate, schedule on the earliest date possible, and make any last\\-minute adjustments as availability changed. They must do this while considering the interview load on each individual and whether interviewers need to be trained and shadowing others. 🥵 TA software didn’t help.
+   
+
+  
+
+ As hiring managers, we know TA is a critical function, and as engineers, we know software can do better. So, we built and continue to build Ashby to give TA teams the
+ *highest* 
+ standard of tooling. Software that’s intelligent and powerful. Software that provides insights into where they’re failing and automates or simplifies many of the tasks they’re underwater with. We want other functions and departments to be jealous of what TA teams can do with Ashby, and today they often are!
+   
+
+  
+
+ Engineering Culture
+   
+
+  
+
+ Our Engineering Culture Is Motivated By Benji’s (my Co\\-founder And CEO) And My Belief That a Small, Talented Team, Given The Right Environment, Can Build High\\-quality Software Fast (and Work Regular Hours!). We Do It Through
+   
+
+  
+
+* Minimal process with ownership over decisions normally made by product and design
+* Natural collaboration and deliberate communication
+* Investing in tools and abstractions that give us leverage
+* Putting effort into building a diverse team
+
+
+**Minimal Process \\& Lots of Ownership**
+ The best engineers we’ve worked with delivered reliably magical outcomes. They took customer problems and relentlessly drove them to solutions that were not only successful but often brilliant and creative. While they did this with minimal oversight, stakeholders were never in the dark as to what was going on, and no setback was a surprise.
+   
+
+  
+
+ Traditional product\\-development processes aren’t meant for the best engineers. Their purpose is to create consistent outcomes regardless of the engineer’s skill. But, consistency comes at the expense of an engineer’s time and freedom—both ingredients necessary to generate those magical outcomes. As a result, process stifles the best engineers and doesn’t give others the opportunity to practice the behaviors that made the best engineers the “best.”
+   
+
+  
+
+ At Ashby, we want to build an environment that encourages every engineer to be their best. So, at Ashby, every Engineer runs their project. Product Managers (and Designers) build strategy, do customer research, and hand off problem briefs to Engineers. Engineers take on the rest: they research the problem, write product specs, build wireframes, and implement their solution end\\-to\\-end. We rely on engineers, not process, to push information outward to the relevant folks (e.g., Product Managers) and pull folks in to help (e.g., Designers, Infra). It’s a new level of ownership for many engineers, but we’d rather an engineer fail a bit and coach up their skills than use process as a crutch. Not everyone succeeds in our culture, but those who do
+ *thrive* 
+ .
+   
+
+  
+
+**Collaboration is Natural \\& Communication is Deliberate**
+ Our engineering team consists of lifelong learners who are talented but also humble and kind (meet them here!). These attributes create an environment where collaboration happens naturally. We combine this with research, prototyping, and written proposals to see around corners and get feedback from the team across time zones. Focus time is something that we hold sacred, and, with thoughtful and deliberate communication, engineers are in \\<2h meetings per week (I wrote about it here).
+   
+
+  
+
+ To drive it home, here's a recent calendar of an engineer who has been with us for over 4 years:
+   
+
+  
+
+ We also meet in person at least twice a year, once as a department and once as a company. You also have a small budget to meet up with folks in your city/region.
+   
+
+  
+
+**Increase Leverage, not Team Size**
+ We Built Ashby With The Quality, Breadth, And Depth That Many Customers Would Expect From Much Larger Teams Over Larger Time Scales. We’ve Done This Through Investment In
+   
+
+  
+
+* Great developer tooling. Our CI/CD takes \\~10m, and we deploy at least 15x a day. A debugger that works out of the box. Everyone on the team has contributed to our developer experience 💪🏾.
+* Building blocks to create powerful and customizable products fast. At the core of Ashby is a set of common components (analytics modeling and query language, policy engine, workflow engine, design system) that we constantly improve. Each improvement to a common component cascades throughout our app (short video below).
+
+
+**And a Demo Of One Of These Building Blocks**
+ Here’s an impromptu quote from Arjun in our company Slack of what it’s like to build a feature at Ashby:
+   
+
+  
+
+**Put Effort into Diversity**
+ Diverse teams drive innovation and better outcomes. Having seen my mother and partner build their careers as minority women in non\\-diverse fields, I want to make sure Ashby creates opportunities for the next generation of engineers from underrepresented groups.
+   
+
+  
+
+ Today, 21% of engineers at Ashby are from underrepresented groups. It’s not great, and we are taking conscious steps to improve, like sourcing diverse candidates, providing generous paid family leave, no leetcode interviews, and more.
+   
+
+  
+
+**Interview Process**
+ At Ashby, our team and interview process want to help you show your best self. We’ll dive into past projects and simulate working together via pair programming, writing product and tech specs collaboratively, and talking through decisions. There are no leetcode or whiteboard exercises.
+   
+
+  
+
+**Our Interview Process Is Three Rounds**
+* Introduction call with Hiring Manager (15 to 30m, live)
+* A technical screen where we pair in our actual codebase (1h, live)
+* Three non\\-coding interviews that focus on product thinking, technical design, and infrastructure (3h 15m, live can be split across multiple days)
+
+
+ Depending on our leadership team’s bandwidth, we may start with an
+ *additional* 
+ 30m screen with a recruiter.
+   
+
+  
+
+ Your hiring manager will be your main point of contact and prep you for interviews. Each round will have written guidance so you know what to expect (you’ll need minimal preparation). You’ll meet 4 to 6 people in engineering (with 5\\-15 minutes in each interview to ask them questions). If we don’t give an offer, we’ll provide feedback!
+   
+
+  
+
+**Your First Three Months at Ashby**
+ We want an exceptional onboarding experience for every new hire. At Ashby, your dev environment is set up with a single script, you push your first product change on day one, and you spend the rest of your time shipping product changes that give you a tour of our codebase and best practices. The product changes increase in scope and ambiguity from simple copy changes to the delivery of a prominent, impactful feature. Your manager will do a 30, 60, and 90\\-day review to give feedback and calibrate on how we work together.
+   
+
+  
+
+ It’s a team effort to get you successfully onboarded; you’ll have a peer paired with you to answer questions, pair program, and check in often to see if you need help. The rest of the team will run training sessions on our culture, product, engineering process, and technical architecture.
+   
+
+  
+
+**Technology Stack**
+ I’m sharing our tech stack with the caveat that we don’t require previous experience in it (but a love of typed languages is helpful 😀): TypeScript (frontend \\& backend), React, GraphQL API, Node.js, Postgres, Redis.
+   
+
+  
+
+ When they joined Ashby, many of our engineers switched from other languages like Swift and Kotlin (Ben), platforms like iOS (Tom) and Windows (Sergey). We care more about fundamentals (e.g., debugging, abstractions) and how fast you learn. For folks on the team who switched, it's nice seeing changes hot reload versus waiting for XCode to compile 😅.
+   
+
+  
+
+**Benefits**
+* Competitive salary and equity.
+* 10\\-year exercise window for stock options. You shouldn’t feel pressure to purchase stock options if you leave Ashby —do it when you feel financially comfortable.
+* Unlimited PTO, and we will encourage you to take it.
+* A minimum of 12 weeks of fully paid parental leave, covered by Ashby. For folks outside the US, it may be longer to be in line with regional requirements.
+* Generous equipment, software, and office furniture budget. Get what you need to be happy and productive!
+* $100/month education budget with more expensive items (like conferences) covered with manager approval.
+* If you’re in the US, we offer top\\-tier health insurance for you and your dependents, with 100% of premiums covered by Ashby. In other countries, we provide high\\-quality supplemental health insurance for you and your dependents, also fully covered by us.
+
+
+ Ashby’s success hinges on hiring great people and creating an environment where we can be happy, feel challenged, and do our best work. We’re being deliberate about building that environment from the ground up. I hope that excites you enough to apply.
+   
+
+  
+
+*Ashby provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities.*","Software Development","https://www.linkedin.com/company/ashbyhq","https://media.licdn.com/dms/image/v2/D4E0BAQEr6F2ImK16AA/company-logo_100_100/company-logo_100_100/0/1722020547706/ashbyhq_logo?e=2147483647&v=beta&t=2DuZhHIrBrFp2DWpdlz0s6e6zcfegKTRi6F-pPvoRGc","","","","","","","","","","",""
+"li-4341990111","linkedin","https://www.linkedin.com/jobs/view/4341990111","","Cobol Developer - (W2 & Locals Only)","Elegant Enterprise-Wide Solutions, Inc.","Blythewood, SC","2025-11-19","contract","","","","","",False,"mid-senior level","Consulting, Human Resources, and Information Technology","","","**About this Position:** 
+
+
+
+
+  
+
+
+
+
+
+**Job Title: Cobol Developer** 
+
+
+
+
+  
+
+
+
+
+
+**Responsibilities:** 
+
+
+
+* Analyze the Client's system, web service, and batch business applications.
+* Take the lead in analyzing and troubleshooting assigned system problems.
+* Propose solutions.
+* Code, test, promote, and interact with impacted users ensuring that solution meets requirements.
+* Provide daily and weekly status to the development manager.
+
+
+
+  
+
+
+
+
+
+**Required skills:** 
+
+
+
+* Cobol development with Microfocus Visual Cobol using Visual Studio 2019/2022 in Windows Server 2022 under IIS.
+* Microfocus Visual Cobol V7, V9, or higher strongly preferred.
+* Accessing Oracle and MS SQL Server enterprise databases from within the programming (Cobol) platform.
+* Crafting SQL statements to support required system functionality.
+
+
+
+  
+
+
+
+
+
+**Preferred skills (rank in order of importance):** 
+
+
+
+* Visual Studio 2019 and higher – debugging.
+* IIS configuration/setup.
+* Microsoft Team Foundation Server.
+* Microsoft C\\# .NET.
+* Application programming against RDBMS (Oracle, SQL).
+* SQL for Oracle DB.
+
+
+
+  
+
+
+
+
+
+**Required education:** 
+
+
+
+* Prefer bachelor’s degree in information technology related discipline with 8 years of experience or minimum 10 years related experience.
+
+
+
+  
+
+
+
+
+
+**Required certifications:** 
+
+
+
+* Not required but MS technical certifications will be factored in the selection process.
+* Microfocus certifications are a significant advantage.
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+***Note: For H\\-1B and OPT cases, we are seeking candidates from recognised organizations.***
+
+
+
+
+  
+
+
+
+
+
+***""No phone calls please.""***","Staffing and Recruiting, IT Services and IT Consulting, and Software Development","https://www.linkedin.com/company/elegant-enterprise-wide-solutions-inc","https://media.licdn.com/dms/image/v2/C4D0BAQEWGnzUkn6Wbg/company-logo_100_100/company-logo_100_100/0/1630548479824?e=2147483647&v=beta&t=ZNrScy824vb_fSA6_xK7VJjfRuRqqxP8bNrsHRih4Fo","","","","","","","","","","",""
+"li-3986117154","linkedin","https://www.linkedin.com/jobs/view/3986117154","https://epic.avature.net/Careers/ApplyFlowCheck?folderId=740&source=LinkedIn&urlHash=fKwC","Software Engineer","Epic","Columbia, SC","2025-11-18","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Code that saves lives.**
+ As a software developer at Epic, you’ll write software that impacts the lives of 325 million patients around the world. Working in your own office, surrounded by thousands of high\\-caliber developers, you’ll use modern development methodologies and employ user\\-centered design, analytics, and machine learning tools to drive innovation in healthcare. Using leading\\-edge technologies and languages like JS, TS, and C\\#, you’ll invent better ways to reduce medical errors, streamline record sharing between hospitals, and provide the quality of care a patient deserves. Learn more about our team at https://careers.epic.com/jobs/softwaredevelopment/.
+   
+
+  
+
+**Write software for the most innovative health systems on the planet.**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Relocation to the Madison, WI area (Reimbursed)
+* BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field
+* A history of academic excellence or professional success
+* Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)
+* COVID\\-19 vaccination","Software Development","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4336597803","linkedin","https://www.linkedin.com/jobs/view/4336597803","","Sr DevOps Engineer","Sureify","North, SC","2025-11-18","fulltime","description","yearly",140000.0,175000.0,"USD",True,"mid-senior level","Engineering and Information Technology","","","**Who We Are**
+ Sureify's mission is to modernize the life insurance and annuity industry by helping carriers acquire, service, and engage their customers through any distribution channel. Sureify's products empower life insurance carriers, agents, employees, and customers to have the digital experiences employees and consumers have come to expect in the rapidly advancing tech climate.
+   
+
+  
+
+ Sureify is modernizing the life insurance industry through cutting\\-edge SaaS platforms that help carriers digitally engage, service, and sell to their customers. We're growing fast and looking for a
+ **Senior DevOps Engineer** 
+ to help scale and secure our cloud\\-native infrastructure.
+   
+
+  
+
+**What You'll Do**
+* Design, build, and maintain scalable AWS cloud infrastructure using Terraform and automation.
+* Improve CI/CD pipelines and deployment processes across multiple environments.
+* Support containerized workloads (Docker/Kubernetes) and drive best practices for reliability \\& performance.
+* Implement monitoring, alerting, and observability frameworks to enhance system uptime and incident response.
+* Collaborate with engineering, security, and product teams to strengthen platform architecture.
+* Troubleshoot complex issues across networking, systems, and application layers.
+* Mentor junior engineers and champion DevOps culture across the organization.
+
+
+**What We're Looking For**
+* 5–8\\+ years of experience in DevOps, Cloud Engineering, or SRE.
+* Strong expertise in AWS (EC2, VPC, IAM, ECS/EKS, RDS, CloudWatch, etc.).
+* Hands\\-on experience with Terraform, Docker, GitHub/Git\\-based workflows, and CI/CD pipelines.
+* Proficient in scripting with Bash and/or Python.
+* Strong networking fundamentals (DNS, VPN, routing, subnets, load balancers).
+* Experience with monitoring and logging tools (Datadog, Prometheus, CloudWatch, Grafana, ELK, etc.).
+* Excellent communication skills and ability to thrive in a fast\\-moving, remote\\-first environment.
+
+
+**Nice to Have**
+* Kubernetes (EKS) experience.
+* Database experience (Postgres, MySQL, DynamoDB).
+* Knowledge of security best practices, IAM governance, and cloud cost optimization.
+* Experience in regulated environments (insurance/finance/healthcare).
+
+
+ Base annual salary
+   
+
+  
+
+ $140,000—$175,000 USD
+   
+
+  
+
+**Our Guiding Principles**
+ Our products are for nothing if their creators are not fulfilled in their work. We want our employees to flourish at Sureify. We do not fawn over status or titles, instead, we honor effort and intelligence. The best idea wins no matter which colleague proposed it. We do not shortcut our mission with overblown claims or false promises. Sticking to the truth is both a strategy and a principle for us.
+   
+
+  
+
+ Sureify is an Equal Opportunity Employer committed to diversity. Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, sex, sexual orientation, gender perception or identity, age, disability, veteran or military status, or any other basis prohibited by law.
+   
+
+  
+
+ If you are a California resident, please be aware Sureify collects personal information from you during the application process, which may include your name, contact details, employment history, and educational background, in accordance with the California Consumer Privacy Act (CCPA). We use this information solely to evaluate your candidacy for employment and may share it with internal hiring personnel as needed.","Insurance","https://www.linkedin.com/company/sureify-com","https://media.licdn.com/dms/image/v2/D4E0BAQHhAvhT0sEzJw/company-logo_100_100/company-logo_100_100/0/1727553023248/sureify_com_logo?e=2147483647&v=beta&t=1ryaZR24XK2TV4ou-meo_XewV688cj_KMhnGuc3dgmw","","","","","","","","","","",""
+"li-4336627598","linkedin","https://www.linkedin.com/jobs/view/4336627598","","Freelance GenAI Developer - Prompt Engineering & Data Workflows","Mindrift","South Carolina, United States","2025-11-18","parttime","","","","","",True,"entry level","Other","","","***This opportunity is only for candidates currently residing in the specified country. Your location may affect eligibility and rates. Please submit your resume in English and indicate your level of English.***
+ Mindrift is looking for passionate freelance contributors to join the Tendem project (https://tendem.ai/) and help shape the future of hybrid agents — where human expertise and Vibe Coding work together seamlessly.
+   
+
+  
+
+ As a
+ **Vibe Coding Expert** 
+ , you'll partner with systems that take on repetitive tasks, while you provide the nuance, judgment, and creativity needed to deliver outstanding results.
+   
+
+  
+
+ In this role, you won't just refine what Vibe Coding generates — you'll actively collaborate with it, shaping and completing outputs so they are accurate, reliable, and ready for real\\-world use. Your day\\-to\\-day work may range from tackling complex challenges across different domains with the support of automation, to producing well\\-reasoned, precise, and clearly written outputs backed by credible sources.
+   
+
+  
+
+ This flexible, part\\-time remote opportunity is ideal for professionals with technical expertise and hands\\-on experience in scripting, automation, or AI\\-driven tools. Your contributions will directly influence how Vibe Coding systems evolve, learn, and empower industries worldwide.
+   
+
+  
+
+**What We Do**
+ The Mindrift platform connects specialists with AI projects from major tech innovators. Our mission is to unlock the potential of Generative AI by tapping into real\\-world expertise from across the globe.
+   
+
+  
+
+**About The Role**
+ This is a freelance role for a project, and your typical tasks may include:
+   
+
+  
+
+* Your mission \\- deliver well\\-reasoned, accurate, and clearly written outputs backed by credible sources.
+* Solve complex tasks in different domains with the help of automations
+* Develop and submit precise answers based on complex prompts, including coding, automation, and data processing tasks.
+* Write and optimize Python scripts for data analysis, automation, and verification.
+* Work with large datasets efficiently, ensuring data is clean and well\\-structured.
+* Utilize various LLMs to generate advanced prompts and improve AI output quality.
+* Format outputs in required structures such as Markdown, JSON, tables, etc.
+* Identify and troubleshoot non\\-trivial technical problems related to AI workflows and integrations.
+
+
+**How To Get Started**
+ Simply apply to this post, qualify, and get the chance to contribute to projects that match your technical skills, on your own schedule. From coding and automation to fine\\-tuning AI outputs, you'll play a key role in advancing AI capabilities and real\\-world applications.
+   
+
+  
+
+**Requirements**
+* You hold a Bachelor's or Master's Degree in Engineering, Applied Mathematics, Computer Science, or related technical fields
+* You have a minimum of 1 year of professional experience in AI automation, data engineering, or software development is desirable
+* Your level of English is upper\\-intermediate (B2\\) or above
+* Strong data analysis and automation skills, with experience in scripting (e.g., Python) for task efficiency.
+* Proficient in working with large datasets and integrating data from multiple sources
+* Ability to develop, test, and optimize AI\\-driven workflows and tools.
+* Detail\\-oriented mindset to ensure accuracy and quality in data processing and output
+* Hands\\-on experience with LLMs and AI frameworks to enhance automation and problem\\-solving
+* You are ready to learn new methods, able to switch between tasks and topics quickly and sometimes work with challenging, complex guidelines
+* Our freelance role is fully remote so, you just need a laptop, internet connection, time available and enthusiasm to take on a challenge
+
+
+**Benefits**
+**Why this freelance opportunity might be a great fit for you?**
+* Get paid for your expertise, with rates that can go up to $20/hour depending on your skills, experience, and project needs
+* Take part in a part\\-time, remote, freelance project that fits around your primary professional or academic commitments
+* Work on advanced AI projects and gain valuable experience that enhances your portfolio
+* Influence how future AI models understand and communicate in your field of expertise","IT Services and IT Consulting","https://www.linkedin.com/company/mindrift-ai","https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_100_100/company-logo_100_100/0/1725448348201/mindrift_ai_logo?e=2147483647&v=beta&t=QWIMS9k-I4kkSKVcx06uFCRLdHDZZ1w9E8dWeBmOHCk","","","","","","","","","","",""
+"li-4336851667","linkedin","https://www.linkedin.com/jobs/view/4336851667","","Freelance Software Developer (Ruby) - AI Trainer","Mindrift","South Carolina, United States","2025-11-18","parttime","","","","","",True,"mid-senior level","Other","","","***This opportunity is only for candidates currently residing in the specified country. Your location may affect eligibility and rates. Please submit your resume in English and indicate your level of English proficiency.***
+ At Mindrift, innovation meets opportunity. We believe in using the power of collective intelligence to ethically shape the future of AI.
+   
+
+  
+
+**What We Do**
+ The Mindrift platform connects specialists with AI projects from major tech innovators. Our mission is to unlock the potential of Generative AI by tapping into real\\-world expertise from across the globe.
+   
+
+  
+
+**About The Role**
+ GenAI models are improving very quickly, and one of our goals is to make them capable of addressing specialized questions and achieving complex reasoning skills. If you join the platform as an AI Tutor in Coding, you'll have the opportunity to collaborate on these projects.
+   
+
+  
+
+ Although every project is unique, you might typically:
+   
+
+  
+
+* Generate prompts that challenge AI.
+* Define comprehensive scoring criteria to evaluate the accuracy of the AI's answers.
+* Correct the model's responses based on your domain\\-specific knowledge.
+
+
+**How To Get Started**
+ Simply apply to this post, qualify, and get the chance to contribute to projects aligned with your skills, on your own schedule. From creating training prompts to refining model responses, you'll help shape the future of AI while ensuring technology benefits everyone.
+   
+
+  
+
+**Requirements**
+* You hold a Bachelor's or Master's Degree in Software Development, Computer Science, or other related fields
+* You have at least 3 years of professional experience with excellent command of Ruby and key ecosystem tools (RSpec, Bundler)
+* Your level of English is advanced (C1\\) or above
+* Confident use of Git and standard Linux CLI tools
+* Hands\\-on experience with containerization (Docker) and CI/CD pipelines (e.g., GitHub Actions, GitLab CI, Jenkins)
+* Deep understanding of testing principles and test\\-driven development (TDD); strong skills in debugging, profiling, and code optimization.
+
+
+**Desirable:**
+* Contributions to open\\-source Ruby projects (pull requests, code reviews, issue tracking)
+* Experience working with large monorepositories or major open\\-source projects
+* Experience with automated benchmarking, scripting, or infrastructure\\-as\\-code tools
+* Experience working with AI\\-generated code or in code evaluation projects
+
+
+**Soft Skills:**
+* Analytical and detail\\-oriented mindset: proactively identifies bugs, edge cases, and test coverage gaps
+* Concise and structured communication, both in documentation and asynchronous team discussions
+* Strong ownership: able to drive tasks end\\-to\\-end, propose improvements, and promptly flag risks or blockers
+* Adaptability and resilience: thrives in fast\\-changing requirements and ambiguous project contexts
+* Team player: open to code reviews, feedback, and knowledge sharing
+* You are ready to learn new methods, able to switch between tasks and topics quickly and sometimes work with challenging, complex guidelines
+
+
+ Our freelance role is fully remote so, you just need a laptop, internet connection, time available and enthusiasm to take on a challenge.
+   
+
+  
+
+**Benefits**
+**Why this freelance opportunity might be a great fit for you?**
+* Get paid for your expertise, with rates that can go up to $55/hour depending on your skills, experience, and project needs
+* Take part in a part\\-time, remote, freelance project that fits around your primary professional or academic commitments
+* Work on advanced AI projects and gain valuable experience that enhances your portfolio
+* Influence how future AI models understand and communicate in your field of expertise","IT Services and IT Consulting","https://www.linkedin.com/company/mindrift-ai","https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_100_100/company-logo_100_100/0/1725448348201/mindrift_ai_logo?e=2147483647&v=beta&t=QWIMS9k-I4kkSKVcx06uFCRLdHDZZ1w9E8dWeBmOHCk","","","","","","","","","","",""
+"li-4332334762","linkedin","https://www.linkedin.com/jobs/view/4332334762","https://grnh.se/qowfyt4x8us?gh_src=b4fd16b88us&urlHash=bUkX","Deployment Engineer","Versaterm","Lexington, SC","2025-11-18","fulltime","","","","","",True,"mid-senior level","Information Technology","","info@versaterm.com","**The Company**
+ Versaterm is a global public safety solutions company helping agencies transform how they serve their communities. Since 1977, we've been building an ecosystem of intuitive tools designed for public safety agencies, forensic labs, court systems, schools and other institutions. Through purposeful integrations and a selective growth strategy, we focus on improving workflows to help our customers achieve more efficient operations, better service and more just outcomes.
+   
+
+  
+
+ Our teams are driven by innovation, expertise and an unwavering commitment to customer success. As we continue to grow and expand our ecosystem, you'll have the opportunity to contribute to solutions that enhance community safety and transform the future of public safety technology. If you're passionate about making a meaningful difference, we'd love to hear from you.
+   
+
+  
+
+**The Role**
+ At a time when police and community relationships are tested more than ever before, law enforcement agencies are looking for every opportunity to provide their communities with exceptional service.
+ **COMMUNITYCONNECT** 
+ has built the world's first automated customer service platform for law enforcement that gives agencies the tools they need to best serve their communities. Our platform interacts with 911 callers and victims of crime by communicating with them directly to keep them updated and gather their feedback.
+   
+
+  
+
+ We are seeking a customer\\-centric, details\\-driven Deployment Engineer to ensure that we are providing a smooth and efficient deployment process for our customers. The Deployment Engineer is responsible for managing the technical action items for each deployment process, with the primary focus of deploying custom data integration interfaces to a variety of different public safety software systems.
+   
+
+  
+
+ This is a client\\-facing position, which would require remote presentation and communication skills on a regular basis. Deployment Engineers must have a strong ability to collaborate effectively both internally and externally, can overcome complex problems, and the ability to deploy solutions in an organized, thorough, and timely manner.
+   
+
+  
+
+ This position can be based at any of our offices across Canada and the United States or performed remotely from a home office.
+   
+
+  
+
+**Preference will be given to candidates who are available to work on\\-site.**
+**What You'll Do**
+* Collaborate with law enforcement agencies to plan, present, and implement technical data interfaces, leveraging ETL fundamentals
+* Build and maintain data pipelines against REST and SOAP APIs
+* Extract, transform, and load (ETL) data elements
+* Manipulate data structures using JSON, XML, SQL, and CSV formats
+* Perform database discovery and navigate complex SQL schema structures
+* Lead data quality control validation review sessions
+* Integrate with both on\\-premises and cloud\\-based database systems
+* Collaborate with project management teams to build sustainable deployment processes and infrastructure
+* Interact with both technical and non\\-technical stakeholders
+* Support customers in a technical capacity throughout the customer lifecycle
+
+
+**What You'll Bring**
+* Excellent written and verbal communication skills (this is a customer\\-facing role)
+* 2\\+ years' experience in a customer\\-facing technical role
+* 4\\+ years' experience in Information Technology
+* Bachelor's degree in Engineering, Management Information Systems, Information Technology, Computer Science or equivalent
+* Proficiency using PowerShell or another scripting language to manipulate data
+* Proficiency writing complex SQL queries (multiple joins, using CTEs, dynamic T\\-SQL statements)
+* A passion for detail and keeping customers happy
+* A desire to help public safety agencies
+* Ability to pass a criminal background checks with USA and Canda public safety agencies
+
+
+**You'll Succeed If You Have**
+* A background in ETL software integrations
+* Data analysis experience
+* Experience managing technical projects, from initiation to completion
+* Familiarity with Atlassian (Jira / Confluence), GitHub, Sentry, Datadog, Metabase, PagerDuty
+* Windows administration experience (scheduled tasks, AD domain)
+* Understanding of Ruby on Rails or another object\\-oriented programming language
+
+
+ Due to the nature of our work with public safety agencies, this position requires compliance with the FBI's Criminal Justice Information Services (CJIS) Security Policy. Candidates must successfully pass a comprehensive, fingerprint\\-based background check. Please note that specific customer contracts may impose additional security verification requirements. Obtaining and maintaining all required security clearances is a condition of employment. For more information on CJIS security requirements, please visit the FBI's CJIS Security Policy Resource Center.
+   
+
+  
+
+**Equal Opportunity**
+ Versaterm is committed to building and supporting inclusion, diversity, and equity, and sustaining a barrier\\-free environment. Accommodations are available, on request, throughout all aspects of the selection process. These principles apply to the terms and conditions of employment at Versaterm. For detailed information on our accessibility policies, please contact info@versaterm.com.","Technology, Information and Internet","https://ca.linkedin.com/company/versaterm-inc-","https://media.licdn.com/dms/image/v2/D560BAQG1NyJqOmep4w/company-logo_100_100/company-logo_100_100/0/1697310009789/versaterm_inc_logo?e=2147483647&v=beta&t=Spd2Ih0XwMszhdmlW95UAS7OBLDuii92AOrwkYsqY3Y","","","","","","","","","","",""
+"li-4323310032","linkedin","https://www.linkedin.com/jobs/view/4323310032","","Salesforce Senior Associate","PwC","Columbia, SC","2025-11-18","fulltime","","","","","",False,"associate","Other","","","**Specialty/Competency:** 
+ Salesforce
+   
+
+  
+
+**Industry/Sector:** 
+ Not Applicable
+   
+
+  
+
+**Time Type:** 
+ Full time
+   
+
+  
+
+**Travel Requirements:** 
+ Up to 80%
+   
+
+  
+
+ At PwC, our people in business application consulting specialise in consulting services for a variety of business applications, helping clients optimise operational efficiency. These individuals analyse client needs, implement software solutions, and provide training and support for seamless integration and utilisation of business applications, enabling clients to achieve their strategic objectives. As a Salesforce consulting generalist at PwC, you will possess a broad range of consulting skills and experience across various Salesforce applications. You will provide consulting services to clients, analysing their needs, implementing software solutions, and offering training and support for effective utilisation of Salesforce applications. Your versatile knowledge will allow you to assist clients in optimising operational efficiency and achieving their strategic objectives.
+   
+
+  
+
+ Focused on relationships, you are building meaningful client connections, and learning how to manage and inspire others. Navigating increasingly complex situations, you are growing your personal brand, deepening technical expertise and awareness of your strengths. You are expected to anticipate the needs of your teams and clients, and to deliver quality. Embracing increased ambiguity, you are comfortable when the path forward isn’t clear, you ask questions, and you use these moments as opportunities to grow.
+   
+
+  
+
+**Skills**
+ Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:
+   
+
+  
+
+* Respond effectively to the diverse perspectives, needs, and feelings of others.
+* Use a broad range of tools, methodologies and techniques to generate new ideas and solve problems.
+* Use critical thinking to break down complex concepts.
+* Understand the broader objectives of your project or role and how your work fits into the overall strategy.
+* Develop a deeper understanding of the business context and how it is changing.
+* Use reflection to develop self awareness, enhance strengths and address development areas.
+* Interpret data to inform insights and recommendations.
+* Uphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements.
+
+
+ The Opportunity
+   
+
+  
+
+ As part of the Salesforce Consulting team you develop and implement scalable technical solutions that meet client requirements. As a Senior Associate, you guide and mentor junior team members while navigating complex challenges to deliver quality work and build meaningful client relationships.
+   
+
+  
+
+**Responsibilities**
+* Analyze and interpret data to provide actionable insights
+* Develop strategies to enhance Salesforce applications
+* Uphold professional standards and exemplary practices in consulting
+* Proactively identify and address potential project risks
+
+
+ What You Must Have
+   
+
+  
+
+* Bachelor's Degree
+* 3 years of experience
+
+
+ What Sets You Apart
+   
+
+  
+
+* Master's Degree preferred
+* Certifications Preferred: Salesforce.com Certified Administrator, Salesforce.com Certified Developer, Salesforce.com Certified Sales/Service/Experience Consultant
+* Demonstrating hands\\-on experience with Salesforce configuration
+* Defining scalable technical solution architecture
+* Translating customer requirements into working solutions
+* Managing communication with development teams
+
+
+ Learn more about how we work: https://pwc.to/how\\-we\\-work
+   
+
+  
+
+ PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H\\-1B lottery, except as set forth within the following policy: https://pwc.to/H\\-1B\\-Lottery\\-Policy.
+   
+
+  
+
+ As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.
+   
+
+  
+
+ For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.
+   
+
+  
+
+ Applications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us\\-application\\-deadlines
+   
+
+  
+
+ The salary range for this position is: $77,000 \\- $202,000, plus individuals may be eligible for an annual discretionary bonus. For roles that are based in Maryland, this is the listed salary range for this position. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits\\-at\\-a\\-glance","Accounting, Financial Services, and Business Consulting and Services","https://uk.linkedin.com/company/pwc","https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_100_100/B4EZaB6j58H0AQ-/0/1745936334912/pwc_logo?e=2147483647&v=beta&t=stNIhYwMNfiRmzhcYIuKvLl6j-_E5sJ8JNb3x27Tv1s","","","","","","","","","","",""
+"li-4336553636","linkedin","https://www.linkedin.com/jobs/view/4336553636","","Mainframe Developer","Tech Army, LLC","Blythewood, SC","2025-11-17","contract","","","","","",False,"mid-senior level","Information Technology","","","Job Title: Mainframe Developer/ Only W2
+ 
+
+
+
+ Location: Blythewood, SC 29016/ Onsite
+ 
+
+
+
+ Duration: 12 Months
+ 
+
+
+
+  
+
+
+
+
+
+ Required Skills (rank in order of Importance):
+ 
+
+
+* COBOL development with MICROFOCUS Visual COBOL using Visual Studio 2019/2022 in Windows Server 2022 under IIS.
+* MICROFOCUS Visual COBOL V7, V9, or higher strongly preferred
+* Accessing Oracle and MS SQL Server enterprise databases from within the programming (COBOL) platform.
+* Crafting SQL statements to support required system functionality.
+
+
+
+  
+
+
+
+
+
+ Preferred Skills (rank in order of Importance):
+ 
+
+
+* Visual Studio 2019 and higher – Debugging
+* IIS configuration/setup
+* Microsoft Team Foundation Server
+* Microsoft C\\# .NET
+* Application programming against RDBMS (Oracle, SQL).
+* SQL for Oracle DB.
+
+
+
+  
+
+
+
+
+
+**Prefer** 
+
+
+
+
+ Bachelor’s Degree in Information Technology related discipline with 8 years of experience or minimum 10 years related experience.","IT Services and IT Consulting","https://www.linkedin.com/company/tech-army-llc","https://media.licdn.com/dms/image/v2/C4D0BAQE59Xo8y1DOzw/company-logo_100_100/company-logo_100_100/0/1630491402425/tech_army_llc_logo?e=2147483647&v=beta&t=_Xk4LPeu5TJrF9C96QGpHdVeqUgsqY9oau8_AyqokUo","","","","","","","","","","",""
+"li-4306880496","linkedin","https://www.linkedin.com/jobs/view/4306880496","","Business Solutions Developer I","Centene Corporation","South Carolina, United States","2025-11-17","fulltime","","","","","",True,"not applicable","Engineering and Information Technology","","","You could be the one who changes everything for our 28 million members. Centene is transforming the health of our communities, one person at a time. As a diversified, national organization, you’ll have access to competitive benefits including a fresh perspective on workplace flexibility.
+   
+
+  
+
+**Position Purpose** 
+ Plans, conceptualizes, configures, and builds SQL solutions that solve common challenges within the business by using technological tools or programs. Conducts research and requirement gathering to determine customer needs and drive strategy and oversee the development process. A cross\\-functional role that encompasses a broad range of business knowledge and technical skillsets, working in collaboration with multiple teams and specialists. Takes an active role in design, development, testing, troubleshooting and maintenance.
+   
+
+  
+
+* Writing SQL code for software programs and applications using inheritance and virtualization following best programming practices.
+* Performs complex research and analysis to find best solutions to stakeholder requests or problems using best method or tools to develop solutions.
+* Conducts meetings to gather requirements and updates on ongoing projects.
+* Maintains communication with stakeholders during solution development.
+* Collaborating with peers on development and solution strategy to identify the most efficient and effective product solutions.
+* Performs regular code reviews and requests.
+* Performs other duties as assigned
+* Complies with all policies and standards
+
+
+**Education/Experience** 
+ Bachelor's degree in Computer Science, MIS, related field, or equivalent experience. 0\\-2 years of experience in the field or in a related area. Completion of a technical training program (e.g. LaunchCode, FDM, etc.) may be considered in lieu of a Bachelor’s Degree. Healthcare experience a plus. Solid SQL and frameworks skills. Experience with Business Intelligence Tools, such as Power BI. Experience with various databases, including Mongo DB, SQL Server, Oracle or Teradata preferred.
+   
+
+  
+
+ Pay Range $55,100\\.00 \\- $99,000\\.00 per year
+   
+
+  
+
+ Centene offers a comprehensive benefits package including competitive pay, health insurance, 401K and stock purchase plans, tuition reimbursement, paid time off plus holidays, and a flexible approach to work with remote, hybrid, field or office work schedules. Actual pay will be adjusted based on an individual's skills, experience, education, and other job\\-related factors permitted by law, including full\\-time or part\\-time status. Total compensation may also include additional forms of incentives. Benefits may be subject to program eligibility.
+   
+
+  
+
+ Centene is an equal opportunity employer that is committed to diversity, and values the ways in which we are different. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other characteristic protected by applicable law.
+   
+
+  
+
+ Qualified applicants with arrest or conviction records will be considered in accordance with the LA County Ordinance and the California Fair Chance Act","Hospitals and Health Care and Insurance","https://www.linkedin.com/company/centene-corporation","https://media.licdn.com/dms/image/v2/D560BAQGaq00RQVq88Q/company-logo_100_100/B56ZVi8V.kHQAQ-/0/1741121741295/centene_corporation_logo?e=2147483647&v=beta&t=NrRKAovPMrCgkHUWdYoK3qZGOs32NA9L8SmWEwFDPXM","","","","","","","","","","",""
+"li-4336614479","linkedin","https://www.linkedin.com/jobs/view/4336614479","","Configuration Management","Spero Engineering & Architecture","Aiken, SC","2025-11-17","fulltime","","","","","",False,"mid-senior level","Engineering","","","**Project Engineer II/III – Configuration Management (Nuclear)** 
+
+
+
+
+**Location:** 
+ On\\-Site \\| U.S. Citizenship Required
+ 
+
+
+
+  
+
+
+
+
+
+ Fluor is hiring a Project Engineer with strong Configuration Management (CM) experience to support key DOE/NNSA/DOD programs. This role ensures technical integration, configuration control, and compliance with nuclear industry standards across engineering and construction activities.
+ 
+
+
+
+**What You’ll Do** 
+
+
+
+* Support multi\\-discipline engineering teams and 3rd\\-party design firms.
+* Drive Configuration Management processes across the project lifecycle.
+* Track project progress, schedules, milestones, and deliverables.
+* Coordinate design documents, bid packages, and technical procedures.
+* Apply NQA\\-1 and nuclear standards; support quality audits.
+* Identify issues early and help resolve cross\\-functional challenges.
+
+
+
+**What You Need** 
+
+
+
+* Engineering degree \\+
+ **7\\+ years** 
+ experience.
+* **4–6\\+ years nuclear experience** 
+ (DOE/DOD/NNSA or commercial).
+* Strong CM background (PCN/ECN/DCN/FDN experience preferred).
+* EPC/engineering/construction project engineering experience.
+* U.S. citizenship (required).
+* Proactive, detail\\-driven, strong communicator.
+
+
+
+**Nice to Have** 
+
+
+
+* Experience presenting/training on CM.
+* PMP certification.
+* Document Management or Quality/Audit support experience.","Engineering Services","https://www.linkedin.com/company/spero-engineering","https://media.licdn.com/dms/image/v2/C4E0BAQGmmBK-7J1Q6Q/company-logo_100_100/company-logo_100_100/0/1630651268083/spero_engineering_logo?e=2147483647&v=beta&t=jjsNg6zGUE4hH1o1IHIrDRIYJ9jiHYXOcioN7MzF8Ho","","","","","","","","","","",""
+"li-3864450704","linkedin","https://www.linkedin.com/jobs/view/3864450704","","Technical Solutions Engineer","Epic","Columbia, SC","2025-11-16","fulltime","","","","","",False,"entry level","Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Problem\\-solving with a purpose.**
+ As a Technical Solutions Engineer at Epic, you’ll work on software that impacts 305 million patients around the world. Alongside customer counterparts, you’ll tackle mission\\-critical and complex problems – we’re
+ *way* 
+ beyond “turn it off and on again” issues. You’ll need to diagnose the problem, identify a solution, and manage the implementation of the solution, sometimes across multiple physical locations and stakeholders. Learn more about our team at https://careers.epic.com/Jobs/Technical\\-Solutions\\-Engineer.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet.**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's degree or greater
+* A history of academic excellence or professional success
+* Willingness to travel occasionally to customer locations
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4338325272","linkedin","https://www.linkedin.com/jobs/view/4338325272","","AWS Data Engineer - Terraform","Capgemini","Columbia, SC","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.
+   
+
+  
+
+ Job Location \\- Fort Mill SC (Day One Onsite \\- Hybrid)
+   
+
+  
+
+**About The Project**
+* We are developing a modern Data Lakehouse on AWS, leveraging S3, Glue, Iceberg tables, and Snowflake to enable analytics, governance, and scalability.
+* The environment will be provisioned through Terraform, orchestrated via Airflow, and driven by robust data pipelines with Glue based Framework.
+* We're seeking an experienced AWS Data Engineer with expertise in Glue, Terraform, and Airflow, and strong SQL development skills to help design, automate, and scale this cloud\\-based data platform.
+
+
+ Key Responsibilities
+   
+
+  
+
+* Design, develop, and deploy AWS infrastructure using Terraform, including S3, Glue, IAM, Lake Formation, and Athena resources.
+* Develop and maintain AWS Glue ETL jobs (PySpark or Python shell) for data ingestion, transformation, and curation across raw → clean → curated layers.
+* Integrate Airflow (Amazon MWAA or self\\-managed) for orchestrating Glue jobs, data pipelines, and dependencies.
+* Build and maintain Glue Catalog, manage metadata, and align with Lake Formation security policies.
+* Write complex SQL queries for data validation, transformation, and reporting logic, ensuring efficient query performance.
+* Manage Terraform state files, backend setup (S3 \\+ DynamoDB), and environment\\-based deployments.
+* Implement data ingestion frameworks for batch and near real\\-time pipelines.
+* Collaborate with Snowflake and BI teams for seamless data consumption.
+* Contribute to high availability (multi\\-AZ) and disaster recovery (multi\\-region) strategies for core data components.
+
+
+**Required Skills**
+* 6 years of experience as a Data Engineer or Cloud Engineer.
+* Strong expertise in AWS Services: S3, Glue, Glue Catalog, Lake Formation, IAM, Athena, CloudWatch, Lambda (preferred).
+* Hands\\-on proficiency in Terraform (HCL) for infrastructure automation.
+* Experience with Airflow DAGs for orchestration of Glue, S3, and external data flows.
+* Solid understanding of PySpark / Python for ETL scripting.
+* Strong ability to write and optimize complex SQL (joins, window functions, CTEs, and analytical queries).
+* Familiarity with data lake formats (Iceberg, Parquet, Delta, etc.).
+* Experience with CI/CD pipelines (GitHub Actions, CodePipeline, or Jenkins).
+
+
+**Preferred Skills**
+* Exposure to Snowflake or similar cloud data warehouses.
+* Knowledge of data modeling, partitioning, and schema evolution.
+* Familiarity with AWS security best practices, including encryption, IAM roles, and cross\\-account access.
+* Familiarity with AWS Datazone and other services such as Cloud Trail, SNS""
+
+
+ Life At Capgemini
+   
+
+  
+
+ Capgemini supports all aspects of your well\\-being throughout the changing stages of your life and career. For eligible employees, we offer:
+   
+
+  
+
+* Flexible work
+* Healthcare including dental, vision, mental health, and well\\-being programs
+* Financial well\\-being programs such as 401(k) and Employee Share Ownership Plan
+* Paid time off and paid holidays
+* Paid parental leave
+* Family building benefits like adoption assistance, surrogacy, and cryopreservation
+* Social well\\-being benefits like subsidized back\\-up child/elder care and tutoring
+* Mentoring, coaching and learning programs
+* Employee Resource Groups
+* Disaster Relief
+
+
+ Disclaimer
+   
+
+  
+
+ Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.
+   
+
+  
+
+ This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.
+   
+
+  
+
+ Capgemini is committed to providing reasonable accommodations during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.
+   
+
+  
+
+ Click the following link for more information on your rights as an Applicant http://www.capgemini.com/resources/equal\\-employment\\-opportunity\\-is\\-the\\-law
+   
+
+  
+
+ Salary Transparency
+   
+
+  
+
+ Capgemini discloses salary range information in compliance with state and local pay transparency obligations. The disclosed range represents the lowest to highest salary we, in good faith, believe we would pay for this role at the time of this posting, although we may ultimately pay more or less than the disclosed range, and the range may be modified in the future. The disclosed range takes into account the wide range of factors that are considered in making compensation decisions including, but not limited to, geographic location, relevant education, qualifications, certifications, experience, skills, seniority, performance, sales or revenue\\-based metrics, and business or organizational needs. At Capgemini, it is not typical for an individual to be hired at or near the top of the range for their role. The base salary range for the tagged location is $103330 to $128656 /yearly.
+   
+
+  
+
+ This role may be eligible for other compensation including variable compensation, bonus, or commission. Full time regular employees are eligible for paid time off, medical/dental/vision insurance, 401(k), and any other benefits to eligible employees.
+   
+
+  
+
+ Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, or any other form of compensation that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.
+   
+
+  
+
+ Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55\\-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end\\-to\\-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
+"li-4338590679","linkedin","https://www.linkedin.com/jobs/view/4338590679","","Microsoft Dynamics Developer (Remote)","Lensa","Columbia, SC","","fulltime","","","","","",True,"entry level","Engineering and Information Technology","","support@lensa.com","Lensa is a career site that helps job seekers find great jobs in the US. We are not a staffing firm or agency. Lensa does not hire directly for these jobs, but promotes jobs on LinkedIn on behalf of its direct clients, recruitment ad agencies, and marketing partners. Lensa partners with DirectEmployers to promote this job for GovCIO. Clicking ""Apply Now"" or ""Read more"" on Lensa redirects you to the job board/employer site. Any information collected there is subject to their terms and privacy notice.
+   
+
+  
+
+**Overview**
+ GovCIO is currently seeking a Microsoft Dynamics Developer to build and test with a cross\\-functional team dedicated to delivering impactful features on for the VA. This pivotal role will coordinate the development efforts across different departments to ensure timely and efficient feature rollouts. The ideal candidate will possess deep expertise in Microsoft Dynamics 365, Power Platform, and associated technologies such as Power Apps, Power Automate, and Dataverse. Familiarity with DevOps tools and Azure is a plus. This position is fully remote and available to candidates within the Continental United States (CONUS).
+   
+
+  
+
+**Responsibilities**
+ Develops and implements solutions using Microsoft Dynamics 365, focusing on robust server\\-side logic, customizations, and integrations with RESTful APIs and other backend services. Participates in system planning and the development deployment process while ensuring adherence to software compliance and testing standards. Responsible for contributing to the development processes, complying with system guidelines, and conducting system analysis to address questions regarding program intentions, output specifications, data input requirements, programming strategies, and control systems as needed.
+   
+
+  
+
+* Work with a team of developers towards successful project execution, ensuring high\\-quality deliverables and timely completion.
+* Foster a culture of continuous improvement and excellence within the team.
+* Promote best practices and coding standards to maintain high standards of excellence within the team.
+* Monitor system performance and resolve technical issues promptly.
+* Collaborate on gathering system requirements, developing system stories, and planning project timelines and estimates.
+* Actively contribute to the preparation of comprehensive documentation, including reports, operational procedures, and maintenance manuals to ensure clear communication and record\\-keeping.
+* Participate in integration testing efforts to ensure seamless system functionality and robustness.
+* Maintain proactive communication with both internal and external stakeholders to ensure alignment and address any project issues promptly.
+* Conduct in\\-depth analysis of system requirements, including data flow, input/output specifications, and hardware/software needs to optimize system performance.
+* Actively participate in code and sprint reviews, ensuring that all deliverables meet contractual obligations and project specifications.
+
+
+**Qualifications**
+**Required Skills and Experience**
+* Bachelor's with 2\\- 5 years (or commensurate experience)
+* Demonstrated experience developing solutions in Microsoft Dynamics 365 and managing enterprise systems.
+* Analytical and investigation skills, including the use of testing frameworks and tools relevant to Microsoft Dynamics.
+* Ability to work independently with minimal guidance and supervision.
+* Experience with Agile Methodology and Scrum Processes.
+* Significant knowledge of software development lifecycle.
+* Experience with code versioning and project management tools (e.g., Jira, Azure DevOps, Confluence, etc.).
+* Demonstrated experience in a remote work environment.
+* Must be a US citizen or authorized to work in the US.
+
+
+**Preferred Skills And Experience**
+* Proven experience working with the VA and/or other Federal agencies, with a deep understanding of federal processes and regulations.
+* Familiarity with the VA.gov platform and its ecosystem, demonstrating the ability to navigate and optimize its features effectively.
+* Knowledgeable in government cloud hosting solutions, and adept at managing cloud environments, preferably Azure.
+* Proficient in managing API services within the VA network; skilled in handling and optimizing RESTful API transactions.
+* Demonstrated expertise in system integrations, with a preference for candidates who have experience with CorpDB, MPI, VA Profile, BDN, and/or VBMS systems.
+
+
+**Clearance Required**
+* Ability to obtain and maintain a Suitability/Public Trust clearance.
+
+
+**Company Overview**
+ GovCIO is a team of transformers\\-\\-people who are passionate about transforming government IT. Every day, we make a positive impact by delivering innovative IT services and solutions that improve how government agencies operate and serve our citizens.
+   
+
+  
+
+ But we can't do it alone. We need great people to help us do great things \\- for our customers, our culture, and our ability to attract other great people. We are changing the face of government IT and building a workforce that fuels this mission. Are you ready to be a transformer?
+   
+
+  
+
+**What You Can Expect**
+**Interview \\& Hiring Process**
+ If you are selected to move forward through the process, here’s what you can expect:
+   
+
+  
+
+* During the Interview Process
+* Virtual video interview conducted via video with the hiring manager and/or team
+* Camera must be on
+* A valid photo ID must be presented during each interview
+* During the Hiring Process
+* Enhanced Biometrics ID verification screening
+* Background check, to include:
+* Criminal history (past 7 years)
+* Verification of your highest level of education
+* Verification of your employment history (past 7 years), based on information provided in your application
+
+
+**Employee Perks**
+**Benefits**
+ At GovCIO, we consistently hear that meaningful work and a collaborative team environment are two of the top reasons our employees enjoy working here. In addition, our employees have access to a range of perks and benefits to support their personal and professional well\\-being, beyond the standard company offered health benefits, including:
+   
+
+  
+
+* Employee Assistance Program (EAP)
+* Corporate Discounts
+* Learning \\& Development platform, to include certification preparation content
+* Training, Education and Certification Assistance\\*
+* Referral Bonus Program
+* Internal Mobility Program
+* Pet Insurance
+* Flexible Work Environment
+* Available to full\\-time employees
+
+
+ Our employees’ unique talents and contributions are the driving force behind our success in supporting our customers, which ultimately fuels the success of our company. Join us and be a part of a culture that invests in its people and prioritizes continuous enhancement of the employee experience.
+   
+
+  
+
+**We are an Equal Opportunity Employer.** 
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, disability, or status as a protected veteran. EOE, including disability/vets.
+   
+
+  
+
+**Posted Pay Range**
+ The posted pay range, if referenced, reflects the range expected for this position at the commencement of employment, however, base pay offered may vary depending on multiple individualized factors, including market location, job\\-related knowledge, skills, education, experience, and internal equity. The total compensation package for this position may also include other compensation elements, to be discussed during the hiring process. If hired, employee will be in an “at\\-will position” and the GovCIO reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, GovCIO or individual department/team performance, and market factors.
+   
+
+  
+
+**Posted Salary Range**
+ USD $80,000\\.00 \\- USD $90,000\\.00 /Yr.
+   
+
+  
+
+ Submit a referral to this job (https://careers\\-govcio.icims.com/jobs/7008/microsoft\\-dynamics\\-developer\\-%28remote%29/job?mode\\=apply\\&apply\\=yes\\&in\\_iframe\\=1\\&hashed\\=\\-1834385473\\)
+   
+
+  
+
+**Location** 
+*US\\-Remote*
+**ID** 
+*2025\\-7008*
+**Category** 
+*Information Technology*
+**Position Type** 
+*Full\\-Time*
+ If you have questions about this posting, please contact support@lensa.com","Internet Publishing","https://www.linkedin.com/company/lensa","https://media.licdn.com/dms/image/v2/D4D0BAQEkHa-0Aki9XQ/company-logo_100_100/B4DZaKylu7GsAQ-/0/1746085240184/lensa_logo?e=2147483647&v=beta&t=vxuqQreX_wx1J2lugCeUKuGGZtbGyjhRRFeWyrBMnFQ","","","","","","","","","","",""
+"li-4331770070","linkedin","https://www.linkedin.com/jobs/view/4331770070","","Engineer III - Cloud (Remote)","CrowdStrike","South Carolina, United States","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","recruiting@crowdstrike.com","As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI\\-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We’re also a mission\\-driven company. We cultivate a culture that gives every CrowdStriker both the flexibility and autonomy to own their careers. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you.
+   
+
+  
+
+****About The Role:****
+ In CrowdStrike’s Asset Platform team we work on large scale distributed systems, processing over 3 trillion events a day \\- and this traffic is growing daily. This position is for a role in one of CrowdStrike’s Core Asset Platform teams. We’re looking for people with limitless passion, a relentless focus on innovation and a fanatical commitment to developing and shaping our cybersecurity platform.
+   
+
+  
+
+ Interested in working for a company that sets the standard and leads with integrity?
+   
+
+  
+
+ Join us on a mission that matters \\- one team, one fight.
+   
+
+  
+
+****What You’ll Do:****
+* Lead backend engineering efforts from rapid prototypes to large\\-scale applications across CrowdStrike products.
+* Leverage and build cloud\\-based systems in a micro\\-service driven environment.
+* Brainstorm, define, and build collaboratively with members across multiple teams.
+* Obsess about learning, and champion the newest technologies \\& tricks with others, raising the technical IQ of the team.
+* Be mentored and mentor other developers on web, backend and data storage technologies and our system.
+* Constantly re\\-evaluate our product to improve architecture, knowledge models, user experience, performance and stability.
+* Be an energetic ‘self\\-starter’ with the ability to take ownership and be accountable for deliverables.
+* Use and give back to the open\\-source community.
+* We embrace a remote\\-first culture and this role is fully remote.
+
+
+****What You'll Use:****
+* Go (Golang)
+* OpenSearch
+* Redis
+* Kafka
+* Kubernetes
+* GIT
+* AWS
+
+
+****What You'll Need:****
+* Degree in Computer Science (or commensurate experience in data structures/algorithms/distributed systems).
+* The ability to scale backend systems – sharding, partitioning, scaling horizontally are second nature to you.
+* The desire to ship code and the love of seeing your work run in production.
+* Deep understanding of distributed systems and scalability challenges.
+* Deep understand multi\\-threading, concurrency, and parallel processing technologies.
+* Team player skills – we embrace collaborating as a team as much as possible.
+* A thorough understanding of engineering best practices from appropriate testing paradigms to effective peer code reviews and resilient architecture.
+* The ability to thrive in a fast paced, test\\-driven, collaborative and iterative programming environment.
+* The skills to meet your commitments on time and produce high quality software that is unit tested, code reviewed, and checked in regularly for continuous integration.
+
+
+****Bonus Points:****
+* Authored and lead successful open\\-source libraries and projects.
+* Contributions to the open\\-source community (GitHub, Stack Overflow, blogging).
+* Existing exposure to Go, AWS, Cassandra, Kafka, OpenSearch.
+* Prior experience in the cybersecurity or intelligence fields.
+
+
+ \\#HTF
+   
+
+  
+
+****Benefits Of Working At CrowdStrike:****
+* Remote\\-friendly and flexible work culture
+* Market leader in compensation and equity awards
+* Comprehensive physical and mental wellness programs
+* Competitive vacation and holidays for recharge
+* Paid parental and adoption leaves
+* Professional development opportunities for all employees regardless of level or role
+* Employee Networks, geographic neighborhood groups, and volunteer opportunities to build connections
+* Vibrant office culture with world class amenities
+* Great Place to Work Certified™ across the globe
+
+
+ CrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program.
+   
+
+  
+
+ CrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy\\-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions\\-\\-including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay\\-offs, return from lay\\-off, terminations and social/recreational programs\\-\\-on valid job requirements.
+   
+
+  
+
+ If you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at recruiting@crowdstrike.com for further assistance.
+   
+
+  
+
+ Find out more about your rights as an applicant.
+   
+
+  
+
+ CrowdStrike participates in the E\\-Verify program.
+   
+
+  
+
+ Notice of E\\-Verify Participation
+   
+
+  
+
+ Right to Work
+   
+
+  
+
+ CrowdStrike, Inc. is committed to fair and equitable compensation practices. Placement within the pay range is dependent on a variety of factors including, but not limited to, relevant work experience, skills, certifications, job level, supervisory status, and location. The base salary range for this position for all U.S. candidates is $120,000 \\- $180,000 per year, with eligibility for bonuses, equity grants and a comprehensive benefits package that includes health insurance, 401k and paid time off.
+   
+
+  
+
+ For detailed information about the U.S. benefits package, please click here.
+   
+
+  
+
+ Expected Close Date of Job Posting is:12\\-30\\-2025,
+   
+
+  
+
+****Bonus Points:****
+* Authored and lead successful open\\-source libraries and projects.
+* Contributions to the open\\-source community (GitHub, Stack Overflow, blogging).
+* Existing exposure to Go, AWS, Cassandra, Kafka, OpenSearch.
+* Prior experience in the cybersecurity or intelligence fields.","Computer and Network Security","https://www.linkedin.com/company/crowdstrike","https://media.licdn.com/dms/image/v2/C560BAQFxQkzeHZxIYg/company-logo_100_100/company-logo_100_100/0/1633985771178/crowdstrike_logo?e=2147483647&v=beta&t=7TeodHVOuBXCNYfZBj65JvaqHKl0yY9VsRaTEj8ISQA","","","","","","","","","","",""
+"li-4331760293","linkedin","https://www.linkedin.com/jobs/view/4331760293","","Software Engineer (C++), Exposure Management (Remote)","CrowdStrike","South Carolina, United States","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","recruiting@crowdstrike.com","As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI\\-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We’re also a mission\\-driven company. We cultivate a culture that gives every CrowdStriker both the flexibility and autonomy to own their careers. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you.
+   
+
+  
+
+****About The Role:****
+ CrowdStrike Falcon Host is a two\\-component security product. One component is a “sensor” which is a lightweight agent installed on client machines that observes system activity and recognizes malicious behavior, then provides on\\-box prevention capability and remote telemetry to the Falcon Host cloud.
+   
+
+  
+
+ The cloud component aggregates sensor telemetry for each customer’s network, can correlate malicious behavior across multiple machines, and presents our customers’ operations teams with a prioritized summary of the threats detected in their environments.
+   
+
+  
+
+ This is a
+ **Software Development Engineer** 
+ (SDE) role in the engineering team that delivers the sensor (lightweight agent) on Windows/Linux/Mac OS X. SDE’s in the team own design and development of features for the products in Exposure Management product group. Features may cross\\-cut core OS subsystems such as file system, memory, process, and networking. Many features are also built in a way that they will have shared components across Windows, Mac and Linux. The team operates under the Agile development principles and ships frequently.
+   
+
+  
+
+****What You'll Do:****
+* Lead Engineering efforts and work along with the Product Management where applicable helping define the scope of work
+* Demonstrate ownership, accountability and collaborate with cross\\-functional teams across Product Groups that are geographically distributed
+* Design and develop user mode software for deployment on Windows systems
+* Own features from design to delivery
+* Collaborate with multi\\-functional team in various physical locations
+* Troubleshoot issues with the product as reported from customers responsively
+* Develop software for Products as assigned (Falcon Discover, and more)
+
+
+****What You’ll Need:****
+* Can develop high\\-quality code in C\\+\\+ for Windows OS and can demonstrate that capability, be it through job experience or contributions to community projects
+* Experience working on a team to ship major features and releases
+* Able to communicate, collaborate, and work effectively in a distributed team
+* Understanding of networking fundamentals
+* Mac and Linux OS development experience is plus
+* Experience building cyber security related products is a plus
+* Experience on developing product code with the following characteristics: High concurrency requirements needing strong use of multi\\-threading and high reliability requirements
+* B.S. Degree in related field.
+
+
+ \\#HTF
+   
+
+  
+
+****Benefits Of Working At CrowdStrike:****
+* Remote\\-friendly and flexible work culture
+* Market leader in compensation and equity awards
+* Comprehensive physical and mental wellness programs
+* Competitive vacation and holidays for recharge
+* Paid parental and adoption leaves
+* Professional development opportunities for all employees regardless of level or role
+* Employee Networks, geographic neighborhood groups, and volunteer opportunities to build connections
+* Vibrant office culture with world class amenities
+* Great Place to Work Certified™ across the globe
+
+
+ CrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program.
+   
+
+  
+
+ CrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy\\-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions\\-\\-including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay\\-offs, return from lay\\-off, terminations and social/recreational programs\\-\\-on valid job requirements.
+   
+
+  
+
+ If you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at recruiting@crowdstrike.com for further assistance.
+   
+
+  
+
+ Find out more about your rights as an applicant.
+   
+
+  
+
+ CrowdStrike participates in the E\\-Verify program.
+   
+
+  
+
+ Notice of E\\-Verify Participation
+   
+
+  
+
+ Right to Work
+   
+
+  
+
+ CrowdStrike, Inc. is committed to fair and equitable compensation practices. Placement within the pay range is dependent on a variety of factors including, but not limited to, relevant work experience, skills, certifications, job level, supervisory status, and location. The base salary range for this position for all U.S. candidates is $120,000 \\- $180,000 per year, with eligibility for bonuses, equity grants and a comprehensive benefits package that includes health insurance, 401k and paid time off.
+   
+
+  
+
+ For detailed information about the U.S. benefits package, please click here.
+   
+
+  
+
+ ,
+   
+
+  
+
+****What You’ll Need:****
+* Can develop high\\-quality code in C\\+\\+ for Windows OS and can demonstrate that capability, be it through job experience or contributions to community projects
+* Experience working on a team to ship major features and releases
+* Able to communicate, collaborate, and work effectively in a distributed team
+* Understanding of networking fundamentals
+* Mac and Linux OS development experience is plus
+* Experience building cyber security related products is a plus
+* Experience on developing product code with the following characteristics: High concurrency requirements needing strong use of multi\\-threading and high reliability requirements
+* B.S. Degree in related field.","Computer and Network Security","https://www.linkedin.com/company/crowdstrike","https://media.licdn.com/dms/image/v2/C560BAQFxQkzeHZxIYg/company-logo_100_100/company-logo_100_100/0/1633985771178/crowdstrike_logo?e=2147483647&v=beta&t=7TeodHVOuBXCNYfZBj65JvaqHKl0yY9VsRaTEj8ISQA","","","","","","","","","","",""
+"li-4311115002","linkedin","https://www.linkedin.com/jobs/view/4311115002","https://ad.doubleclick.net/ddm/clk/416849445;275979402;z?https://jobs.centene.com/us/en/jobs/1602556/business-solutions-developer-ii/?utm_source=linkedin.com&utm_medium=social_media&utm_campaign=always_on-full_scrape_&utm_content=job_posting&ss=paid&source=LinkedIn&urlHash=9Kt9","Business Solutions Developer II","Centene Corporation","South Carolina, United States","","fulltime","","","","","",True,"not applicable","Engineering and Information Technology","","","You could be the one who changes everything for our 28 million members. Centene is transforming the health of our communities, one person at a time. As a diversified, national organization, you’ll have access to competitive benefits including a fresh perspective on workplace flexibility.
+   
+
+  
+
+**Position Purpose** 
+ Plans, conceptualizes, configures, and builds SQL solutions that solve common challenges within the business by using technological tools or programs. Conducts research and requirement gathering to determine customer needs and drive strategy and oversee the development process. A cross\\-functional role that encompasses a broad range of business knowledge and technical skillsets, working in collaboration with multiple teams and specialists. Takes an active role in design, development, testing, troubleshooting and maintenance.
+   
+
+  
+
+* Writes SQL code for software programs and applications using inheritance and virtualization following best programming practices.
+* Performs complex research and analysis to find best solutions to stakeholder requests or problems using best method or tools to develop solutions.
+* Conducts meetings to gather requirements and updates on ongoing projects. Maintains communication with stakeholders during solution development.
+* Collaborating with peers on development and solution strategy to identify the most efficient and effective product solutions. Performs regular code reviews and requests.
+
+
+**Education/Experience** 
+ Bachelor's degree in Computer Science, MIS, related field, or equivalent experience. 2\\+ years of experience in the field or in a related area. Completion of a technical training program (e.g., LaunchCode, FDM, etc.) may be considered in lieu of a bachelor’s degree. Healthcare experience a plus. Solid SQL skills and frameworks development experience. Experience with Business Intelligence Tools, such as Power BI.
+   
+
+  
+
+ Pay Range $68,700\\.00 \\- $123,700\\.00 per year
+   
+
+  
+
+ Centene offers a comprehensive benefits package including competitive pay, health insurance, 401K and stock purchase plans, tuition reimbursement, paid time off plus holidays, and a flexible approach to work with remote, hybrid, field or office work schedules. Actual pay will be adjusted based on an individual's skills, experience, education, and other job\\-related factors permitted by law, including full\\-time or part\\-time status. Total compensation may also include additional forms of incentives. Benefits may be subject to program eligibility.
+   
+
+  
+
+ Centene is an equal opportunity employer that is committed to diversity, and values the ways in which we are different. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other characteristic protected by applicable law.
+   
+
+  
+
+ Qualified applicants with arrest or conviction records will be considered in accordance with the LA County Ordinance and the California Fair Chance Act","Hospitals and Health Care and Insurance","https://www.linkedin.com/company/centene-corporation","https://media.licdn.com/dms/image/v2/D560BAQGaq00RQVq88Q/company-logo_100_100/B56ZVi8V.kHQAQ-/0/1741121741295/centene_corporation_logo?e=2147483647&v=beta&t=NrRKAovPMrCgkHUWdYoK3qZGOs32NA9L8SmWEwFDPXM","","","","","","","","","","",""
+"li-4338428094","linkedin","https://www.linkedin.com/jobs/view/4338428094","https://talent.fullstack.com/jobs/93d5c80e-cbc2-48df-b084-bc1c6a7c2509&urlHash=AbXu","Senior Golang Integration Engineer - Remote - USA","FullStack","Columbia, SC","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**About FullStack**
+ FullStack is one of the fastest\\-growing software consultancy companies in the Americas. We deliver transformational digital solutions to top global companies and Silicon Valley startups. As an employee\\-first company, we focus on hiring the most talented software designers and developers by creating a positive, respectful, and supportive work environment where they can achieve their greatest potential.
+   
+
+  
+
+**We’re Most Proud Of**
+* Offering life\\-changing career opportunities to talented software professionals across the Americas.
+* Building highly\\-skilled software development teams for hundreds of the world’s greatest companies.
+* Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.
+* Our 4\\.2\\-star rating on GlassDoor.
+* Our client Net Promoter Score of 68, twice the industry average.
+
+
+**The Position**
+ We're Looking To Hire a Senior Golang Integration Engineer To Join Our Team. You'll Work With Our Incredible Clients In One Of Two Ways
+   
+
+  
+
+* Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+* Design \\& Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+
+**What We're Looking For**
+* 5\\+ years of professional software development experience.
+* Advanced English is required.
+* Successful completion of a four\\-year college degree is required.
+* Strong proficiency in Golang.
+* Experience in the health tech sector or with healthcare\\-related systems is highly preferred.
+* Proven experience building third\\-party integrations.
+* Experience building integrations with claims clearinghouses such as Aility, including receiving, processing, and returning insurance claims in EDI formats.
+* Hands\\-on experience integrating with financial systems like Modern Treasury, leveraging it as a ledger platform for managing and tracking financial transactions.
+* Ability to work through new and difficult issues and contribute to libraries as needed.
+* Ability to create and maintain continuous integration and delivery of applications.
+* Forensic attention to detail.
+* A positive mindset and a can\\-do attitude.
+* Experience working on Agile / Scrum teams.
+* Meaningful experience working on large, complex systems.
+* Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.
+* Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+* Ability to consistently work 40 hours per week.
+
+
+**What We Offer**
+* Competitive Salary.
+* Paid Time Off (vacation, sick leave, maternity and paternity leave, holidays).
+* 100% remote work.
+* The ability to work with leading startups and Fortune 500 companies.
+* Health, dental, and vision insurance.
+* 401(k) w/ 4% match.
+* Ample opportunity for career advancement.
+* Continuing education opportunities.
+
+
+ FullStack is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status.
+   
+
+  
+
+ Learn more about our Applicants Privacy Notice.","IT Services and IT Consulting, Computer and Network Security, and Information Services","https://www.linkedin.com/company/fullstack-labs","https://media.licdn.com/dms/image/v2/D4E0BAQFl6I0phUCDQg/company-logo_100_100/B4EZo1FC7hIIAQ-/0/1761827107300/fullstack_labs_logo?e=2147483647&v=beta&t=TX2W7XY8VQOqyE5uwUHWxTPZC3rSHuZcy5UN31sBL-4","","","","","","","","","","",""

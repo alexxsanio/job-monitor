@@ -1,0 +1,1325 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"li-4323452417","linkedin","https://www.linkedin.com/jobs/view/4323452417","","Software Engineer","Pearson","Santa Fe, NM","2025-11-19","fulltime","","","","","",True,"not applicable","Engineering and Information Technology","","TalentExperienceGlobalTeam@grp.pearson.com","**Organization Summary**
+ At Pearson, we are committed to a world that is always learning and to our talented team who makes it all possible.  We are bold thinkers and standout innovators who push the boundaries of technology. We create seeds of learning that become the catalyst for the world’s innovations. Within the Pearson Virtual Schools (PVS) division we have reimagined K\\-12 education through our virtual school and curriculum offerings. Our schools, Connections Academy and Pearson Online Academy, provide a best\\-in\\-class online learning environment for K\\-12 students to acquire the skills and confidence they need to adapt and thrive in a changing world.  We also support school districts with curriculum, teachers, and technology as they make the shift to online. The COVID\\-19 pandemic introduced significant disruption and transformation to the K\\-12 learning market. And as a result, our category has seen explosive growth, and our business has experienced enormous increases in awareness and enrollment. This presents an incredible opportunity for our team to chart a ground\\-breaking path through this shifting environment to achieve continued success.
+   
+
+  
+
+**Position Summary**
+**Pearson Virtual Schools is seeking a mission\\-driven software engineer with a passion for innovation and problem\\-solving.** 
+ This role is ideal for someone who thrives on exploring new technologies, values scalable and efficient solutions, and is committed to delivering exceptional customer experiences. As a key member of our team, you will contribute to the evolution of our K–12 online learning platform by building new features, enhancing existing functionality, and driving meaningful impact in digital education.
+   
+
+  
+
+**Core Tasks And Responsibilities**
+ Design and deliver high\\-quality software solutions using appropriate technologies, aligned with business goals, architectural standards, and engineering best practices.
+   
+
+  
+
+ Leverage modern development tools and emerging technologies, including AI\\-powered solutions, to accelerate delivery, enhance code quality, and drive innovation throughout the software lifecycle.
+   
+
+  
+
+ Evaluate technical alternatives and collaborate with cross\\-functional teams to determine and implement the most effective solutions.
+   
+
+  
+
+ Embrace and execute Agile methodologies to foster collaboration, transparency, and continuous delivery across the development lifecycle.
+   
+
+  
+
+ Document solutions at a level that supports clarity, collaboration, and long\\-term maintainability. Focus on capturing key design decisions, implementation details, and rationale to ensure shared understanding across the team and continuity over time.
+   
+
+  
+
+ Actively pursue technical growth through structured training opportunities, including courses, workshops, and certifications, while also staying informed through industry literature and peer engagement.
+   
+
+  
+
+ Support departmental and organizational goals by proactively contributing to initiatives and tasks that enhance engineering practices and operational efficiency.
+   
+
+  
+
+ Provide support for occasional system issues, including off\\-hours incidents, and coordinate team responses.
+   
+
+  
+
+**Required Skills, Experience, And Competencies**
+ Ability to develop object\\-oriented Web applications, preferably using C\\#/.NET.
+   
+
+  
+
+ Familiarity with JavaScript and modern web frameworks (e.g. React, Angular, Node.js).
+   
+
+  
+
+ Understanding of microservices architecture and building RESTful APIs.
+   
+
+  
+
+ Basic knowledge of SQL and relational databases.
+   
+
+  
+
+ Awareness of cloud computing concepts and technologies; exposure to platforms like AWS or Azure is a plus.
+   
+
+  
+
+ Basic understanding of AI and machine learning concepts.
+   
+
+  
+
+ Ability to integrate AI\\-powered features into applications to enhance functionality.
+   
+
+  
+
+ Capability to proactively use AI\\-assisted tools to improve engineering workflows, such as code generation, debugging, documentation, or task automation, to accelerate individual and team productivity.
+   
+
+  
+
+ Familiarity with the software development lifecycle and version control systems like Git.
+   
+
+  
+
+ Exposure to CI/CD practices, especially using tools like GitHub Actions or Azure Pipelines.
+   
+
+  
+
+ Experience with work item tracking tools (e.g. Jira, Azure DevOps).
+   
+
+  
+
+ Willingness to learn and apply Agile methodologies, particularly Scrum, including active participation in sprint planning, stand\\-ups, and retrospectives.
+   
+
+  
+
+ Understanding of Test\\-Driven Development (TDD) concepts.
+   
+
+  
+
+ Strong problem\\-solving skills with the ability to work independently and ask for help when needed.
+   
+
+  
+
+ Ability to work and collaborate effectively in a remote team environment.
+   
+
+  
+
+ Clear and professional verbal and written communication skills.
+   
+
+  
+
+ Attention to detail and commitment to writing clean, maintainable code.
+   
+
+  
+
+ Eagerness to learn and grow through feedback and mentorship.
+   
+
+  
+
+ Reliable high\\-speed internet access for remote work.
+   
+
+  
+
+**Key Behaviors**
+**Mission\\-Driven Mindset** 
+ : You care deeply about people and our mission. You prioritize collaboration with teammates, internal partners, and customers, and strive to contribute meaningfully to shared goals.
+   
+
+  
+
+**Active Listener** 
+ : You seek diverse perspectives, ask thoughtful questions, and remain open to learning new approaches and better ways of working.
+   
+
+  
+
+**Initiative and Ownership** 
+ : You take action when you see a problem, even if it’s outside your immediate scope. You’re eager to contribute and learn by doing, and you support others in finding solutions.
+   
+
+  
+
+**Courage to Grow** 
+ : You welcome new challenges, take calculated risks, and embrace opportunities to improve yourself, your team, and the customer experience.
+   
+
+  
+
+**Respectful Communication** 
+ : You engage in honest conversations with empathy and professionalism, even when the topics are difficult.
+   
+
+  
+
+**Proactive Contributor** 
+ : You stay alert to potential issues and work with your team to address them early, learning to anticipate needs and act with purpose.
+   
+
+  
+
+**Adaptability** 
+ : You respond positively to change and help your team navigate it, always keeping the customer’s best interest in mind.
+   
+
+  
+
+**Team\\-Oriented Collaboration** 
+ : You value input from others, technical and non\\-technical, and communicate clearly to bridge gaps and build shared understanding.
+   
+
+  
+
+**Attention to Detail** 
+ : You take pride in the quality of your work, ensuring accuracy and reliability in everything you build or support.
+   
+
+  
+
+*Applications will be accepted through 11/24/2025\\. This window may be extended depending on business needs.*
+ Compensation at Pearson is influenced by a wide array of factors including but not limited to skill set, level of experience, and specific location. As required by the California, Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, New York State, New York City, Vermont, Washington State, and Washington DC laws, the pay range for this position is as follows:
+   
+
+  
+
+ The minimum full\\-time salary range is between $85,000 \\- $100,000\\.
+   
+
+  
+
+ This position is eligible to participate in an annual incentive program, and information on benefits offered is here.
+   
+
+  
+
+**Who We Are**
+ At Pearson, our purpose is simple: to help people realize the life they imagine through learning. We believe that every learning opportunity is a chance for a personal breakthrough. We are the world's lifelong learning company. For us, learning isn't just what we do. It's who we are. To learn more: We are Pearson.
+   
+
+  
+
+ Pearson is an Equal Opportunity Employer and a member of E\\-Verify. Employment decisions are based on qualifications, merit and business need. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, sexual orientation, gender identity, gender expression, age, national origin, protected veteran status, disability status or any other group protected by law. We actively seek qualified candidates who are protected veterans and individuals with disabilities as defined under VEVRAA and Section 503 of the Rehabilitation Act.
+   
+
+  
+
+ If you are an individual with a disability and are unable or limited in your ability to use or access our career site as a result of your disability, you may request reasonable accommodations by emailing TalentExperienceGlobalTeam@grp.pearson.com.
+   
+
+  
+
+**Job:** 
+ Engineering
+   
+
+  
+
+**Job Family:** 
+ TECHNOLOGY
+   
+
+  
+
+**Organization:** 
+ Virtual Learning
+   
+
+  
+
+**Schedule:** 
+ FULL\\_TIME
+   
+
+  
+
+**Workplace Type:** 
+ Remote
+   
+
+  
+
+**Req ID:** 
+ 21664
+   
+
+  
+
+ \\#location","Education Administration Programs and E-Learning Providers","https://uk.linkedin.com/company/pearson","https://media.licdn.com/dms/image/v2/D4E0BAQG9W4lfcWc9dQ/company-logo_100_100/B4EZYPofEYHkAQ-/0/1744018993869/pearson_logo?e=2147483647&v=beta&t=tatnP8PCFOON7lKpbmG0JRCF4QYNwFaondEAOnunhUs","","","","","","","","","","",""
+"li-4300117980","linkedin","https://www.linkedin.com/jobs/view/4300117980","","REMOTE AI Systems Engineer - HPC","CyberCoders","Las Vegas, NM","2025-11-19","fulltime","","","","","",True,"mid-senior level","Engineering","","sean.gur@cybercoders.com, Benefits@CyberCoders.com","**Title:** 
+ AI Systems Engineer
+   
+
+  
+
+**Location:** 
+ FULLY remote!
+   
+
+  
+
+**Salary:** 
+ $175k\\-$250k base \\+ RSUs \\+ Full Benefits
+   
+
+  
+
+**Requirements:** 
+ 3\\+ years of Systems Engineering/DevOps/AI Infrastructure, AI, Python/Golang/Rust, and HPC experience
+   
+
+  
+
+ Our HPC infrastructure goes beyond just the GPU \\- allowing companies to train, iterate, and deploy AI \\& ML projects faster than ever! We specialize in high\\-performance GPU cloud solutions tailored for AI \\& ML projects and cutting\\-edge infrastructure (including GPU clusters, high\\-speed networking, and scalable storage) to support demanding workloads. Our services are designed to optimize performance, reliability, and affordability for AI researchers, ML engineers, and enterprises.
+   
+
+  
+
+ We're currently experiencing MASSIVE GROWTH... Our revenue grew over 95% in the last YEAR! We have made several acquisitions and formed several partnerships during this period of growth, and we need YOUR HELP to keep it going...
+ **We're currently seeking a talented and highly motivated AI Systems Engineer to design, build, and optimize the infrastructure that powers AI\\-driven applications.** 
+ You'll work at the intersection of hardware, software, and data \\- enabling efficient deployment of AI models and solutions at scale.
+   
+
+  
+
+ The ideal candidates have a strong background in systems engineering, high\\-performance computing, software defined networking, and general software development, with some experience in machine learning and deploying/maintaining AI systems in production.
+   
+
+  
+
+**What You'll Be Doing**
+* AI Infrastructure Design and Development:
++ Design and implement scalable AI/ML infrastructure.
++ Optimize AI pipelines for performance and reliability.
++ Integrate AI models using CI/CD best practices.
+
+* Model Deployment and Optimization:
++ Deploy AI models in various environments (cloud, edge, on\\-premises).
++ Optimize inference performance for latency, throughput, and energy efficiency.
++ Use tools like TensorRT and ONNX to accelerate models.
+
+* Systems Engineering:
++ Maintain HPC clusters, GPUs, and distributed systems.
++ Develop tools for system monitoring and troubleshooting.
++ Ensure AI system reliability through proactive maintenance.
+
+* Collaboration and Cross\\-Functional Work:
++ Align AI systems with overall product architecture.
++ Support AI researchers with efficient data pipelines and computing environments.
+
+* Security and Compliance:
++ Ensure compliance with security standards and data privacy regulations.
++ Secure sensitive data and models in production.
+
+* Emerging Technology Integration:
++ Stay updated with AI and machine learning advancements.
++ Integrate new tools and methods to enhance systems.
+
+
+**What You Need For This Position**
+* 5\\+ years of Systems Engineering, DevOps, or AI/ML Infrastructure experience
+* 2\\+ years of experience in High Performance Computing
+* Experience building cloud computing platforms (from scratch is a huge plus)
+* Hands\\-on experience with AI frameworks (TensorFlow, PyTorch, etc.)
+* Experience deploying AI/ML models in production environments
+* Strong knowledge of distributed systems \\& HPC for AI workloads
+* Experience with containerization \\& orchestration tools (Docker, Kubernetes, etc.)
+* Programming skills in Golang, Python, or Rust
+* Familiarity with AI platform tools (Mosaic AI, Run.AI, SageMaker, Vetex AI, etc.)
+* Familiarity with Infiniband and/or RoCEv2 networking, \\& NCCL
+* Proficiency in using AI hardware accelerators (GPUs, TPUs, etc)
+* BS in Computer Science, Engineering, or related (Master's degree is a huge plus)
+
+
+**What's In It For You**
+* $175k \\- $250k/year DOE
+* RSU's
+* 5 weeks PTO
+* 401k w/ match
+* Comprehensive Benefit Plan
+
+
+**Email Your Resume In Word To**
+ Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:
+   
+
+  
+
+ sean.gur@cybercoders.com
+   
+
+  
+
+* Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : AH12\\-1877207L510 \\-\\- in the email subject line for your application to be considered.\\*\\*\\*
+
+
+ Sean Gur \\- Lead Recruiter
+   
+
+  
+
+ For this position, you must be currently authorized to work in the United States without the need for sponsorship for a non\\-immigrant visa.
+   
+
+  
+
+ This job was first posted by CyberCoders on 08/05/2025 and applications will be accepted on an ongoing basis until the position is filled or closed.
+   
+
+  
+
+**CyberCoders is proud to be an Equal Opportunity Employer**
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, sexual orientation, gender identity or expression, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, status as a crime victim, disability, protected veteran status, or any other characteristic protected by law. CyberCoders will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable state and local law, including but not limited to the Los Angeles County Fair Chance Ordinance, the San Francisco Fair Chance Ordinance, and the California Fair Chance Act. CyberCoders is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities. Individuals needing special assistance or an accommodation while seeking employment can contact a member of our Human Resources team at Benefits@CyberCoders.com to make arrangements.","Software Development","https://www.linkedin.com/company/cybercoders","https://media.licdn.com/dms/image/v2/D560BAQEBhFBVjnaEZw/company-logo_100_100/company-logo_100_100/0/1736462383718/cybercoders_logo?e=2147483647&v=beta&t=RY4OO4uf0O_kpAvTlnNJ5B9HTnlibll_tzsHRImLZmc","","","","","","","","","","",""
+"li-4341308420","linkedin","https://www.linkedin.com/jobs/view/4341308420","","Mission Systems Engineer","EVONA","","2025-11-18","fulltime","","","","","",False,"mid-senior level","Engineering","","","**Mission Systems Engineer – Space Operations \\& Modeling** 
+
+
+
+
+ Albuquerque, NM (Hybrid or Onsite preferred)
+ 
+
+
+
+  
+
+
+
+
+
+ Are you passionate about the future of in\\-orbit operations and cutting\\-edge space tech? Join a venture\\-backed startup that’s developing the next generation of energy infrastructure in space.
+ 
+
+
+
+  
+
+
+
+
+
+ We’re looking for a
+ **Mission Systems Engineer** 
+ to own modeling, simulation, and operational analysis of our missions. You’ll be a key contributor to flight concept development, satellite operations planning, and proximity maneuver strategies\\- working across mission design, rendezvous and proximity operations (RPO), and laser deconfliction.
+ 
+
+
+
+  
+
+
+
+
+
+ 🛠️
+ **What You’ll Do** 
+
+
+
+* Model and simulate satellite communication and optical links to inform performance trades and link budgets
+* Analyze RPO scenarios (proximity geometries, timelines, and safety constraints) to support mission planning and execution
+* Support orbital design, conjunction assessment, and mission timeline optimization
+* Coordinate laser safety and deconfliction, including Laser Clearinghouse constraints and mission impact analyses
+* Generate technical documentation and clearly communicate findings to engineering, program, and operations teams
+
+
+
+  
+
+
+
+
+
+ 🎯
+ **What You’ll Bring** 
+
+
+
+* Experience with space mission M\\&S tools (e.g., STK, AFSIM, FreeFlyer, internal DoD/DOE tools)
+* Strong Python or MATLAB skills for building repeatable, automatable analyses
+* Understanding of orbital mechanics, RPO principles, and satellite operations
+* Familiarity with laser path planning, safety, and regulatory deconfliction processes
+* Clear, confident communicator\\- both written and verbal
+* US Citizenship; ability to obtain a
+ **Top Secret/SCI** 
+ clearance
+
+
+
+  
+
+
+
+
+
+ 🚀 Why Join?
+ 
+
+
+* Work on first\\-of\\-its\\-kind technology in space\\-based power systems
+* Competitive salary \\+
+ **equity**
+* 401(k) with match, full medical/dental/vision/life coverage
+* Small, elite team with deep backgrounds in aerospace and defense startups","Defense and Space Manufacturing, Space Research and Technology, and Aviation and Aerospace Component Manufacturing","https://www.linkedin.com/company/evona-space","https://media.licdn.com/dms/image/v2/D560BAQHh7YZ5-6eHtA/company-logo_100_100/company-logo_100_100/0/1730470780731/evona_space_logo?e=2147483647&v=beta&t=R8NEuZH5TUwgr6f9JqFbm8AZx0A5yWMXSZqR6kG6mNs","","","","","","","","","","",""
+"li-4337000080","linkedin","https://www.linkedin.com/jobs/view/4337000080","","Principal Optical Algorithm Developer","Mogi I/O : OTT/Podcast/Short Video Apps for you","Santa Fe, NM","2025-11-18","fulltime","description","yearly",200000.0,250000.0,"USD",True,"mid-senior level","Engineering and Information Technology","","","**Work Type: Full\\-Time \\| Permanent \\| Onsite (Austin, TX – 5 days a week)
+   
+
+  
+
+ Experience Required: 10–15 Years )
+   
+
+  
+
+ Compensation: USD $200,000 – $250,000 \\+ Equity (4\\-year vesting) \\+ Relocation (case\\-by\\-case)
+   
+
+  
+
+ Industry/Domain: Semiconductor – Optical DSP, Cloud \\& AI Infrastructure**
+**Job Overview**
+**We are hiring an experienced Optical DSP Chief Architect to lead the definition, design, and optimization of advanced DSP architectures for next\\-generation optical communication systems (800G/1\\.6T and beyond). The role will drive system\\-level design, algorithm innovation, and cross\\-functional collaboration to deliver high\\-performance coherent DSP solutions powering cloud and AI data center connectivity.**
+**This position offers the opportunity to shape foundational DSP technologies at scale, working in a fast\\-growth semiconductor environment backed by top\\-tier global investors.**
+**Key Responsibilities**
+* Define the system architecture for high\\-speed optical DSP chips (800G/1\\.6T and beyond).
+* Develop and refine DSP algorithms for equalization, error correction, CDR, and signal optimization.
+* Partner with hardware, firmware, and chip design teams to optimize for performance, power, and area.
+* Perform system\\-level modeling and simulations to validate algorithms and architectures.
+* Collaborate with photonics and RF teams for seamless DSP–optical front\\-end integration.
+* Establish performance metrics, validation methodologies, and compliance with optical standards
+* Engage with customers and industry partners to align DSP innovations with market needs.
+* Stay at the forefront of advancements in DSP, optics, semiconductors, and cloud infrastructure.
+
+
+**Minimum Qualifications**
+* Master’s or Ph.D. in Electrical Engineering, Computer Engineering, or related field.
+* 10–15 years of experience in DSP algorithm development, system architecture, and ASIC design for optical communications.
+* Expertise in digital signal processing, communication theory, and error correction codes.
+* Hands\\-on experience with MATLAB, Python, or C/C\\+\\+ for DSP simulations and algorithm development.
+* Strong knowledge of ASIC design and system\\-on\\-chip integration.
+* Familiarity with OIF standards, high\\-speed SerDes, ADC/DAC interfaces, mixed\\-signal design.
+* Deep understanding of optical modulation techniques and coherent transmission systems.
+* Must be able to work onsite in Austin, TX (no remote option).
+
+
+**Preferred Skills**
+* Strong leadership and team collaboration skills.
+* Experience with photonic ICs and DSP co\\-design.
+* Background in real\\-time embedded DSP implementations.
+* Proven record of delivering DSP architectures in commercial optical communication products.","Software Development","https://in.linkedin.com/company/mogi-i-o","https://media.licdn.com/dms/image/v2/D560BAQHQVlnA1bxdNg/company-logo_100_100/B56ZoGNGkJKoAQ-/0/1761040690722/mogi_i_o_logo?e=2147483647&v=beta&t=830NtI_usNORCowWj4ZFbug13dcr5K1FK9qhJn2zr-Q","","","","","","","","","","",""
+"li-4322982811","linkedin","https://www.linkedin.com/jobs/view/4322982811","","Senior IT Application Developer (DOH/ITSD #69817)","New Mexico Department of Health","Santa Fe, NM","2025-11-18","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Salary**
+ $39\\.11 \\- $62\\.58 Hourly
+   
+
+  
+
+ $81,349 \\- $130,159 Annually
+   
+
+  
+
+ This position is a Pay Band C11
+   
+
+  
+
+**Posting Details**
+ Interviews are anticipated within two (2\\) weeks of closing date.
+   
+
+  
+
+ The New Mexico Department of Health works in many ways to promote, preserve and protect our health. ITASD support many programs within DOH all of which provide some of the most requested and important services we provide to our customers.
+   
+
+  
+
+**Why does the job exist?**
+ The purpose of this position within the ADSB team in the Information Technology Services Division will be to serve as the Senior Senior IT Application Developer for the New Mexico Department of Health.
+   
+
+  
+
+**How does it get done?**
+ This position will be responsible for operations, maintenance, support, planning, programming, and troubleshooting of our applications and development of custom applications.
+   
+
+  
+
+ The applicant Independently will need to perform the most complex assignments often requiring the development of new or
+   
+
+  
+
+ improved applications, processes, or techniques. Contribute to all phases of a project, including systems
+   
+
+  
+
+ analysis, program design, development, and implementation. Serve as a liaison between client partners,
+   
+
+  
+
+ IT, project managers, and other stakeholders in planning and building software solutions.
+   
+
+  
+
+ This position will work directly with, and will need to communicate effectively with, DOH Program partners, external Program partners, ITSD staff and Leadership, DOH management, and other technical staff at the Department of Information Technology (DoIT). This position requires the ability to perform and accomplish job requirements with minimal direction and/or supervision; the ability to work successfully in a team environment; and the ability to apply industry best practices.
+   
+
+  
+
+**Who are the customers?**
+ This position supports all of DOH.
+   
+
+  
+
+**Ideal Candidate**
+ Experience with Windows Platform, Front End GUI Development .NET, SQL, C\\#, PowerShell, Java, JavaScript, and Python.
+   
+
+  
+
+ Excellent written and verbal communication skills.
+   
+
+  
+
+ Excellent organizational and time management skills.
+   
+
+  
+
+ The ability to think outside the box and develop creative, effective solutions.
+   
+
+  
+
+ The ability to adapt and to thrive in an ever changing, fast paced environment, that at times is high pressure/high stress.
+   
+
+  
+
+**Minimum Qualification**
+ Bachelor's degree in Computer Science, Management Information Systems (MIS), Information Technology, Engineering, or similar technical degree and three (3\\) years of experience in software programming. Any combination of education from an accredited college or university in a related field and/or direct experience in this occupation totaling seven (7\\) years may substitute for the required education and experience.
+   
+
+  
+
+**Employment Requirements**
+ Must possess and maintain a valid Driver's License.
+   
+
+  
+
+**Working Conditions**
+ Work is performed in an office setting with exposure to Visual/Video Display Terminal (VDT), extensive personal computer and phone usage. Travel statewide is required.
+   
+
+  
+
+**Supplemental Information**
+ Do you know what Total Compensation is? Click here
+   
+
+  
+
+ Agency Contact Information: Naombel Frostad (505\\) 469\\-9870 Email
+   
+
+  
+
+ For information on Statutory Requirements for this position, click the Classification Description link on the job advertisement.
+   
+
+  
+
+**Bargaining Unit Position**
+ This position is covered by a collective bargaining agreement and all terms/conditions of that agreement apply and must be adhered to.","Government Administration","https://www.linkedin.com/company/nmdoh","https://media.licdn.com/dms/image/v2/D560BAQFJGdHvORCKkw/company-logo_100_100/company-logo_100_100/0/1719257192870?e=2147483647&v=beta&t=p91-i3V77Q_lOFDmuFQz2lhp6V8U5DA6t7tt-voKJKg","","","","","","","","","","",""
+"li-4332429982","linkedin","https://www.linkedin.com/jobs/view/4332429982","","Mesh Generation Postdoc","Los Alamos National Laboratory","Los Alamos, NM","2025-11-18","fulltime","","","","","",False,"not applicable","Research, Analyst, and Information Technology","","applyhelp@lanl.gov","**What You Will Do**
+ Join our world\\-class team! Now is your chance to make a difference in supporting our national security mission. The XCP\\-4, Continuum Models and Numerical Methods, group of Los Alamos National Laboratory is seeking qualified candidates for a postdoctoral position researching methods at the intersection of computational geometry, mesh generation and machine learning.
+   
+
+  
+
+ XCP\\-4 is responsible for the design and implementation of a wide variety of physical models and simulation setup software including high explosive, turbulence, solid dynamics and damage models, and is a leader in the development of numerical methods for hydrodynamics simulations, remap and computational meshes.
+   
+
+  
+
+ The successful candidate will contribute within a collaborative team environment to research, develop, implement, and integrate methods for machine learning aided block structured mesh generation algorithms. The candidate will be part of a multi\\-disciplinary team that also includes research and development on methods for field remapping, material interface tracking, code\\-to\\-code linking, and automated simulation workflows. All the work is done in high performance computing environments with multi\\-core CPUs and GPUs using UNIX operating systems.
+   
+
+  
+
+ The successful candidate will have strong skills in the domain areas of unstructured and block\\-structured mesh generation, mesh adaptivity, geometric modeling methods and computational geometry. They will actively participate in team decisions on algorithms and research and collaborate with team members to develop and maintain software; therefore, the ability to work well in a team environment is extremely important, as is the ability to interact with users in an efficient and productive manner.
+   
+
+  
+
+****What You Need****
+**Minimum Job Requirements:**
+* A PhD in mesh generation or computational geometry with a track record of publishing and presenting on this topic
+* Familiarity with machine learning methods, particularly reinforcement learning
+* Experience running ML training, post processing results and interpreting model behavior
+* Expertise in one code language such as Python or C\\+\\+
+
+
+**Education/Experience** 
+ : This job requires a PhD in mesh generation or a related field.
+   
+
+  
+
+**Desired Qualifications:**
+* Familiarity with AI/ML tools such as PyTorch, TensorFlow and StableBaselines
+* Experience developing parallel applications using MPI
+* Experience with C\\+\\+, Python
+* Experience developing large scale, production software
+* Experience with modern software development practices such a version control, unit testing, continuous integration, automatic generation of documentation etc.
+* Familiarity with Agile development practices
+
+
+**Note to Applicants:**
+ Due to federal restrictions contained in the current National Defense Authorization Act, citizens of the People's Republic of China\\-including the special administrative regions of Hong Kong and Macau\\-as well as citizens of the Islamic Republic of Iran, the Democratic People's Republic of Korea (North Korea), and the Russian Federation, who are not Lawful Permanent Residents (""green card"" holders) are prohibited from accessing facilities that support the mission, functions, and operations of national security laboratories and nuclear weapons production facilities, which includes Los Alamos National Laboratory.
+   
+
+  
+
+**Work Location:** 
+ The work location for this position is onsite and located in Los Alamos, NM. All work locations are at the discretion of management.
+   
+
+  
+
+**Where You Will Work**
+ Located in beautiful northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. Our generous benefits package includes:
+   
+
+  
+
+* PPO or High Deductible medical insurance with the same large nationwide network
+* Dental and vision insurance
+* Free basic life and disability insurance
+* Paid childbirth and parental leave
+* Award\\-winning 401(k) (6% matching plus 3\\.5% annually)
+* Learning opportunities and tuition assistance
+* Flexible schedules and time off (PTO and holidays)
+* Onsite gyms and wellness programs
+* Extensive relocation packages (outside a 50 mile radius)
+
+
+**Additional Details**
+**Directive 206\\.2** 
+ \\- Employment with Triad requires a favorable decision by NNSA indicating employee is suitable under NNSA Supplemental Directive 206\\.2\\. Please note that this requirement applies only to citizens of the United States. Foreign nationals are subject to a similar requirement under DOE Order 142\\.3A.
+   
+
+  
+
+**Clearance: Q** 
+ (Position will be cleared to this level). Selected applicants will be subject to a background investigation conducted by or on behalf of the Federal Government, and must meet eligibility requirements\\* for access to classified matter. This position requires a Q clearance. and obtaining such clearance requires US Citizenship except in extremely rare circumstances. Dependent upon the position, additional authorization to access classified information may be required, which may or may not be available to dual citizens. Receipt of a Q clearance and additional access authorization ultimately is a decision of the Federal Government and not of Triad.
+   
+
+  
+
+* Eligibility requirements: To obtain a clearance, an individual must be at least 18 years of age; U.S. citizenship is required except in very limited circumstances. See DOE Order 472\\.2 for additional information.
+
+
+**New\\-Employment Drug Test:** 
+ The Laboratory requires successful applicants to complete a new\\-employment drug test and maintains a substance abuse policy that includes random drug testing. Although New Mexico and other states have legalized the use of marijuana, use and possession of marijuana remain illegal under federal law. A positive drug test for marijuana will result in termination of employment, even if the use was pre\\-offer.
+   
+
+  
+
+**Internal Applicants:** 
+ Regular appointment employees who have served the required period of continuous service in their current position are eligible to apply for posted jobs throughout the Laboratory. If an employee has not served the required period of continuous service, they may only apply for Laboratory jobs with the documented approval of their Division Leader. Please refer to Policy Policy P701 for applicant eligibility requirements.
+   
+
+  
+
+**Equal Opportunity:** 
+ Los Alamos National Laboratory is an equal opportunity employer. All employment practices are based on qualification and merit, without regard to protected categories such as race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal, state, and local laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to applyhelp@lanl.gov or call (505\\)\\-664\\-6947 opt. 3\\.","Defense and Space Manufacturing and Research Services","https://www.linkedin.com/company/los-alamos-national-laboratory","https://media.licdn.com/dms/image/v2/C560BAQGht4Sj0VvhWA/company-logo_100_100/company-logo_100_100/0/1631646695672/los_alamos_national_laboratory_logo?e=2147483647&v=beta&t=17xQe1y-hsDDR2HRAi0bd4j5YhD0MR07EziLys5NYRA","","","","","","","","","","",""
+"li-3955124334","linkedin","https://www.linkedin.com/jobs/view/3955124334","https://epic.avature.net/Careers/RegisterMethod?folderId=742&source=LinkedIn&urlHash=b3iG","Technical Solutions Engineer","Epic","Santa Fe, NM","2025-11-17","fulltime","","","","","",False,"entry level","Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Problem\\-solving with a purpose.**
+ As a Technical Solutions Engineer at Epic, you’ll work on software that impacts 305 million patients around the world. Alongside customer counterparts, you’ll tackle mission\\-critical and complex problems – we’re
+ *way* 
+ beyond “turn it off and on again” issues. You’ll need to diagnose the problem, identify a solution, and manage the implementation of the solution, sometimes across multiple physical locations and stakeholders. Learn more about our team at https://careers.epic.com/Jobs/Technical\\-Solutions\\-Engineer.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet.**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's degree or greater
+* A history of academic excellence or professional success
+* Willingness to travel occasionally to customer locations
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4336574642","linkedin","https://www.linkedin.com/jobs/view/4336574642","https://lanl.jobs/search/jobdetails/engineering-authorization-quality-assurance-analyst-23/29f93f81-e1b1-4e62-9c3e-e6ef6597ac53?utm_medium=paid_job_board&utm_campaign=linkedin_paid&utm_source=linkedin&urlHash=AIZa","Engineering Authorization Quality Assurance Analyst 2/3","Los Alamos National Laboratory","Los Alamos, NM","2025-11-17","fulltime","","","","","",False,"not applicable","Quality Assurance","","applyhelp@lanl.gov","**What You Will Do**
+ This position will be filled at either the Quality Assurance Analyst level 2 or 3, depending on the skills of the selected candidate. Additional job responsibilities (outlined below) will be assigned if the candidate is hired at the higher level.
+   
+
+  
+
+ The Production Liaison Group (W\\-8\\) of the Weapon Systems Engineering Division is looking for a Quality Assurance Analyst to support the Engineering Authorization team with tasks related to engineering authorizations for weapon product definition. W\\-8 is the Design Agency representative to the Nuclear Security Enterprise (NSE) production plants to ensure that production activities meet design requirements and intent.
+   
+
+  
+
+ Group liaisons are responsible for daily interactions with the Production Agencies\\-Detonator and Pit production at LANL, Kansas City National Security Campus, Pantex Plant, and Y\\-12 National Security Complex\\-surrounding the design, manufacture, and certification of the products. In addition, the group manages ALDW records stewardship via document configuration management (DCM) and formal communications via engineering authorizations (EA).
+   
+
+  
+
+ The successful candidate will coordinate directly with the EA team lead for all technical aspects of the role but will report to the W\\-8 group management. This is an on\\-site position in Los Alamos, NM.
+   
+
+  
+
+**Quality Assurance Analyst 2 \\- $78,700\\-$125,100**
+ The primary role is to ensure that all formal communications via engineering authorizations related to nuclear weapons programs are current, accurate, and complete for any given weapon system. This position requires interaction with both internal and external stakeholders to ensure accurate and timely processing of engineering authorizations.
+   
+
+  
+
+ The selected candidate must be able to operate independently and exercise initiative to demonstrate successful completion of assigned tasks. Flexibility is required to meet stakeholder deadlines while working on multiple tasks for numerous stakeholders with changing priorities.
+   
+
+  
+
+ Other relevant skills include experience with formatting, technical editing, and coordinating the formal release process for all weapon design definition on both the unclassified and classified networks. The successful applicant will ensure alignment of equivalent quality\\-assurance (QA) work conducted by the Engineering Authorization team.
+   
+
+  
+
+**Quality Assurance Analyst 3 \\- $94,500\\-$154,600**
+ In addition to the responsibilities outlined at the lower level, this position will assist with Engineering Authorizations (EA) tracking (to meet production priorities and milestones), Defense Programs Business Process System (DPBPS) quality\\-document reviews (for compliance with NAP\\-401\\.1A, Product Realization, and 6\\.X Process), and monitor, collect, tabulate, and analyze electronic data to ensure proper data collection, evaluation, and storage. The individual will participate in the development and collaboration of new tools and working groups that facilitate new enterprise functions.
+   
+
+  
+
+ The position requires close collaboration within the EA team, W\\-8 Production Liaison (PL) personnel, ALDW\\-DAQ personnel, various groups within W and Q Divisions, and possibly production\\-agency counterparts. Work occurs in a highly variable environment that requires cooperation, adaptability, de\\-escalation techniques, and initiative.
+   
+
+  
+
+****What You Need****
+**Minimum Job Requirements:**
+****Quality Assurance Experience****
+* Knowledge of and experience with Defense Programs Business Process System (DPBPS), LANL Design Agency (DA), and Weapon System Engineering policies, procedures, and best practices.
+* Understanding of the Engineering Authorization System.
+* Experience in technical editorial review including proofreading, grammar, spelling, punctuation, and accuracy when reviewing technical documents, diagrams, drawings, and component lists.
+
+
+**Data Management**
+* Experience with relevant software applications, spreadsheets, and word\\-processing tools.
+* Demonstrated experience in management of classified materials and electronic media.
+* Experience with procedures related to quality, data gathering and analysis, and process\\-improvement activities.
+
+
+**Personal Leadership**
+* Experience collaborating with LANL management, integrating efforts between teams, and directing stakeholders to resources, procedures, and appropriate capabilities.
+* Experience effectively supporting multiple high\\-level deliverables and assignments in a timely manner.
+
+
+**Communication and Teamwork**
+* Strong oral and written skills.
+* Experience building strong stakeholder relations while adhering to security requirements, especially regarding protection of LANL technologies, products, and related documentation.
+* Proven experience in clear and concise oral and written communication.
+
+
+**Leadership Experience**
+* Experience interacting within a large team with technical staff and diverse stakeholders to ensure high\\-quality service.
+* Experience leading and guiding others through data mining, quality reviews, and processes.
+
+
+****Quality Assurance Experience****
+**Additional Job Requirements for Quality Assurance Analyst 3**
+* Experience collaborating with team and other stakeholders to improve systems, processes, and documentation.
+* Thorough understanding of the Engineering Authorization System and its various uses and functions.
+* Demonstrated skills in quality reviews.
+
+
+**Communication and Teamwork**
+* Experience driving improvement(s) as part of a team.
+* Demonstrated excellence in interpersonal and communication skills as evidenced by successful interaction with various levels of management or stakeholders.
+
+
+**Data Managemen** 
+ t
+   
+
+  
+
+* Demonstrated experience with configuration management (e.g., uploading and revising documents, and quality control).
+* Demonstrated experience with relevant software applications, spreadsheets, and word\\-processing tools.
+* Advanced experience in management of classified materials and electronic media.
+
+
+**Collaboration and Personal Responsibility**
+* Demonstrated commitment to quality and stakeholder focus, with an advanced ability to interact successfully under pressure.
+
+
+****Leadership Experience****
+* Proven ability to mentor others and lead team assignments and interactions to ensure deliverables are realized.
+
+
+****Education / Experience****
+ Level 2: Bachelor's degree and five years of related experience; or an equivalent combination of education and experience directly related to the occupation.
+   
+
+  
+
+ Level 3: Bachelor's degree and eight years of related experience; or an equivalent combination of education and experience directly related to the occupation.
+   
+
+  
+
+**Desired Qualifications:**
+* Experience with the engineering authorization system, document and configuration management (e.g., EALink, ThingWorx, ePDMLink, and PDMLink), and applications to stockpile maintenance.
+* Experience with Microsoft Word, Adobe Acrobat Professional, and/or UltraCompare.
+* Experience with PRIME.
+* Extensive knowledge of configuration management.
+* Derivative Classifier (DC) experience.
+* Active DOE Q\\-Clearance and Sigma 15 authorization.
+
+
+**Work Location** 
+**:**
+ The work location for this position is onsite in Los Alamos, NM.
+   
+
+  
+
+**Position commitment:**
+ Regular\\-appointment employees are required to serve a period of continuous service in their current position to be eligible to apply for posted jobs throughout the Laboratory. If an employee has not served the required time, they may only apply for Laboratory jobs with documented approval from their Division Leader. The position commitment for this role is one year.
+   
+
+  
+
+**Note to Applicants:**
+**Due to federal restrictions contained in the current National Defense Authorization Act, citizens of the People's Republic of China, the Islamic Republic of Iran, the Democratic People's Republic of North Korea, and the Russian Federation who are not lawful permanent residents (""green\\-card"" holders) are prohibited from accessing facilities that support the mission, functions, and operations of national security laboratories and nuclear\\-weapons production facilities, including Los Alamos National Laboratory.**
+ For full consideration, applicants must submit a resume and comprehensive cover letter addressing each key requirement of this position
+   
+
+  
+
+**Where You Will Work**
+ Located in beautiful northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. Our generous benefits package includes:
+   
+
+  
+
+* PPO or High\\-Deductible medical insurance with the same large nationwide network
+* Dental and vision insurance
+* Free basic life and disability insurance
+* Paid maternity and parental leave
+* Award\\-winning 401(k) (6% matching plus 3\\.5% annually)
+* Learning opportunities and tuition assistance
+* Flexible schedules and time off (paid sick, vacation, and holidays)
+* Onsite gyms and wellness programs
+* Extensive relocation packages (outside a 50\\-mile radius)
+
+
+****Additional Details****
+ Directive 206\\.2 \\- Employment with Triad requires a favorable decision by NNSA indicating employee is suitable under NNSA Supplemental Directive 206\\.2\\. Please note that this requirement applies only to citizens of the United States. Foreign nationals are subject to a similar requirement under DOE Order 142\\.3A.
+   
+
+  
+
+ Clearance: Q (Position will be cleared to this level). Selected applicants will be subject to a background investigation conducted by or on behalf of the Federal Government and must meet eligibility requirements\\* for access to classified matter. This position requires a Q clearance. and obtaining such clearance requires US Citizenship except in extremely rare circumstances. Dependent upon the position, additional authorization to access classified information may be required, which may or may not be available to dual citizens. Receipt of a Q clearance and additional access authorization ultimately is a decision of the Federal Government and not of Triad.
+   
+
+  
+
+* Eligibility requirements: To obtain a clearance, an individual must be at least 18 years of age; U.S. citizenship is required except in very limited circumstances. See DOE Order 472\\.2 for additional information.
+
+
+ New\\-Employment Drug Test: The Laboratory requires successful applicants to complete a new\\-employment drug test and maintains a substance abuse policy that includes random drug testing. Although New Mexico and other states have legalized the use of marijuana, use and possession of marijuana remain illegal under federal law. A positive drug test for marijuana will result in termination of employment, even if the use was pre\\-offer.
+   
+
+  
+
+ Regular position: Term status Laboratory employees applying for regular\\-status positions are converted to regular status.
+   
+
+  
+
+ Internal Applicants: Regular appointment employees who have served the required period of continuous service in their current position are eligible to apply for posted jobs throughout the Laboratory. If an employee has not served the required period of continuous service, they may only apply for Laboratory jobs with the documented approval of their Division Leader. Please refer to Policy P701 for applicant eligibility requirements.
+   
+
+  
+
+ Los Alamos National Laboratory is an equal opportunity employer. All employment practices are based on qualification and merit, without regard to protected categories such as race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by applicable federal, state and local laws and regulations.
+   
+
+  
+
+ The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request a disability accommodation, email applyhelp@lanl.gov or call (505\\) 664\\-6947, opt. 3\\.","Defense and Space Manufacturing and Research Services","https://www.linkedin.com/company/los-alamos-national-laboratory","https://media.licdn.com/dms/image/v2/C560BAQGht4Sj0VvhWA/company-logo_100_100/company-logo_100_100/0/1631646695672/los_alamos_national_laboratory_logo?e=2147483647&v=beta&t=17xQe1y-hsDDR2HRAi0bd4j5YhD0MR07EziLys5NYRA","","","","","","","","","","",""
+"li-3986116439","linkedin","https://www.linkedin.com/jobs/view/3986116439","","Software Engineer","Epic","Santa Fe, NM","2025-11-16","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Code that saves lives.**
+ As a software developer at Epic, you’ll write software that impacts the lives of 325 million patients around the world. Working in your own office, surrounded by thousands of high\\-caliber developers, you’ll use modern development methodologies and employ user\\-centered design, analytics, and machine learning tools to drive innovation in healthcare. Using leading\\-edge technologies and languages like JS, TS, and C\\#, you’ll invent better ways to reduce medical errors, streamline record sharing between hospitals, and provide the quality of care a patient deserves. Learn more about our team at https://careers.epic.com/jobs/softwaredevelopment/.
+   
+
+  
+
+**Write software for the most innovative health systems on the planet.**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Relocation to the Madison, WI area (Reimbursed)
+* BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field
+* A history of academic excellence or professional success
+* Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)
+* COVID\\-19 vaccination","Software Development","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4320172750","linkedin","https://www.linkedin.com/jobs/view/4320172750","","Integration Project Engineer","Epic","Santa Fe, NM","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Make a meaningful impact by creating bridges that improve healthcare.**
+ For healthcare providers to make informed decisions and deliver the highest\\-quality patient care, they depend on data from niche systems across hundreds of specializations. Epic's Integration Project Engineers architect information flow across disparate systems. Each project presents a new set of challenges and opportunities. If you seek variety in your work, you'll find it as an Integration Project Engineer
+   
+
+  
+
+ Travel across the US (and potentially abroad) as a critical member of our implementation team and ensure the early success of new Epic community members. Once you're trained up, both Epic and customer teams will look to you to advise their implementation strategy, architecture, and project management.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's or greater in engineering, math, information systems, or a related field
+* A history of academic and professional success
+* Strong analytical and reasoning skills
+* Willingness to travel 25\\-60% of working days, with a typical month including 1\\-2 trips lasting 2\\-4 days
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4320182818","linkedin","https://www.linkedin.com/jobs/view/4320182818","","Integration Solutions Engineer","Epic","Santa Fe, NM","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Make a meaningful impact by creating bridges that improve healthcare.**
+ For healthcare providers to make informed decisions and deliver the highest\\-quality patient care, they depend on data from niche systems across hundreds of specializations. Epic's Integration Solutions Engineers maintain that information flow across disparate systems. This group of experts tackles new challenges every day. If you seek variety in your work, you'll find it as an Integrations Solutions Engineer.
+   
+
+  
+
+ As an Integration Solutions Engineer, you'll optimize the data connections critical to high\\-quality patient care. Alongside customer teams, you'll enhance and support integrations between Epic and external systems to ensure efficient and secure data exchanges. You'll anticipate challenges and diagnose interface issues. You'll fine\\-tune integrations to meet evolving operational needs in diverse healthcare settings. In doing so, you'll enable our customer's operational success, and empower them to deliver better patient care.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's or greater in engineering, math, information systems, or a related field
+* A history of academic and professional success
+* Strong analytical and reasoning skills
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4320112995","linkedin","https://www.linkedin.com/jobs/view/4320112995","https://epic.avature.net/Careers/RegisterMethod?folderId=30063&source=LinkedIn&urlHash=ioyu","Integration Solutions Engineer","Epic","Rio Rancho, NM","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Make a meaningful impact by creating bridges that improve healthcare.**
+ For healthcare providers to make informed decisions and deliver the highest\\-quality patient care, they depend on data from niche systems across hundreds of specializations. Epic's Integration Solutions Engineers maintain that information flow across disparate systems. This group of experts tackles new challenges every day. If you seek variety in your work, you'll find it as an Integrations Solutions Engineer.
+   
+
+  
+
+ As an Integration Solutions Engineer, you'll optimize the data connections critical to high\\-quality patient care. Alongside customer teams, you'll enhance and support integrations between Epic and external systems to ensure efficient and secure data exchanges. You'll anticipate challenges and diagnose interface issues. You'll fine\\-tune integrations to meet evolving operational needs in diverse healthcare settings. In doing so, you'll enable our customer's operational success, and empower them to deliver better patient care.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's or greater in engineering, math, information systems, or a related field
+* A history of academic and professional success
+* Strong analytical and reasoning skills
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4320182828","linkedin","https://www.linkedin.com/jobs/view/4320182828","","Integration Project Engineer","Epic","Rio Rancho, NM","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Make a meaningful impact by creating bridges that improve healthcare.**
+ For healthcare providers to make informed decisions and deliver the highest\\-quality patient care, they depend on data from niche systems across hundreds of specializations. Epic's Integration Project Engineers architect information flow across disparate systems. Each project presents a new set of challenges and opportunities. If you seek variety in your work, you'll find it as an Integration Project Engineer
+   
+
+  
+
+ Travel across the US (and potentially abroad) as a critical member of our implementation team and ensure the early success of new Epic community members. Once you're trained up, both Epic and customer teams will look to you to advise their implementation strategy, architecture, and project management.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's or greater in engineering, math, information systems, or a related field
+* A history of academic and professional success
+* Strong analytical and reasoning skills
+* Willingness to travel 25\\-60% of working days, with a typical month including 1\\-2 trips lasting 2\\-4 days
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4338208806","linkedin","https://www.linkedin.com/jobs/view/4338208806","","Senior Golang Integration Engineer - Remote - USA","FullStack","Santa Fe, NM","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**About FullStack**
+ FullStack is one of the fastest\\-growing software consultancy companies in the Americas. We deliver transformational digital solutions to top global companies and Silicon Valley startups. As an employee\\-first company, we focus on hiring the most talented software designers and developers by creating a positive, respectful, and supportive work environment where they can achieve their greatest potential.
+   
+
+  
+
+**We’re Most Proud Of**
+* Offering life\\-changing career opportunities to talented software professionals across the Americas.
+* Building highly\\-skilled software development teams for hundreds of the world’s greatest companies.
+* Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.
+* Our 4\\.2\\-star rating on GlassDoor.
+* Our client Net Promoter Score of 68, twice the industry average.
+
+
+**The Position**
+ We're Looking To Hire a Senior Golang Integration Engineer To Join Our Team. You'll Work With Our Incredible Clients In One Of Two Ways
+   
+
+  
+
+* Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+* Design \\& Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+
+**What We're Looking For**
+* 5\\+ years of professional software development experience.
+* Advanced English is required.
+* Successful completion of a four\\-year college degree is required.
+* Strong proficiency in Golang.
+* Experience in the health tech sector or with healthcare\\-related systems is highly preferred.
+* Proven experience building third\\-party integrations.
+* Experience building integrations with claims clearinghouses such as Aility, including receiving, processing, and returning insurance claims in EDI formats.
+* Hands\\-on experience integrating with financial systems like Modern Treasury, leveraging it as a ledger platform for managing and tracking financial transactions.
+* Ability to work through new and difficult issues and contribute to libraries as needed.
+* Ability to create and maintain continuous integration and delivery of applications.
+* Forensic attention to detail.
+* A positive mindset and a can\\-do attitude.
+* Experience working on Agile / Scrum teams.
+* Meaningful experience working on large, complex systems.
+* Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.
+* Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+* Ability to consistently work 40 hours per week.
+
+
+**What We Offer**
+* Competitive Salary.
+* Paid Time Off (vacation, sick leave, maternity and paternity leave, holidays).
+* 100% remote work.
+* The ability to work with leading startups and Fortune 500 companies.
+* Health, dental, and vision insurance.
+* 401(k) w/ 4% match.
+* Ample opportunity for career advancement.
+* Continuing education opportunities.
+
+
+ FullStack is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status.
+   
+
+  
+
+ Learn more about our Applicants Privacy Notice.","IT Services and IT Consulting, Computer and Network Security, and Information Services","https://www.linkedin.com/company/fullstack-labs","https://media.licdn.com/dms/image/v2/D4E0BAQFl6I0phUCDQg/company-logo_100_100/B4EZo1FC7hIIAQ-/0/1761827107300/fullstack_labs_logo?e=2147483647&v=beta&t=TX2W7XY8VQOqyE5uwUHWxTPZC3rSHuZcy5UN31sBL-4","","","","","","","","","","",""

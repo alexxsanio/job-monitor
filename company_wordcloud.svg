@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(227,291)" font-size="195" style="fill:rgb(31, 160, 136)">Epic</text>
+<text transform="translate(126,102)" font-size="131" style="fill:rgb(49, 102, 142)">Google</text>
+<text transform="translate(30,360)" font-size="114" style="fill:rgb(82, 197, 105)">PwC</text>
+<text transform="translate(377,367)" font-size="100" style="fill:rgb(72, 31, 112)">KPMG US</text>
+<text transform="translate(532,169)" font-size="74" style="fill:rgb(52, 182, 121)">Intuit</text>
+<text transform="translate(95,273) rotate(-90)" font-size="74" style="fill:rgb(38, 130, 142)">GEICO</text>
+<text transform="translate(132,244)" font-size="71" style="fill:rgb(32, 164, 134)">EY</text>
+<text transform="translate(113,141)" font-size="49" style="fill:rgb(71, 17, 100)">Qualcomm</text>
+<text transform="translate(595,78)" font-size="49" style="fill:rgb(52, 182, 121)">Pearson</text>
+<text transform="translate(2,398)" font-size="41" style="fill:rgb(32, 147, 140)">Booz Allen Hamilton</text>
+<text transform="translate(662,243)" font-size="41" style="fill:rgb(37, 171, 130)">Meta</text>
+<text transform="translate(495,23)" font-size="20" style="fill:rgb(57, 85, 140)">Tata Consultancy Services</text>
+<text transform="translate(24,232) rotate(-90)" font-size="19" style="fill:rgb(66, 190, 113)">Uline</text>
+<text transform="translate(298,22)" font-size="19" style="fill:rgb(40, 174, 128)">Mindrift</text>
+<text transform="translate(603,385)" font-size="19" style="fill:rgb(62, 76, 138)">Adobe</text>
+<text transform="translate(691,103)" font-size="18" style="fill:rgb(86, 198, 103)">Affirm</text>
+<text transform="translate(112,167)" font-size="17" style="fill:rgb(37, 132, 142)">Capital One</text>
+<text transform="translate(355,169)" font-size="17" style="fill:rgb(69, 53, 129)">Lockheed Martin</text>
+<text transform="translate(345,304) rotate(-90)" font-size="17" style="fill:rgb(71, 42, 122)">Deloitte</text>
+<text transform="translate(232,363)" font-size="16" style="fill:rgb(112, 207, 87)">Scribd, Inc.</text>
+<text transform="translate(627,264)" font-size="16" style="fill:rgb(119, 209, 83)">Boeing</text>
+<text transform="translate(7,18)" font-size="16" style="fill:rgb(38, 130, 142)">Raytheon</text>
+<text transform="translate(634,330)" font-size="15" style="fill:rgb(244, 230, 30)">Cisco</text>
+<text transform="translate(468,129)" font-size="15" style="fill:rgb(68, 58, 131)">Netflix</text>
+<text transform="translate(420,180)" font-size="15" style="fill:rgb(30, 156, 137)">BAE Systems, Inc.</text>
+<text transform="translate(258,336)" font-size="15" style="fill:rgb(63, 72, 137)">Travelers</text>
+<text transform="translate(499,88)" font-size="15" style="fill:rgb(80, 196, 106)">ICE</text>
+<text transform="translate(276,320)" font-size="14" style="fill:rgb(33, 145, 140)">Salesforce</text>
+<text transform="translate(553,396)" font-size="14" style="fill:rgb(31, 152, 139)">IBM</text>
+<text transform="translate(257,301)" font-size="13" style="fill:rgb(42, 120, 142)">NVIDIA</text>
+<text transform="translate(689,263)" font-size="13" style="fill:rgb(34, 141, 141)">Jerry</text>
+<text transform="translate(605,38)" font-size="13" style="fill:rgb(63, 188, 115)">The Walt Disney Company</text>
+<text transform="translate(618,98)" font-size="13" style="fill:rgb(86, 198, 103)">Lensa</text>
+<text transform="translate(644,122)" font-size="12" style="fill:rgb(70, 8, 92)">Leidos</text>
+<text transform="translate(350,218) rotate(-90)" font-size="12" style="fill:rgb(72, 33, 115)">Canonical</text>
+<text transform="translate(51,108)" font-size="12" style="fill:rgb(61, 78, 138)">Slack</text>
+<text transform="translate(67,33)" font-size="12" style="fill:rgb(72, 40, 120)">Actalent</text>
+<text transform="translate(5,52)" font-size="12" style="fill:rgb(38, 129, 142)">General Motors</text>
+<text transform="translate(603,178)" font-size="11" style="fill:rgb(58, 83, 139)">DataAnnotation</text>
+<text transform="translate(206,57) rotate(-90)" font-size="11" style="fill:rgb(40, 125, 142)">Infosys</text>
+<text transform="translate(684,207)" font-size="11" style="fill:rgb(41, 121, 142)">Insight Global</text>
+<text transform="translate(35,139) rotate(-90)" font-size="11" style="fill:rgb(31, 161, 136)">CrowdStrike</text>
+<text transform="translate(630,303)" font-size="11" style="fill:rgb(33, 142, 141)">TikTok</text>
+<text transform="translate(8,36)" font-size="11" style="fill:rgb(241, 229, 29)">Oracle</text>
+<text transform="translate(35,185)" font-size="11" style="fill:rgb(40, 124, 142)">Sony Interactive Entertainment</text>
+<text transform="translate(798,205) rotate(-90)" font-size="10" style="fill:rgb(90, 200, 100)">U.S. Bank</text>
+<text transform="translate(621,45)" font-size="10" style="fill:rgb(184, 222, 41)">Apex Systems</text>
+<text transform="translate(450,146) rotate(-90)" font-size="10" style="fill:rgb(40, 124, 142)">T-Mobile</text>
+<text transform="translate(619,357) rotate(-90)" font-size="10" style="fill:rgb(31, 148, 140)">Kforce Inc</text>
+<text transform="translate(285,269)" font-size="10" style="fill:rgb(173, 220, 48)">LinkedIn</text>
+<text transform="translate(273,186)" font-size="10" style="fill:rgb(71, 46, 124)">Brooksource</text>
+<text transform="translate(655,8)" font-size="10" style="fill:rgb(84, 197, 104)">Twitch</text>
+<text transform="translate(392,86)" font-size="10" style="fill:rgb(149, 216, 64)">Scale AI</text>
+<text transform="translate(698,376)" font-size="10" style="fill:rgb(38, 130, 142)">Northrop Grumman</text>
+<text transform="translate(666,378)" font-size="10" style="fill:rgb(38, 173, 129)">xAI</text>
+<text transform="translate(490,57)" font-size="9" style="fill:rgb(72, 193, 110)">Garmin</text>
+<text transform="translate(685,285)" font-size="9" style="fill:rgb(54, 92, 141)">OpenAI</text>
+<text transform="translate(497,112)" font-size="9" style="fill:rgb(58, 186, 118)">Ford Motor Company</text>
+<text transform="translate(219,208)" font-size="9" style="fill:rgb(64, 189, 114)">SAIC</text>
+<text transform="translate(60,361)" font-size="9" style="fill:rgb(58, 186, 118)">Uber</text>
+<text transform="translate(241,12)" font-size="9" style="fill:rgb(47, 108, 142)">FullStack</text>
+<text transform="translate(729,280)" font-size="9" style="fill:rgb(60, 80, 139)">Samsara</text>
+<text transform="translate(600,392)" font-size="9" style="fill:rgb(165, 219, 54)">Regions Bank</text>
+<text transform="translate(94,274)" font-size="9" style="fill:rgb(32, 164, 134)">SMBC Group</text>
+<text transform="translate(683,85)" font-size="9" style="fill:rgb(47, 108, 142)">Centene Corporation</text>
+<text transform="translate(252,344)" font-size="8" style="fill:rgb(56, 185, 119)">Thomson Reuters</text>
+<text transform="translate(190,324)" font-size="8" style="fill:rgb(56, 185, 119)">TalentAlly</text>
+<text transform="translate(431,48)" font-size="8" style="fill:rgb(70, 48, 126)">Jobot</text>
+<text transform="translate(224,148)" font-size="8" style="fill:rgb(71, 13, 96)">TalentBurst, an Inc 5000 company</text>
+<text transform="translate(17,364) rotate(-90)" font-size="8" style="fill:rgb(36, 135, 142)">Jobs via eFinancialCareers</text>
+<text transform="translate(119,291)" font-size="8" style="fill:rgb(74, 193, 109)">CyberCoders</text>
+<text transform="translate(738,266)" font-size="8" style="fill:rgb(231, 228, 25)">Synechron</text>
+<text transform="translate(698,388)" font-size="8" style="fill:rgb(218, 227, 25)">MetroStar</text>
+<text transform="translate(422,8)" font-size="8" style="fill:rgb(72, 41, 121)">PayPal</text>
+<text transform="translate(32,369)" font-size="8" style="fill:rgb(58, 83, 139)">First Horizon Bank</text>
+<text transform="translate(138,258)" font-size="8" style="fill:rgb(41, 175, 127)">Cognizant</text>
+<text transform="translate(459,145)" font-size="8" style="fill:rgb(45, 178, 125)">Capgemini</text>
+<text transform="translate(631,314)" font-size="8" style="fill:rgb(94, 201, 98)">TechTree</text>
+<text transform="translate(475,214)" font-size="8" style="fill:rgb(31, 159, 136)">MANTECH</text>
+<text transform="translate(587,292) rotate(-90)" font-size="8" style="fill:rgb(63, 72, 137)">Circle</text>
+<text transform="translate(476,388)" font-size="8" style="fill:rgb(71, 13, 96)">Versa Networks</text>
+<text transform="translate(698,348)" font-size="7" style="fill:rgb(33, 143, 141)">Ramp</text>
+<text transform="translate(295,195)" font-size="7" style="fill:rgb(36, 134, 142)">BioSpace</text>
+<text transform="translate(463,74) rotate(-90)" font-size="7" style="fill:rgb(103, 204, 92)">Lumenalta</text>
+<text transform="translate(533,207)" font-size="7" style="fill:rgb(37, 172, 130)">Postman</text>
+<text transform="translate(305,112)" font-size="7" style="fill:rgb(108, 205, 90)">Nuro</text>
+<text transform="translate(745,390)" font-size="7" style="fill:rgb(112, 207, 87)">CoStar Group</text>
+<text transform="translate(208,340)" font-size="7" style="fill:rgb(84, 197, 104)">Hopper</text>
+<text transform="translate(396,257) rotate(-90)" font-size="7" style="fill:rgb(46, 179, 124)">Deutsche Bank</text>
+<text transform="translate(706,339) rotate(-90)" font-size="7" style="fill:rgb(53, 95, 141)">Epic Games</text>
+<text transform="translate(700,175)" font-size="7" style="fill:rgb(46, 179, 124)">Net2Source (N2S)</text>
+<text transform="translate(691,249)" font-size="7" style="fill:rgb(61, 77, 138)">Insulet Corporation</text>
+<text transform="translate(342,32)" font-size="7" style="fill:rgb(71, 45, 123)">Slalom</text>
+<text transform="translate(96,81)" font-size="7" style="fill:rgb(61, 78, 138)">Rivian</text>
+<text transform="translate(302,244)" font-size="7" style="fill:rgb(67, 61, 132)">Inceed</text>
+<text transform="translate(627,106)" font-size="7" style="fill:rgb(53, 95, 141)">Stripe</text>
+<text transform="translate(692,190)" font-size="7" style="fill:rgb(239, 229, 28)">Ignite Digital Services</text>
+<text transform="translate(220,309)" font-size="7" style="fill:rgb(197, 224, 33)">Entegee</text>
+<text transform="translate(165,41)" font-size="7" style="fill:rgb(155, 217, 60)">Peraton</text>
+<text transform="translate(106,101)" font-size="7" style="fill:rgb(61, 78, 138)">TEKsystems</text>
+<text transform="translate(564,84)" font-size="7" style="fill:rgb(72, 32, 113)">BlueHalo, an AV company</text>
+<text transform="translate(646,359)" font-size="7" style="fill:rgb(70, 10, 93)">Aurora</text>
+<text transform="translate(388,22)" font-size="7" style="fill:rgb(178, 221, 45)">Cymertek Corporation</text>
+<text transform="translate(33,361) rotate(-90)" font-size="7" style="fill:rgb(241, 229, 29)">Federal Bureau of Investigation (FBI)</text>
+<text transform="translate(568,264) rotate(-90)" font-size="7" style="fill:rgb(210, 226, 27)">Morgan Stanley</text>
+<text transform="translate(576,294) rotate(-90)" font-size="7" style="fill:rgb(51, 99, 141)">St. Jude Children's Research Hospital - ALSAC</text>
+<text transform="translate(160,173)" font-size="6" style="fill:rgb(71, 47, 125)">Kanak Elite Services</text>
+<text transform="translate(91,21)" font-size="6" style="fill:rgb(36, 134, 142)">Red Hat</text>
+<text transform="translate(615,397)" font-size="6" style="fill:rgb(46, 110, 142)">Palo Alto Networks</text>
+<text transform="translate(756,287)" font-size="6" style="fill:rgb(58, 84, 140)">CGI</text>
+<text transform="translate(451,226)" font-size="6" style="fill:rgb(70, 48, 126)">Astrion</text>
+<text transform="translate(614,366)" font-size="6" style="fill:rgb(71, 17, 100)">Woven by Toyota</text>
+<text transform="translate(713,108)" font-size="6" style="fill:rgb(40, 124, 142)">Proven Recruiting</text>
+<text transform="translate(454,372)" font-size="6" style="fill:rgb(59, 82, 139)">First Division Consulting, Inc</text>
+<text transform="translate(251,24)" font-size="6" style="fill:rgb(31, 149, 139)">Robert Half</text>
+<text transform="translate(145,268)" font-size="6" style="fill:rgb(88, 199, 101)">Lowe's Companies, Inc.</text>
+<text transform="translate(449,267)" font-size="6" style="fill:rgb(72, 38, 119)">Piper Companies</text>
+<text transform="translate(161,82) rotate(-90)" font-size="6" style="fill:rgb(72, 33, 115)">Blue Origin</text>
+<text transform="translate(362,140)" font-size="6" style="fill:rgb(31, 151, 139)">CNA Search</text>
+<text transform="translate(393,13)" font-size="6" style="fill:rgb(72, 20, 103)">Claritev</text>
+<text transform="translate(722,397)" font-size="6" style="fill:rgb(54, 93, 141)">Acceler8 Talent</text>
+<text transform="translate(115,308) rotate(-90)" font-size="6" style="fill:rgb(176, 221, 47)">PETADATA</text>
+<text transform="translate(362,80) rotate(-90)" font-size="6" style="fill:rgb(51, 98, 141)">LTIMindtree</text>
+<text transform="translate(209,27)" font-size="6" style="fill:rgb(72, 27, 109)">Mapbox</text>
+<text transform="translate(755,381)" font-size="6" style="fill:rgb(68, 59, 132)">Airtable</text>
+<text transform="translate(383,153)" font-size="6" style="fill:rgb(37, 131, 142)">JPS Tech Solutions</text>
+<text transform="translate(448,239)" font-size="6" style="fill:rgb(127, 211, 78)">Snowflake</text>
+<text transform="translate(577,381)" font-size="6" style="fill:rgb(48, 106, 142)">NetApp</text>
+<text transform="translate(795,341) rotate(-90)" font-size="6" style="fill:rgb(176, 221, 47)">Technology Resource Experts, LLC</text>
+<text transform="translate(759,238)" font-size="6" style="fill:rgb(94, 201, 98)">MongoDB</text>
+<text transform="translate(6,201) rotate(-90)" font-size="6" style="fill:rgb(134, 213, 73)">General Atomics Aeronautical Systems</text>
+<text transform="translate(38,229)" font-size="6" style="fill:rgb(45, 113, 142)">The Swift Group, LLC</text>
+<text transform="translate(90,8)" font-size="6" style="fill:rgb(69, 5, 89)">IXL Learning</text>
+<text transform="translate(168,150)" font-size="6" style="fill:rgb(149, 216, 64)">Veeva Systems</text>
+<text transform="translate(240,265) rotate(-90)" font-size="6" style="fill:rgb(32, 147, 140)">Programmers.io</text>
+<text transform="translate(162,26)" font-size="6" style="fill:rgb(241, 229, 29)">Nike</text>
+<text transform="translate(270,257)" font-size="6" style="fill:rgb(53, 95, 141)">Jobgether</text>
+<text transform="translate(100,212)" font-size="6" style="fill:rgb(31, 159, 136)">Medpace</text>
+<text transform="translate(312,372)" font-size="6" style="fill:rgb(132, 212, 75)">SimpliSafe</text>
+<text transform="translate(318,175)" font-size="6" style="fill:rgb(122, 209, 81)">Gusto</text>
+<text transform="translate(169,33)" font-size="6" style="fill:rgb(229, 228, 25)">Tenable</text>
+<text transform="translate(531,6)" font-size="6" style="fill:rgb(30, 156, 137)">Rockwell Automation</text>
+<text transform="translate(541,252)" font-size="6" style="fill:rgb(31, 148, 140)">Front</text>
+<text transform="translate(597,117)" font-size="6" style="fill:rgb(34, 140, 141)">Suno</text>
+<text transform="translate(658,90)" font-size="6" style="fill:rgb(72, 26, 108)">OPENLANE</text>
+<text transform="translate(647,248)" font-size="6" style="fill:rgb(72, 26, 108)">Tatari</text>
+<text transform="translate(701,6)" font-size="6" style="fill:rgb(44, 177, 126)">Microsoft</text>
+<text transform="translate(446,198)" font-size="6" style="fill:rgb(54, 93, 141)">Discord</text>
+<text transform="translate(724,215)" font-size="6" style="fill:rgb(39, 173, 129)">Eccalon, LLC</text>
+<text transform="translate(443,287)" font-size="6" style="fill:rgb(51, 98, 141)">MLabs</text>
+<text transform="translate(488,37)" font-size="6" style="fill:rgb(31, 148, 140)">Headspace</text>
+<text transform="translate(349,345)" font-size="6" style="fill:rgb(110, 206, 88)">Bloomberg</text>
+<text transform="translate(683,274)" font-size="6" style="fill:rgb(40, 174, 128)">KBR, Inc.</text>
+<text transform="translate(614,238)" font-size="6" style="fill:rgb(244, 230, 30)">Atlassian</text>
+<text transform="translate(754,46)" font-size="6" style="fill:rgb(71, 16, 99)">Centraprise</text>
+<text transform="translate(789,195) rotate(-90)" font-size="6" style="fill:rgb(246, 230, 32)">MAPFRE</text>
+<text transform="translate(655,104)" font-size="6" style="fill:rgb(48, 105, 142)">Rubrik</text>
+<text transform="translate(450,252)" font-size="6" style="fill:rgb(33, 144, 141)">BeaconFire Inc.</text>
+<text transform="translate(162,111)" font-size="6" style="fill:rgb(36, 135, 142)">DoorDash</text>
+<text transform="translate(538,223)" font-size="6" style="fill:rgb(54, 92, 141)">Altec</text>
+<text transform="translate(99,242)" font-size="5" style="fill:rgb(92, 200, 99)">Notion</text>
+<text transform="translate(442,187)" font-size="5" style="fill:rgb(72, 32, 113)">Motive</text>
+<text transform="translate(718,48)" font-size="5" style="fill:rgb(62, 74, 137)">Hoplynk</text>
+<text transform="translate(19,130) rotate(-90)" font-size="5" style="fill:rgb(33, 145, 140)">Hyundai AutoEver America</text>
+<text transform="translate(296,236)" font-size="5" style="fill:rgb(67, 61, 132)">Evinova</text>
+<text transform="translate(409,143)" font-size="5" style="fill:rgb(46, 179, 124)">Quantcast</text>
+<text transform="translate(201,367)" font-size="5" style="fill:rgb(110, 206, 88)">Glean</text>
+<text transform="translate(451,218)" font-size="5" style="fill:rgb(31, 158, 137)">Goliath Partners</text>
+<text transform="translate(534,270)" font-size="5" style="fill:rgb(72, 38, 119)">ECS</text>
+<text transform="translate(627,354) rotate(-90)" font-size="5" style="fill:rgb(57, 85, 140)">Pratt &amp; Whitney</text>
+<text transform="translate(21,144)" font-size="5" style="fill:rgb(55, 90, 140)">Lumex Talent</text>
+<text transform="translate(238,68)" font-size="5" style="fill:rgb(50, 101, 142)">Decagon</text>
+<text transform="translate(241,108)" font-size="5" style="fill:rgb(96, 202, 96)">Addison Group</text>
+<text transform="translate(352,174)" font-size="5" style="fill:rgb(241, 229, 29)">Inherent Technologies</text>
+<text transform="translate(167,348) rotate(-90)" font-size="5" style="fill:rgb(70, 50, 126)">Tinder</text>
+<text transform="translate(482,151)" font-size="5" style="fill:rgb(37, 133, 142)">Zip</text>
+<text transform="translate(203,222)" font-size="5" style="fill:rgb(33, 166, 133)">CapTech</text>
+<text transform="translate(282,201)" font-size="5" style="fill:rgb(61, 77, 138)">Vantor</text>
+<text transform="translate(693,125)" font-size="5" style="fill:rgb(41, 121, 142)">Alex AI</text>
+<text transform="translate(403,241) rotate(-90)" font-size="5" style="fill:rgb(72, 193, 110)">Cabana</text>
+<text transform="translate(479,377)" font-size="5" style="fill:rgb(66, 64, 134)">Snap Inc.</text>
+<text transform="translate(96,190)" font-size="5" style="fill:rgb(202, 225, 31)">RAPSYS TECHNOLOGIES PTE LTD</text>
+<text transform="translate(164,47)" font-size="5" style="fill:rgb(33, 142, 141)">Appian</text>
+<text transform="translate(195,301)" font-size="5" style="fill:rgb(72, 28, 110)">Cboe Global Markets</text>
+<text transform="translate(243,319)" font-size="5" style="fill:rgb(30, 156, 137)">Maxima</text>
+<text transform="translate(711,290)" font-size="5" style="fill:rgb(68, 59, 132)">Worldpay</text>
+<text transform="translate(231,51)" font-size="5" style="fill:rgb(103, 204, 92)">Govini</text>
+<text transform="translate(653,269)" font-size="5" style="fill:rgb(34, 139, 141)">Plaid</text>
+<text transform="translate(197,332)" font-size="5" style="fill:rgb(137, 213, 72)">A10 Networks, Inc</text>
+<text transform="translate(5,329) rotate(-90)" font-size="5" style="fill:rgb(165, 219, 54)">Rivian and Volkswagen Group Technologies</text>
+<text transform="translate(153,275)" font-size="5" style="fill:rgb(65, 66, 135)">Amazon Web Services (AWS)</text>
+<text transform="translate(378,181)" font-size="5" style="fill:rgb(72, 28, 110)">LaunchCode</text>
+<text transform="translate(52,37)" font-size="5" style="fill:rgb(31, 152, 139)">ALTA IT Services, LLC</text>
+<text transform="translate(578,123)" font-size="5" style="fill:rgb(170, 220, 50)">WSP in the U.S.</text>
+<text transform="translate(167,248)" font-size="5" style="fill:rgb(115, 208, 86)">Belay Technologies</text>
+<text transform="translate(701,28)" font-size="5" style="fill:rgb(72, 32, 113)">EVONA</text>
+<text transform="translate(190,5)" font-size="5" style="fill:rgb(244, 230, 30)">SkillStorm</text>
+<text transform="translate(247,368)" font-size="5" style="fill:rgb(134, 213, 73)">Pinterest</text>
+<text transform="translate(492,397)" font-size="5" style="fill:rgb(112, 207, 87)">Zone IT Solutions</text>
+<text transform="translate(322,349)" font-size="5" style="fill:rgb(43, 116, 142)">NinjaTrader</text>
+</svg>

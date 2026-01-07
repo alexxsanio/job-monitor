@@ -1,0 +1,2037 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"li-4279928839","linkedin","https://www.linkedin.com/jobs/view/4279928839","https://careers.leviton.com/jobs/5540/Embedded+Firmware+Engineer?lang=en-US&mode=apply&iis=LinkedIn&urlHash=0Whq","Embedded Firmware Engineer","Leviton","New Orleans, LA","2025-11-21","fulltime","","","","","",False,"not applicable","Design, Manufacturing, and Engineering","","","**About Leviton**
+ At Leviton, we build what's next to light, power, and connect everyday spaces, from electrical to lighting, to data networks, and energy management. With over 115 years of history, Leviton develops thoughtful solutions that help make its customers' lives easier, safer, more efficient, and more productive. We recognize that our people are our greatest asset. We ASK questions, EMBRACE challenges, SEEK new perspectives, and ANTICIPATE what comes next. It's about each person bringing skills and passion to a challenging and constantly changing world.
+   
+
+  
+
+**About The Role**
+ The Embedded Firmware Engineer will lead the design, development, and integration of embedded firmware and hardware for innovative products in the residential electronics market. This engineer focuses on creating and enhancing smart wiring devices such as electrical receptacles, lighting controls, circuit breakers, and other IoT\\-enabled electronic components. Responsibilities span the full product lifecycle, including requirements specification, firmware architecture, coding, testing, release management, and manufacturing support. The ideal candidate will contribute to cutting\\-edge product development, ensuring high performance, reliability, and compliance with industry standards.
+   
+
+  
+
+**Responsibilities**
+* Design, develop, and maintain firmware for embedded systems across both new and existing product lines.
+* Evaluate marketing and engineering requirements to assess the technical feasibility of proposed software solutions.
+* Collaborate with product managers, project leads, and cross\\-functional teams to resolve technical challenges and deliver optimized firmware designs.
+* Create detailed technical specifications, define test plans, and establish validation criteria for embedded products.
+* Develop and document software architecture, including block diagrams, object code, and system\\-level design using input from engineering teams.
+* Coordinate with supply chain, manufacturing, and engineering departments to verify BOM (Bill of Materials) and MRP (Material Requirements Planning) accuracy.
+* Support the fabrication and testing of engineering prototypes, ensuring alignment with design intent and performance goals.
+* Drive process improvements to accelerate time\\-to\\-market for both new and updated products.
+* Contribute to additional engineering projects and initiatives as assigned.
+
+
+**Qualifications**
+* Strong proficiency in C programming for embedded systems, with experience in developing efficient, low\\-level firmware.
+* Working knowledge of Python scripting and Linux\\-based development environments is a plus.
+* Familiar with industry\\-standard tools and methodologies for embedded hardware and software implementation.
+* Skilled in reading and interpreting schematics and PCB layouts, with the ability to troubleshoot hardware\\-level issues and perform board bring\\-up.
+* Solid understanding of RTOS (Real\\-Time Operating System) concepts, including event\\-driven architecture and real\\-time firmware design.
+* Creative and innovative in product design, capable of taking concepts from initial prototype through to production release.
+* Highly adaptable and self\\-motivated, with strong problem\\-solving and decision\\-making skills in fast\\-paced engineering environments.
+
+
+**Education \\& Experience**
+* Bachelor’s degree in Electrical Engineering, Computer Science, or a related technical field.
+* Minimum of 3 years of hands\\-on experience in embedded systems engineering, including both hardware and software development for new product designs.
+* Proficient in using hardware debugging tools such as logic analyzers, oscilloscopes, and other diagnostic equipment.
+* Skilled in firmware development for 16\\-bit and 32\\-bit microcontrollers, including ARM Cortex\\-M processors.
+* Strong understanding of communication protocols such as CAN, BLE (Bluetooth Low Energy), UART, SPI, and I2C.
+* Experience with wireless technologies including BLE, Matter, and Wi\\-Fi is highly desirable.
+* Familiarity with product development for applications in IoT, automotive, consumer electronics, or industrial automation is a plus.
+
+
+**Travel**
+* Up to 5% may be required
+
+
+**What We Offer**
+**Comprehensive benefits include:**
+* Medical, dental, and vision insurance programs
+* 401K plans with employer\\-matching contributions
+* Tuition reimbursement
+* PTO
+* Paid holidays
+* Volunteer time off
+
+
+ For more information about benefits, please go to: https://careers.leviton.com/benefits
+   
+
+  
+
+*Leviton is an EEO/AA Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected veteran status.*
+*Reasonable accommodations may be made to enable individuals with disabilities to perform essential job functions.*
+*Leviton is committed to transparency and security in the recruitment process and will never ask for financial information, payment, or government identification numbers during the application process.* 
+*For any questions, or to ensure the legitimacy of a job posting, visit the Leviton career site, or contact us at 631\\.812\\.6544\\.*
+**The future looks brighter than ever. Join our team now!**
+ , \\#IND\\-Corp
+   
+
+  
+
+**Pay Range**
+ $90,000\\.00 \\- $95,000\\.00 per year","Appliances, Electrical, and Electronics Manufacturing and Industrial Machinery Manufacturing","https://www.linkedin.com/company/leviton","https://media.licdn.com/dms/image/v2/D4E0BAQHIBrjmkVRKPg/company-logo_100_100/company-logo_100_100/0/1683743820170/leviton_logo?e=2147483647&v=beta&t=sLhDi1kyUUjqKMA-OC9IlNRS-A_5kZVVc4qt1ykIV94","","","","","","","","","","",""
+"li-4323592123","linkedin","https://www.linkedin.com/jobs/view/4323592123","https://click.appcast.io/t/wq3lviE9sCC5HxP2Y8nhlLHy4TriiKKi9zXi6NYH3Uc=?source=LinkedIn&urlHash=JFs4","Staff Engineer - Finance Data Specialist (Hybrid)","GEICO","New Orleans, LA","2025-11-21","fulltime","","","","","",False,"mid-senior level","Finance and Sales","","","**At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.**
+**Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company through our shared purpose.**
+**When you join our company, we want you to feel valued, supported and proud to work here. That’s why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers.**
+**Job Description: Staff Engineer – Finance Data Specialist**
+ GEICO is seeking
+ **Finance Data specialists** 
+ to support the build out of a
+ **Finance Data Warehouse/Lake** 
+ by partnering with both Finance and Technology teams to redesign the way they use their technologies in managing GEICO's business. This individual must have strong functional and technical Finance Systems background to partner with the Business ensuring effective discussions to drive the capture, transformation, and utilization of Finance data to meet Business goals.
+   
+
+  
+
+ The
+ **Staff Engineer, Finance Data Specialist** 
+ will report to the Senior Manager of Finance Data \\& Analytics and will provide solutions on how to build out, maintain, and support a Finance Data repository to support FP\\&A processing and analytics while also supporting the larger Finance organization’s need for Finance data. The Finance Data Specialist will work with multiple Finance and Technology leaders to support the build out the company’s Finance Data Warehouse/Lake to provide a central repository for all Financial related transactions so it can be a reconciled source of truth for processing and the source for Revenue and Expense analytics. This role is also accountable to support the delivery of technology solutions that will support FP\\&A Planning/Budgeting, financial reporting, Revenue/Expense Analytics, and the build out of the Finance Data Warehouse to become a reconciled source to allow the GL to become a “thin” ledger.
+   
+
+  
+
+ The ideal candidate has deep Finance Systems experience across multiple companies, a
+ **background in ERP and Finance Data Warehouses** 
+ from both technical and functional aspects and has supported the deployment of best practices leveraging their broad knowledge of various
+ **ERPs (e.g. Oracle; Workday; SAP or PeopleSoft** 
+ ). Prior Financial Systems experience is needed to be considered.
+   
+
+  
+
+**Position Responsibilities**
+ As a
+ **Staff Engineer, Finance Data Specialist** 
+ supporting Finance functions you will:
+   
+
+  
+
+* Leverage your strong Functional and Technical systems expertise to drive towards the right solution to support the department and GEICO’s current and future needs
+* Engage in cross\\-functional collaboration throughout the entire software lifecycle
+* Support design sessions with peers to ensure systems are well designed, efficient, and meet Business expectations
+* Collaborate with Finance Leaders within the FP\\&A, Controllers, Financial Reporting, and Finance QA \\& Systems team along with the Data Engineering and Finance Technology leaders to ensure organizational goals are met
+* Have a deep understanding of a few Finance functions to support the establishment of a vision and technology roadmap to build out a Finance Data Lake/Warehouse
+* Have a good understanding of finance data lake/mart with Data processing/data transformation using ETL/ELT tools such as Informatica, DBT, etc.
+* Experience with designing, developing, implementing, and maintaining solutions for data ingestion and transformation projects
+* Experience working with cloud data solutions (Delta Lake, Iceberg, Hudi, Snowflake, Redshift or equivalent)
+* Support the development of a roadmap and then work towards implementing Revenue and Expense Analytical solutions
+* Support and try to influence customers and stakeholders, and work through divergent expectations
+* Support the implementation of a strong control and governance framework and maintain it for SOX and Audit reviews
+* Support Business and Technology discussions at various levels to ensure alignment towards long term goals of Finance and Technology
+* Analyze and translate business and functional specifications and change requests into technical specifications
+* Share best practices and improve processes within and across teams
+
+
+**Qualifications**
+* 15\\+ years of Finance Systems experience with industry leading ERP solutions (e.g. implementing and supporting Oracle; Workday; SAP or PeopleSoft)
+* 3\\+ years of experience in implementing and supporting FP\\&A applications (Preferred)
+* 3\\+ years working with or supporting a Finance Data Lake/Warehouse/Mart along with various Financial Reporting tools
+* Good understanding of Dimensional Data Modeling
+* Strong working knowledge of Data processing/data transformation using ETL/ELT tools such as Informatica, DBT, etc.
+* Strong working knowledge of SQL and the ability to write, debug and optimize SQL queries and ETL jobs
+* Experience working with Financials via the major vendors (e.g. PeopleSoft; Oracle EBS; Oracle Cloud; Workday; or SAP)
+* Finance domain expertise to be able to work with senior Finance leaders to interpret their process and functional needs into system solutions
+* Good understanding of FP\\&A Budgeting, Planning, and forecasting processes
+* Experience in implementing or supporting Revenue or Expense analytical solutions via tools such as Power BI, Tableau, etc.
+* Good understanding of accounting process and reporting expectations to partner with Finance teams
+* Ability to communicate and work directly with users across Technology and Finance
+* Sound understanding of project management techniques, methodologies, and best practices
+* Strong problem\\-solving abilities
+* Ability to excel in a fast\\-paced environment
+* Knowledge and experience with the software development life cycle
+* Ability to work independently and in a team\\-oriented collaborative environment
+
+
+**Education**
+* Bachelor’s degree in Computer Science, Information Systems, Engineering, Business Administration, or equivalent education or work experience
+
+
+**Annual Salary**
+ $115,000\\.00 \\- $260,000\\.00
+   
+
+  
+
+ The above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations.
+   
+
+  
+
+ At this time, GEICO will not sponsor a new applicant for employment authorization for this position.
+   
+
+  
+
+**The GEICO Pledge**
+**Great Company:** 
+ At GEICO, we help our customers through life’s twists and turns. Our mission is to protect people when they need it most and we’re constantly evolving to stay ahead of their needs.
+   
+
+  
+
+ We’re an iconic brand that thrives on innovation, exceeding our customers’ expectations and enabling our collective success. From day one, you’ll take on exciting challenges that help you grow and collaborate with dynamic teams who want to make a positive impact on people’s lives.
+   
+
+  
+
+**Great Careers:** 
+ We offer a career where you can learn, grow, and thrive through personalized development programs, created with your career – and your potential – in mind. You’ll have access to industry leading training, certification assistance, career mentorship and coaching with supportive leaders at all levels.
+   
+
+  
+
+**Great Culture:** 
+ We foster an inclusive culture of shared success, rooted in integrity, a bias for action and a winning mindset. Grounded by our core values, we have an an established culture of caring, inclusion, and belonging, that values different perspectives. Our teams are led by dynamic, multi\\-faceted teams led by supportive leaders, driven by performance excellence and unified under a shared purpose.
+   
+
+  
+
+ As part of our culture, we also offer employee engagement and recognition programs that reward the positive impact our work makes on the lives of our customers.
+   
+
+  
+
+**Great Rewards:** 
+ We offer compensation and benefits built to enhance your physical well\\-being, mental and emotional health and financial future.
+   
+
+  
+
+* Comprehensive Total Rewards program that offers personalized coverage tailor\\-made for you and your family’s overall well\\-being.
+* Financial benefits including market\\-competitive compensation; a 401K savings plan vested from day one that offers a 6% match; performance and recognition\\-based incentives; and tuition assistance.
+* Access to additional benefits like mental healthcare as well as fertility and adoption assistance.
+* Supports flexibility\\- We provide workplace flexibility as well as our GEICO Flex program, which offers the ability to work from anywhere in the US for up to four weeks per year.
+
+
+ The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
+   
+
+  
+
+ GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.","Insurance","https://www.linkedin.com/company/geico","https://media.licdn.com/dms/image/v2/D4E0BAQGF25KGwu06pw/company-logo_100_100/company-logo_100_100/0/1728937460623/geico_logo?e=2147483647&v=beta&t=k1CcvYdPW230WUD4VRffwKd4tGPKmYocmWoWgnVJfY4","","","","","","","","","","",""
+"li-4310978921","linkedin","https://www.linkedin.com/jobs/view/4310978921","https://www.kpmguscareers.com/jobdetail/?jobId=125434-A&srcCat=Direct+Contact&specSrc=LinkedIn&urlHash=NxQe","Engineer, Data Visualization and Business Intelligence","KPMG US","New Orleans, LA","2025-11-20","fulltime","","","","","",True,"associate","General Business","","","Known for being a great place to work and build a career, KPMG provides audit, tax and advisory services for organizations in today's most important industries. Our growth is driven by delivering real results for our clients. It's also enabled by our culture, which encourages individual development, embraces an inclusive environment, rewards innovative excellence and supports our communities. With qualities like those, it's no wonder we're consistently ranked among the best companies to work for by Fortune Magazine, Consulting Magazine, Seramount, Fair360 and others. If you're as passionate about your future as we are, join our team.
+   
+
+  
+
+ KPMG is currently seeking an Engineer, Data Visualization and Business Intelligence to join our Digital Nexus technology organization. This is a hybrid work opportunity.
+   
+
+  
+
+ Responsibilities:
+   
+
+  
+
+* Design and deliver interactive Power BI dashboards that clearly communicate actionable insights to stakeholders; contribute strategic thought leadership to shape the firm's business intelligence vision and standards
+* Empower the BI community through governance guidance, training and cross\\-functional collaboration; guide the firms Power BI and Alteryx communities by developing and acquiring content for Community of Practice presentations
+* Apply critical thinking and creativity to design innovative, non\\-standard BI solutions that address complex and evolving business challenges; design, build and optimize data models to support analytics, ensuring accuracy, reliability and efficiency
+* Stay ahead of emerging technologies including Generative AI and AI agents to identify novel opportunities that improve analytics, automation and decision\\-making across the enterprise
+* Design and maintain scalable data pipelines using Azure Data Factory and Databricks to ingest, transform and deliver data across medallion architecture layers; develop production\\-grade ETL/ELT solutions using PySpark and SQL to produce analytics\\-ready Delta Lake datasets aligned with enterprise standards
+
+
+ Qualifications:
+   
+
+  
+
+* Minimum one year of recent experience working in analytics including data sourcing, data integration, data analysis, data visualization, business intelligence, statistical analysis, or data science
+* Bachelor's degree from an accredited college or university in Computer Science, Data Analytics, Data Processing, Information \\& Data Science, Information Management, Library Science, Management Information Systems or similar program is preferred
+* Experience working in an IT environment supporting projects and strong experience using Microsoft suite (Excel, PowerPoint, Word and Outlook) preferred
+* Strong verbal/written communication, problem solving, organizational and independent judgment skills to support an environment driven by customer service and teamwork
+* Ability to build productive relationships with peers, managers, and cross\\-functional stakeholders; ability to maintain confidentiality of sensitive and privileged information
+* Work location may be in the office, at client sites, or virtual/remote depending on business need; must be located within the U.S. when working remotely; client site locations may require travel and overnight/extended stay
+* Applicant must be authorized to work in the U.S. without the need for employment\\-based visa sponsorship now or in the future; KPMG LLP will not sponsor applicants for U.S. work visa status for this opportunity (no sponsorship is available for H\\-1B, L\\-1, TN, O\\-1, E\\-3, H\\-1B1, F\\-1, J\\-1, OPT, CPT or any other employment\\-based visa)
+
+
+ KPMG complies with all local/state regulations regarding displaying salary ranges. If required, the ranges displayed below or via the URL below are specifically for those potential hires who will work in the location(s) listed. Any offered salary is determined based on relevant factors such as applicant's skills, job responsibilities, prior relevant experience, certain degrees and certifications and market considerations. In addition, the firm is proud to offer a comprehensive, competitive benefits package, with options designed to help you make the best decisions for yourself, your family, and your lifestyle. Available benefits are based on eligibility. Our Total Rewards package includes a variety of medical and dental plans, vision coverage, disability and life insurance, 401(k) plans, and a robust suite of personal well\\-being benefits to support your mental health. Depending on job classification, standard work hours, and years of service, KPMG provides Personal Time Off per fiscal year. Additionally, each year the firm publishes a calendar of holidays to be observed during the year and provides two firmwide breaks each year where employees will not be required to use Personal Time Off; one is at year end and the other is around the July 4th holiday. Additional details about our benefits can be found towards the bottom of our KPMG US Careers site at Benefits \\& How We Work.
+   
+
+  
+
+ Follow this link to obtain salary ranges by city outside of CA:
+   
+
+  
+
+ https://kpmg.com/us/en/how\\-we\\-work/pay\\-transparency.html/?id\\=7501\\_9\\_25
+   
+
+  
+
+ KPMG LLP (the U.S. member firm of KPMG International) offers a comprehensive compensation and benefits package. KPMG is an equal opportunity employer. KPMG complies with all applicable federal, state and local laws regarding recruitment and hiring. All qualified applicants are considered for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, citizenship status, disability, protected veteran status, or any other category protected by applicable federal, state or local laws. The attached link contains further information regarding the firm's compliance with federal, state and local recruitment and hiring laws. No phone calls or agencies please.
+   
+
+  
+
+ KPMG does not currently require partners or employees to be fully vaccinated or test negative for COVID\\-19 in order to go to KPMG offices, client sites or KPMG events, except when mandated by federal, state or local law. In some circumstances, clients also may require proof of vaccination or testing (e.g., to go to the client site).
+   
+
+  
+
+ KPMG recruits on a rolling basis. Candidates are considered as they apply, until the opportunity is filled. Candidates are encouraged to apply expeditiously to any role(s) for which they are qualified that is also of interest to them.
+   
+
+  
+
+ Los Angeles County applicants: Material job duties for this position are listed above. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness, and safeguard business operations and company reputation. Pursuant to the California Fair Chance Act, Los Angeles County Fair Chance Ordinance for Employers, Fair Chance Initiative for Hiring Ordinance, and San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.","Financial Services","https://www.linkedin.com/company/kpmg-us","https://media.licdn.com/dms/image/v2/D4E0BAQHbnWdsb2zvMg/company-logo_100_100/company-logo_100_100/0/1689011295423?e=2147483647&v=beta&t=PtMaQizwxcNDODCenXz1eNxcpxDBguMeboqiMc5Py9U","","","","","","","","","","",""
+"li-4323563836","linkedin","https://www.linkedin.com/jobs/view/4323563836","","Salesforce Developer","Programmers.io","New Orleans, LA","2025-11-20","contract","","","","","",False,"mid-senior level","Information Technology","","anas.khan@programmers.io","Programmers.io is currently looking for a
+ **Salesforce Developer** 
+
+
+
+
+  
+
+
+
+
+
+**Onsite Role in New Orleans, Louisiana, United States** 
+
+
+
+
+  
+
+
+
+
+
+**OPEN FOR C2C OR W2**
+
+
+
+
+  
+
+
+
+
+
+**Must Have Technical/Functional Skills** 
+
+
+
+
+  
+
+
+
+
+
+ 5\\+ years of Proficiency in Salesforce development, including Apex, Visualforce, Lightning components, and Salesforce configuration
+ 
+
+
+
+ Experience with application development, software integration, and system architecture
+ 
+
+
+
+ Strong understanding of CRM and SaaS platforms, including Sales Cloud, Service Cloud, and Marketing Cloud
+ 
+
+
+
+ Experience with troubleshooting, providing technical support, and problem\\-solving
+ 
+
+
+
+ Familiarity with programming languages such as JavaScript, Java, or REST APIs is advantageous
+ 
+
+
+
+ Good communication and collaboration skills to engage with cross\\-functional teams
+ 
+
+
+
+ Demonstrated knowledge of Agile development methodologies is a plus
+ 
+
+
+
+ Bachelor's degree in Computer Science, Software Engineering, or a related field; Salesforce certifications (e.g., Salesforce Platform Developer I or II) preferred
+ 
+
+
+
+  
+
+
+
+
+
+**Roles \\& Responsibilities** 
+
+
+
+
+  
+
+
+
+
+
+ · Experience as a Salesforce Developer in designing and implementing enterprise workflows, CRM solutions, and custom applications on the Salesforce platform.
+ 
+
+
+
+ · Strong experience in the Software Development Life Cycle (SDLC) using methodologies like Agile and Test\\-Driven Development.
+ 
+
+
+
+ · Expertise in Salesforce modules such as Sales Cloud, Service Cloud, Marketing Cloud, Experience Cloud, and Community.
+ 
+
+
+
+ · Skilled in developing and customizing Salesforce applications using Apex, Visualforce, Lightning Web Components (LWC), and Aura Components.
+ 
+
+
+
+ · Experience in building Salesforce integrations using REST, SOAP, and middleware tools for connecting with external systems.
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+ If you are interested, please apply or feel free to share your updated resume at
+ **anas.khan@programmers.io**","IT Services and IT Consulting","https://www.linkedin.com/company/programmers-io","https://media.licdn.com/dms/image/v2/D560BAQGliwiJOth0Yw/company-logo_100_100/B56ZpZqmTlHIAU-/0/1762440930983/programmers_io_logo?e=2147483647&v=beta&t=qpQr3jV49LLVQv1JTpltBJP2iYn0KkvGAg61eOMcwWc","","","","","","","","","","",""
+"li-4337290218","linkedin","https://www.linkedin.com/jobs/view/4337290218","https://jobs.laitram.com/JobsLaitram/JobDetail/7574?source=LinkedIn&urlHash=U2iJ","Identity & Access Security Engineer (Remote) USA","Laitram","New Orleans, LA","2025-11-20","fulltime","","","","","",True,"not applicable","Information Technology","","","**IDENTITY \\& ACCESS ENGINEER (REMOTE – U.S. ONLY)** 
+
+
+
+
+  
+
+
+
+
+
+**Laitram · Intralox · Global Manufacturing \\& Technology Leader** 
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Visa Policy:** 
+ H\\-1B will not be considered. Other U.S. work visas will be considered.
+ 
+
+
+
+  
+
+
+
+
+
+**Important:** 
+ Please list your visa status at the top of your resume for review.
+ 
+
+
+
+  
+
+
+
+
+
+**ABOUT LAITRAM** 
+
+
+
+
+  
+
+
+
+
+
+ Laitram is a privately held, innovation\\-driven global company with four operating divisions: Intralox, Laitram Machinery, Lapeyre Stair, and Laitram Machine Shop.
+ 
+
+
+
+  
+
+
+
+
+
+ We employ more than 3,900 people worldwide, operating from 22 offices across 9 countries, 12 locations worldwide.
+ 
+
+
+
+  
+
+
+
+
+
+ We hold more than 2,200 active patents and are recognized for engineering excellence, advanced manufacturing, and a culture of
+ **self\\-management, continuous improvement, integrity, and long\\-term thinking** 
+ . At Laitram you’re empowered to take ownership, grow your career, and create meaningful impact at global scale.
+ 
+
+
+
+  
+
+
+
+
+
+ Visit our Careers website to learn more. www.laitram.com
+ 
+
+
+
+  
+
+
+
+
+
+**REQUIREMENT: TRUE END\\-TO\\-END IAM ENGINEERING EXPERIENCE** 
+
+
+
+
+  
+
+
+
+
+
+ To be considered for this role, candidates must demonstrate
+ **complete, hands\\-on ownership of the entire IAM discipline** 
+ , including:
+ 
+
+
+
+  
+
+
+
+
+* Developing the strategy, architecture and roadmap for identity and access systems.
+* Building, configuring, and deploying IAM platforms, workflows, and integrations across cloud and on\\-premises environments.
+* Managing the full identity lifecycle for users, roles and access: provisioning, onboarding, rights review, deprovisioning, auditing, and retiring systems.
+* Designing, implementing and maintaining SSO, MFA, conditional access, PAM, CIAM, automation and orchestration of identity workflows.
+* Identifying and remediating identity risks, integrating IAM tightly with security controls, governance, compliance and Zero\\-Trust frameworks.
+* Automating, monitoring, troubleshooting and improving IAM systems — ownership includes architecture, system health, performance, integration, and continuous improvement.
+* Mentoring engineers, defining best practices, documenting frameworks and making decisions that scale enterprise\\-wide identity services.
+
+
+
+  
+
+
+
+
+
+**This is not** 
+ a ticket\\-handling role, partial IAM support, or help\\-desk position. If your experience is limited to access request processing, ticket resolution or narrow IAM tasks, this role is not a match.
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**ABOUT THE ROLE** 
+
+
+
+
+ Our Security \\& Access Team seeks an experienced
+ **Identity \\& Access Engineer** 
+ to design, implement and maintain global IAM solutions that support Laitram’s operational and security goals. This is a
+ **remote U.S. role** 
+ , with occasional planned visits to our New Orleans headquarters for team alignment and training.
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**WHAT YOU WILL DO** 
+
+
+
+* Engineer and deploy global identity platforms: SSO, MFA, IAM/CIAM, PAM.
+* Architect end\\-to\\-end IAM solutions — from design to deployment, monitoring, automation and retirement.
+* Automate identity workflows and scripting using PowerShell or similar tools.
+* Troubleshoot complex authentication and identity issues across platforms and environments.
+* Collaborate with architects, security teams and business stakeholders to shape identity strategy and Zero\\-Trust initiatives.
+* Evaluate and respond to emerging identity risks, recommending mitigation and securing processes.
+* Mentor and guide engineers, promote IAM best practices, drive documentation and team competency.
+* Enhance identity lifecycle governance, management and hygiene across global operations.
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**WHAT YOU BRING** 
+
+
+
+
+*(Candidates must meet all required qualifications.)* 
+
+
+
+* Bachelor’s or Master’s degree in Information Security, Information Systems, or equivalent experience.
+* Minimum
+ **5\\+ years** 
+ of IAM engineering experience where you owned the full lifecycle of identity and access.
+* Strong experience with Microsoft Active Directory, Entra ID/Azure AD, IDaaS platforms and certificate lifecycle management.
+* Proficiency with PowerShell or equivalent scripting languages for automation and integration.
+* Experience creating technical design documentation, standard operating procedures and identity workflows.
+* Solid understanding of identity threats, authentication risks, modern attack patterns and governance.
+* Excellent analytical, troubleshooting and root\\-cause skills.
+* Strong communication skills and ability to work with both technical teams and business stakeholders.
+* Flexibility to support minimal travel and occasional after\\-hours work.
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**BENEFITS \\& REWARDS** 
+
+
+
+* Five\\-bonus system: four quarterly profit\\-sharing bonuses \\+ annual performance bonus.
+* 401(k): 100% match up to 4% \\+ additional company contribution.
+* Comprehensive medical, dental and vision benefits. On\\-site Health \\& Wellness Centers, fitness facilities, personal training programs.
+* Generous PTO, paid holidays, parental leave.
+* Self\\-management culture: autonomy, ownership, continuous improvement.
+* Career growth opportunities through learning and mobility across all four Laitram divisions.
+* Values\\-driven workplace grounded in integrity, collaboration, innovation and community impact.
+
+
+
+  
+
+
+
+
+
+**WORK LOCATION** 
+
+
+
+
+ Fully remote within the United States. Occasional, pre\\-scheduled visits to Laitram’s New Orleans headquarters are part of the role. These visits are designed to reinforce collaboration, relationships and team alignment — not frequent travel.
+ 
+
+
+
+  
+
+
+
+
+
+**APPLICANT REMINDERS** 
+
+
+
+* H\\-1B visas will
+ **not** 
+ be considered.
+* Other U.S. work visas
+ **will** 
+ be considered.
+* **Visa status must be listed at the top of your resume** 
+ for review.
+* Applicants must meet
+ **all required qualifications** 
+ including full end\\-to\\-end IAM ownership experience.","Machinery Manufacturing and Transportation, Logistics, Supply Chain and Storage","https://www.linkedin.com/company/laitram","https://media.licdn.com/dms/image/v2/D4D0BAQGG_Rpm1P3ntA/company-logo_100_100/company-logo_100_100/0/1698244889105/laitram_logo?e=2147483647&v=beta&t=sOUAW4ZTsCHuPu6IN7q_ZYnnO2CiIIg1wRqfsULC9E4","","","","","","","","","","",""
+"li-4337057929","linkedin","https://www.linkedin.com/jobs/view/4337057929","https://ars2.equest.com/?response_id=d16ff4fffbca67d4a00b97c91952cdb4&urlHash=A2t0","Epic Beaker Specialist","Deloitte","New Orleans, LA","2025-11-20","fulltime","","","","","",False,"not applicable","Other","","","Are you an experienced, passionate pioneer in technology who wants to work in a collaborative environment? As an experienced
+ **Epic Beaker Specialist** 
+ you will have the ability to share new ideas and collaborate on projects as a consultant without the extensive demands of travel. If so, consider an opportunity with Deloitte under our Project Delivery Talent Model. Project Delivery Model (PDM) is a talent model that is tailored specifically for long\\-term, onsite client service delivery.
+   
+
+  
+
+**Work You'll Do/Responsibilities**
+* Provide steady state Epic support for a client on the East Coast working Eastern Time zone hours.
+* Provide support for incident resolution
+* Provide support for service requests
+* Provide support for enhancement build upgrade build and support
+
+
+**The Team**
+ AI \\& Engineering leverages cutting\\-edge engineering capabilities to build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These solutions are powered by engineering for business advantage, transforming mission\\-critical operations. We enable clients to stay ahead with the latest advancements by transforming engineering teams and modernizing technology \\& data platforms. Our delivery models are tailored to meet each client's unique requirements.
+   
+
+  
+
+**Qualifications**
+**Required**
+* 4\\+ years of Epic Steady State Support
+* Must have an active Epic Beaker Certification
+* Have excellent documentation and verbal skills
+* Willingness to work on an on\\-call schedule for evenings and weekends, should the need arise
+* Bachelor's degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience
+* Limited immigration sponsorship may be available
+* Ability to travel 10%, on average, based on the work you do and the clients and industries/sectors you serve
+
+
+**Preferred**
+* Analytical/ Decision Making Responsibilities
+* Analytical ability to manage multiple projects and prioritize tasks into manageable work products
+* Can operate independently or with minimum supervision
+* Excellent Written and Communication Skills
+* Ability to deliver technical demonstrations
+
+
+ Information for applicants with a need for accommodation: https://www2\\.deloitte.com/us/en/pages/careers/articles/join\\-deloitte\\-assistance\\-for\\-disabled\\-applicants.html","Accounting, IT Services and IT Consulting, and Business Consulting and Services","https://www.linkedin.com/company/deloitte","https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY","","","","","","","","","","",""
+"li-4323524161","linkedin","https://www.linkedin.com/jobs/view/4323524161","https://ad.doubleclick.net/ddm/clk/438405794;254302458;m?https://jobs.us.pwc.com/job/-/-/932/88610112400?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&urlHash=c7q8","US Tech - Senior Developer","PwC","New Orleans, LA","2025-11-20","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Specialty/Competency:** 
+ Software Engineering
+   
+
+  
+
+**Industry/Sector:** 
+ Not Applicable
+   
+
+  
+
+**Time Type:** 
+ Full time
+   
+
+  
+
+**Travel Requirements:** 
+ Up to 20%
+   
+
+  
+
+ At PwC, our people in software and product innovation focus on developing cutting\\-edge software solutions and driving product innovation to meet the evolving needs of clients. These individuals combine technical experience with creative thinking to deliver innovative software products and solutions. Those in software engineering at PwC will focus on developing innovative software solutions to drive digital transformation and enhance business performance. In this field, you will use your knowledge to design, code, and test cutting\\-edge applications that revolutionise industries and deliver exceptional user experiences.
+   
+
+  
+
+ Enhancing your leadership style, you motivate, develop and inspire others to deliver quality. You are responsible for coaching, leveraging team member’s unique strengths, and managing performance to deliver on client expectations. With your growing knowledge of how business works, you play an important role in identifying opportunities that contribute to the success of our Firm. You are expected to lead with integrity and authenticity, articulating our purpose and values in a meaningful way. You embrace technology and innovation to enhance your delivery and encourage others to do the same.
+   
+
+  
+
+**Skills**
+ Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:
+   
+
+  
+
+* Analyse and identify the linkages and interactions between the component parts of an entire system.
+* Take ownership of projects, ensuring their successful planning, budgeting, execution, and completion.
+* Partner with team leadership to ensure collective ownership of quality, timelines, and deliverables.
+* Develop skills outside your comfort zone, and encourage others to do the same.
+* Effectively mentor others.
+* Use the review of work as an opportunity to deepen the expertise of team members.
+* Address conflicts or issues, engaging in difficult conversations with clients, team members and other stakeholders, escalating where appropriate.
+* Uphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements.
+
+
+ The Opportunity
+   
+
+  
+
+ As part of the Software and Product Innovation team you will lead the development of innovative software solutions while managing a talented team of developers. As a Manager you will supervise, develop, and coach your team, promoting quality deliverables that meet client expectations and contribute to the firm's success. This role offers the chance to embrace technology and innovation, while also mentoring junior staff and driving strategic planning initiatives.
+   
+
+  
+
+**Responsibilities**
+* Facilitate the delivery of quality work that meets client needs
+* Embrace and implement new technologies and innovations
+* Manage project timelines and budgets effectively
+* Foster a collaborative and inclusive team environment
+* Utilize various technical tools and methodologies to streamline processes
+
+
+ What You Must Have
+   
+
+  
+
+* Bachelor's Degree
+* At least 6 years of experience
+* Bachelor's degree or in lieu of a degree, for each year of college not completed, demonstrate three years of specialized training and/or progressively responsible work experience in technology, in addition to the minimum years of experience required for the role.
+
+
+ What Sets You Apart
+   
+
+  
+
+* Bachelor's degree or equivalent experience preferred
+* Demonstrating proficiency in AI prompting
+* Excelling in communication and team leadership
+* Exhibiting experience with micro services and micro front ends
+* Understanding error handling and form field validation
+* Showcasing experience with REST APIs and authentication
+* Displaying experience in Angular, .NET/C\\#, and SQL Server
+* Utilizing DevOps and cloud technologies
+* Possessing experience with application integration and security
+
+
+ Learn more about how we work: https://pwc.to/how\\-we\\-work
+   
+
+  
+
+ PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H\\-1B lottery, except as set forth within the following policy: https://pwc.to/H\\-1B\\-Lottery\\-Policy.
+   
+
+  
+
+ As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.
+   
+
+  
+
+ For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.
+   
+
+  
+
+ The salary range for this position is: $73,500 \\- $244,000, plus individuals may be eligible for an annual discretionary bonus. For roles that are based in Maryland, this is the listed salary range for this position. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits\\-at\\-a\\-glance","Accounting, Financial Services, and Business Consulting and Services","https://uk.linkedin.com/company/pwc","https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_100_100/B4EZaB6j58H0AQ-/0/1745936334912/pwc_logo?e=2147483647&v=beta&t=stNIhYwMNfiRmzhcYIuKvLl6j-_E5sJ8JNb3x27Tv1s","","","","","","","","","","",""
+"li-4323467429","linkedin","https://www.linkedin.com/jobs/view/4323467429","https://ad.doubleclick.net/ddm/clk/438405794;254302458;m?https://jobs.us.pwc.com/job/-/-/932/88610112368?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&urlHash=_isk","US Tech - Tech Lead","PwC","New Orleans, LA","2025-11-20","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Specialty/Competency:** 
+ Software Engineering
+   
+
+  
+
+**Industry/Sector:** 
+ Not Applicable
+   
+
+  
+
+**Time Type:** 
+ Full time
+   
+
+  
+
+**Travel Requirements:** 
+ Up to 20%
+   
+
+  
+
+ At PwC, our people in software and product innovation focus on developing cutting\\-edge software solutions and driving product innovation to meet the evolving needs of clients. These individuals combine technical experience with creative thinking to deliver innovative software products and solutions. Those in software engineering at PwC will focus on developing innovative software solutions to drive digital transformation and enhance business performance. In this field, you will use your knowledge to design, code, and test cutting\\-edge applications that revolutionise industries and deliver exceptional user experiences.
+   
+
+  
+
+ Growing as a strategic advisor, you leverage your influence, expertise, and network to deliver quality results. You motivate and coach others, coming together to solve complex problems. As you increase in autonomy, you apply sound judgment, recognising when to take action and when to escalate. You are expected to solve through complexity, ask thoughtful questions, and clearly communicate how things fit together. Your ability to develop and sustain high performing, diverse, and inclusive teams, and your commitment to excellence, contributes to the success of our Firm.
+   
+
+  
+
+**Skills**
+ Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:
+   
+
+  
+
+* Craft and convey clear, impactful and engaging messages that tell a holistic story.
+* Apply systems thinking to identify underlying problems and/or opportunities.
+* Validate outcomes with clients, share alternative perspectives, and act on client feedback.
+* Direct the team through complexity, demonstrating composure through ambiguous, challenging and uncertain situations.
+* Deepen and evolve your expertise with a focus on staying relevant.
+* Initiate open and honest coaching conversations at all levels.
+* Make difficult decisions and take action to resolve issues hindering team effectiveness.
+* Model and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements.
+
+
+ The Opportunity
+   
+
+  
+
+ As part of the Information Technology Development team you are to lead the creation and implementation of impactful technology processes and business processes by creating automated workflows to replace manual workflows. As a Senior Manager you are to lead large projects, innovate processes, and maintain operational excellence while interacting with clients at a senior level to drive project success. You are also to serve as a strategic advisor, leveraging your specialized knowledge and technical acumen of industry\\-leading business trends, the firm’s client service offerings, and professional industry networks to deliver quality results to clients and provide strategic input into the firm’s business strategies.
+   
+
+  
+
+**Responsibilities**
+* Lead large projects and confirm their successful execution
+* Innovate and improve technology and business processes
+* Create automated workflows to replace manual processes
+* Serve as a strategic advisor leveraging specialized knowledge
+* Maintain operational excellence through process innovation
+* Engage with clients at a senior level to drive project success
+* Provide strategic input into the firm's business strategies
+* Utilize industry\\-leading business trends and networks to deliver quality results
+
+
+ What You Must Have
+   
+
+  
+
+* Bachelor's Degree
+* At least 6 years of experience in progressive roles focused on managing information technology applications
+* Bachelor's degree or in lieu of a degree, demonstrating, in addition to the minimum years of experience required for the role, three years of specialized training and/or progressively responsible work experience in technology for each missing year of college
+
+
+ What Sets You Apart
+   
+
+  
+
+* Master's Degree in Computer Applications, Computer Programming preferred
+* Lean IT principles and data\\-driven approaches
+* Script languages and automation
+* Modern web application development
+* Mobile application development
+* NoSQL databases proficiency
+* API management
+* Continuous integration/continuous deployment
+* Data Integration Tools
+
+
+ Learn more about how we work: https://pwc.to/how\\-we\\-work
+   
+
+  
+
+ PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H\\-1B lottery, except as set forth within the following policy: https://pwc.to/H\\-1B\\-Lottery\\-Policy.
+   
+
+  
+
+ As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.
+   
+
+  
+
+ For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.
+   
+
+  
+
+ Applications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us\\-application\\-deadlines
+   
+
+  
+
+ The salary range for this position is: $91,000 \\- $321,500, plus individuals may be eligible for an annual discretionary bonus. For roles that are based in Maryland, this is the listed salary range for this position. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits\\-at\\-a\\-glance","Accounting, Financial Services, and Business Consulting and Services","https://uk.linkedin.com/company/pwc","https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_100_100/B4EZaB6j58H0AQ-/0/1745936334912/pwc_logo?e=2147483647&v=beta&t=stNIhYwMNfiRmzhcYIuKvLl6j-_E5sJ8JNb3x27Tv1s","","","","","","","","","","",""
+"li-4319379375","linkedin","https://www.linkedin.com/jobs/view/4319379375","","Senior Engineer, System Admin","KPMG US","New Orleans, LA","2025-11-20","fulltime","","","","","",False,"mid-senior level","General Business","","","Known for being a great place to work and build a career, KPMG provides audit, tax and advisory services for organizations in today's most important industries. Our growth is driven by delivering real results for our clients. It's also enabled by our culture, which encourages individual development, embraces an inclusive environment, rewards innovative excellence and supports our communities. With qualities like those, it's no wonder we're consistently ranked among the best companies to work for by Fortune Magazine, Consulting Magazine, Seramount, Fair360 and others. If you're as passionate about your future as we are, join our team.
+   
+
+  
+
+ KPMG is currently seeking a Senior Associate, Engineer System Administrator to join our Global Technology \\& Knowledge Group which is part of KPMG International.
+   
+
+  
+
+ Responsibilities:
+   
+
+  
+
+* Collaborate with leadership, third party vendors and various technical teams in the firm to translate business requirements into technical IAM requirements
+* Participate in application architecture and design review working directly with internal application houses and business owners on the integration of their applications into the IAM platform
+* Implement, test and support all enhancements to the systems, services and technologies used by the IAM platform
+* Responsible for the development and maintenance of system configurations and process design documentation, knowledge base articles, system maintenance and troubleshooting guides, operating procedures and application integration documentation
+* Maintain operational requirements and assess service issues for improvement opportunities; help to ensure production implementation and maintenance activities are performed (as required)
+* Provide third level support on application integration issues to IAM platform customers
+* Act with integrity, professionalism, and personal responsibility to uphold KPMG's respectful and courteous work environment
+
+
+ Qualifications:
+   
+
+  
+
+* Minimum three years of recent progressive experience implementing packaged or custom IAM solutions while leading a technical team in an enterprise environment
+* Bachelor's degree from an accredited college or university is preferred
+* Expert knowledge in the following IAM technology areas: Single Sign\\-On, Federation, Authentication/Authorization, Directory Services, Access Provisioning, Access Review, Privileged Access Management. Familiar with the following technologies: ISAM, Okta, Active Directory, Azure Active Directory (AAD) and CyberArk
+* Hands\\-on experience with Windows/Linux as well as scripting expertise in one or more of the following (PowerShell, Bash/Shell, Python)
+* Hands\\-on experience developing and deploying large\\-scale enterprise Identity \\& Access Management solutions; knowledge of enterprise security tools, including identity management, access control, security operations and management tools
+* Applicants must be authorized to work in the U.S. without the need for employment\\-based visa sponsorship now or in the future; KPMG LLP will not sponsor applicants for U.S. work visa status for this opportunity (no sponsorship is available for H\\-1B, L\\-1, TN, O\\-1, E\\-3, H\\-1B1, F\\-1, J\\-1, OPT, CPT or any other employment\\-based visa)
+
+
+ KPMG LLP and its affiliates and subsidiaries (“KPMG”) complies with all local/state regulations regarding displaying salary ranges. If required, the ranges displayed below or via the URL below are specifically for those potential hires who will work in the location(s) listed. Any offered salary is determined based on relevant factors such as applicant's skills, job responsibilities, prior relevant experience, certain degrees and certifications and market considerations. In addition, KPMG is proud to offer a comprehensive, competitive benefits package, with options designed to help you make the best decisions for yourself, your family, and your lifestyle. Available benefits are based on eligibility. Our Total Rewards package includes a variety of medical and dental plans, vision coverage, disability and life insurance, 401(k) plans, and a robust suite of personal well\\-being benefits to support your mental health. Depending on job classification, standard work hours, and years of service, KPMG provides Personal Time Off per fiscal year. Additionally, each year KPMG publishes a calendar of holidays to be observed during the year and provides eligible employees two breaks each year where employees will not be required to use Personal Time Off; one is at year end and the other is around the July 4th holiday. Additional details about our benefits can be found towards the bottom of our KPMG US Careers site at Benefits \\& How We Work.
+   
+
+  
+
+ Follow this link to obtain salary ranges by city outside of CA:
+   
+
+  
+
+ https://kpmg.com/us/en/how\\-we\\-work/pay\\-transparency.html/?id\\=6720\\_9\\_25
+   
+
+  
+
+ California Salary Range: $82200 \\- $168200
+   
+
+  
+
+ KPMG offers a comprehensive compensation and benefits package. KPMG is an equal opportunity employer. KPMG complies with all applicable federal, state and local laws regarding recruitment and hiring. All qualified applicants are considered for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, citizenship status, disability, protected veteran status, or any other category protected by applicable federal, state or local laws. The attached link contains further information regarding KPMG's compliance with federal, state and local recruitment and hiring laws. No phone calls or agencies please.
+   
+
+  
+
+ KPMG recruits on a rolling basis. Candidates are considered as they apply, until the opportunity is filled. Candidates are encouraged to apply expeditiously to any role(s) for which they are qualified that is also of interest to them.
+   
+
+  
+
+ Los Angeles County applicants: Material job duties for this position are listed above. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness, and safeguard business operations and company reputation. Pursuant to the California Fair Chance Act, Los Angeles County Fair Chance Ordinance for Employers, Fair Chance Initiative for Hiring Ordinance, and San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.","Financial Services","https://www.linkedin.com/company/kpmg-us","https://media.licdn.com/dms/image/v2/D4E0BAQHbnWdsb2zvMg/company-logo_100_100/company-logo_100_100/0/1689011295423?e=2147483647&v=beta&t=PtMaQizwxcNDODCenXz1eNxcpxDBguMeboqiMc5Py9U","","","","","","","","","","",""
+"li-4336955726","linkedin","https://www.linkedin.com/jobs/view/4336955726","","DevOps Engineer","Ingram Barge Company","New Orleans, LA","2025-11-19","fulltime","","","","","",False,"executive","Engineering and Information Technology","","Recruiting@ingrambarge.com","**Company Description**
+ Ingram Barge is a quality marine transporter on America’s inland waterways since 1946, starting out as a small, family\\-owned business and growing into what we are today: the largest dry cargo carrier and one of the top chemical carriers on the river. As the leading carrier, we operate a fleet of approximately 140 towboats and 5,000 barges. We're committed to being the best at whatever we do. We're continuously growing, adapting, and responding, and we're successful because of the outstanding hard work and creative energy of our associates.
+   
+
+  
+
+**Job Description**
+ Ingram Barge is seeking a DevOps Engineer to join our dynamic DevSecOps team. This person will work alongside our Systems Architect, Application Development Architect, and Security Engineer and focuses on operationalizing our cloud\\-native infrastructure, enhancing CI/CD pipelines, ensuring system reliability and resilience, and providing 24x7 operational support.
+   
+
+  
+
+**What you will be doing:**
+**Pipeline \\& Automation**
+* Designing and implementing advanced CI/CD pipeline features using GitLab
+* Developing and maintaining Terraform modules for infrastructure provisioning
+* Creating and optimizing Ansible playbooks for configuration management and deployment automation
+* Integrating security scanning and compliance checks into deployment pipelines
+
+
+**Container \\& Kubernetes Operations**
+* Building, configuring, and maintaining Azure Kubernetes Service (AKS) clusters
+* Developing and optimizing Helm charts for application deployments
+* Implementing and managing GitOps workflows
+* Monitoring and troubleshooting containerized applications and cluster performance
+
+
+**Infrastructure \\& Reliability**
+* Implementing Infrastructure as Code best practices using Terraform and Ansible
+* Designing and executing disaster recovery procedures and business continuity plans
+* Performing system patching, upgrades, and maintenance activities
+* Establishing and maintaining comprehensive monitoring, alerting, and observability solutions using Prometheus and Grafana
+
+
+**Cost Optimization \\& Resource Management**
+* Monitoring and analyzing Azure cloud spending patterns and resource utilization
+* Implementing cost optimization strategies including right\\-sizing, reserved instances, and auto\\-scaling policies
+* Developing dashboards and reports for cost tracking and forecasting
+* Collaborating with teams to optimize resource allocation and eliminating waste
+
+
+**Monitoring \\& Observability**
+* Designing and implementing comprehensive monitoring solutions using Prometheus for metrics collection
+* Building and maintaining Grafana dashboards for infrastructure, application, and business metrics
+* Configuring intelligent alerting rules and escalation procedures
+* Establishing SLIs, SLOs, and error budgets for critical services
+
+
+**24x7 Support \\& Incident Response**
+* Participating in on\\-call rotation for 24x7 production support
+* Leading Tier 3 incident response efforts for production outages and system issues
+* Performing root cause analysis and implementing preventive measures
+* Collaborating with development teams on performance optimization and troubleshooting
+* Maintaining runbooks and documentation for operational procedures
+
+
+ Qualifications
+   
+
+  
+
+**Knowledge, Skills, and Abilities:**
+**Technical Expertise (5\\+ years)**
+* Strong experience with Kubernetes (AKS preferred) and container orchestration
+* Proficiency in Infrastructure as Code: Terraform and Ansible
+* Advanced GitLab CI/CD pipeline development and optimization
+* Experience with GitOps methodologies and leading toolsets like Helm, Flux and/or ArgoCD
+* Python scripting for automation and pipeline tasks
+* Azure cloud services and networking concepts
+
+
+**Monitoring \\& Cost Management**
+* Hands\\-on experience with Prometheus for metrics collection and alerting
+* Proficiency in Grafana for dashboard creation and data visualization
+* Experience with Azure Cost Management tools and FinOps practices
+* Knowledge of resource optimization techniques and auto\\-scaling strategies
+* Understanding of cloud pricing models and cost allocation methods
+
+
+**DevOps \\& SRE Practices**
+* Incident management and post\\-mortem processes
+* 24x7 on\\-call experience with escalation procedures
+* Disaster recovery planning and implementation
+* Security best practices in CI/CD and infrastructure
+* Experience with chaos engineering and resilience testing
+
+
+**Collaborative Skills**
+* Experience working with cross\\-functional teams
+* Strong troubleshooting and problem\\-solving abilities under pressure
+* Documentation and knowledge sharing practices
+* Comfortable with 24x7 on\\-call rotation responsibilities
+
+
+**Preferred Qualifications**
+* Azure certifications (AZ\\-104, AZ\\-400, or AKS\\-related)
+* Experience with message bus systems (Azure Service Bus)
+* Knowledge of .NET applications and Angular frontend deployments
+* Familiarity with secret management solutions (Delinea or similar)
+* Experience with additional monitoring tools (Azure Monitor, Application Insights)
+* FinOps certification or cost optimization experience
+* Experience with alerting tools and PagerDuty integration
+
+
+ Additional Information
+   
+
+  
+
+**Why You Should Apply:**
+* Professional and financial growth opportunities
+* Medical benefits
+* Retirement benefits
+
+
+ All your information will be kept confidential according to EEO guidelines.
+   
+
+  
+
+ If you are requesting reasonable accommodation or disability assistance in submitting your application, you may email us at Recruiting@ingrambarge.com
+   
+
+  
+
+ Ingram Marine Group and its affiliates (“Company”) is an Affirmative Action/Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, work related mental or physical disability, veteran status, sexual orientation, gender identity, or genetic information.
+   
+
+  
+
+ EEO/AA Employer/Vet/Disabled
+   
+
+  
+
+ We participate in EVerify
+   
+
+  
+
+ http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf
+   
+
+  
+
+ http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeosp.pdf","Truck Transportation","https://www.linkedin.com/company/ingram-barge-company","https://media.licdn.com/dms/image/v2/C4E0BAQFte3luUx1LYg/company-logo_100_100/company-logo_100_100/0/1631319924581?e=2147483647&v=beta&t=O2Ph2pXxz2UusrzXcZU8pz2vqIh5trlEb3Ms6AB1mD0","","","","","","","","","","",""
+"li-4310450044","linkedin","https://www.linkedin.com/jobs/view/4310450044","https://recruiting.ultipro.com/FIR1007FTN/JobBoard/c005ef3e-175a-49c4-ba29-9f431f673944/OpportunityDetail?opportunityId=6e332b5a-ee56-4c04-ab32-31ce3f507243&source=LinkedIn&urlHash=yWCO","Wealth Management .Net Developer","First Horizon Bank","New Orleans, LA","2025-11-19","fulltime","","","","","",False,"entry level","Finance and Sales","","","**Location: Onsite in Memphis, TN; Maryville, TN; Birmingham, AL; Lafayette, LA; New Orleans, LA; Charlotte, or NC; Raleigh, NC.**
+**No sponsorship will be provided for this role.**
+**Summary:**
+ Responsible for the design, development, maintenance, and support of software applications and processes for the Wealth Management business. Primary focus includes executing user stories with the Product Owner and Business Analyst via the Software Development Life Cycle (SDLC) and Agile methodologies. Development work primarily utilizes the Microsoft technology stack—.NET web development, MS SQL Server, JavaScript, JQuery, CSS, and cloud\\-native development (.NET Core). Member of the Wealth Management Agile team, participating in Agile ceremonies.
+   
+
+  
+
+**Essential Duties And Responsibilities**
+* Develop program logic for new applications and modify logic in existing applications.
+* Design and normalize data sets; develop data extraction and loading processes.
+* Code, test, debug, document, implement, and maintain applications.
+* Analyze and translate business requirements; maintain, test, and integrate application components.
+* Independently troubleshoot and resolve problems, collaborating with team members as needed.
+* Provide technical support for business\\-critical applications.
+* Document software and related systems.
+* Perform data analysis.
+* Create ad\\-hoc reporting.
+* Experience migrating applications and data from on\\-premises environments to cloud platforms (preferred).
+* Participate in Agile ceremonies and team activities.
+* Perform other duties as assigned.
+
+
+**Supervisory Responsibilities**
+* No supervisory responsibilities
+
+
+**Qualifications**
+ The associate must successfully perform all essential duties. The following knowledge, skills, and abilities are required:
+   
+
+  
+
+* Bachelor’s degree (4\\-year college) and 2\\-4 years of experience, or equivalent combination of education/experience.
+* Experience in Financial Services industry, with Brokerage/Trust/Financial Planning systems preferred.
+* Adaptability, strong communication skills, and collaborative teamwork abilities.
+
+
+**Computer And Office Equipment Skills**
+* Solid C\\# .NET development experience using latest .NET frameworks.
+* Deep understanding of Microsoft SQL Server, complex stored procedures, ETL processes, SSRS, and reporting.
+* Experience with big data technologies, especially Azure Data Lake.
+* Release management using Atlassian Jira/Bamboo and Jenkins.
+* Proficiency in Microsoft Office.
+* Required development experience:
++ Visual Studio
++ .NET/.NET Core
++ C\\#, Visual Basic.NET, ADO.NET, ASP.NET
++ LINQ, Entity Framework
++ IIS, Git, Atlassian Jira/Bamboo, Jenkins
++ SSMS, T\\-SQL
++ JavaScript, JQuery, CSS, HTML, AJAX
++ Web services
+
+* Preferred systems experience:
++ React
++ IBM Mainframe Transmission Jobs
++ ETL design/development on IBM InfoSphere/Datastage
++ Developing against Azure Databricks
+
+
+**CERTIFICATES, LICENSES, REGISTRATIONS (Ex: CPA, Series 6 or 7 license, etc)**
+* No certificates, licenses, or registrations required.
+* Relevant certifications (e.g., Microsoft Certified: Azure Developer Associate) are a plus.
+
+
+**About Us:**
+ First Horizon Corporation is a leading regional financial services company, dedicated to helping our clients, communities and associates unlock their full potential with capital and counsel. Headquartered in Memphis, TN, the banking subsidiary First Horizon Bank operates in 12 states across the southern U.S. The Company and its subsidiaries offer commercial, private banking, consumer, small business, wealth and trust management, retail brokerage, capital markets, fixed income, and mortgage banking services. First Horizon has been recognized as one of the nation's best employers by Fortune and Forbes magazines and a Top 10 Most Reputable U.S. Bank. More information is available at www.FirstHorizon.com.
+   
+
+  
+
+**Benefit Highlights:**
+* Medical with wellness incentives, dental, and vision
+* HSA with company match
+* Maternity and parental leave
+* Tuition reimbursement
+* Mentor program
+* 401(k) with 6% match
+* More \\-\\- FirstHorizon.com/First\\-Horizon\\-National\\-Corporation/Careers/Our\\-Benefits
+
+
+**Follow Us:**
+ Facebook
+   
+
+  
+
+ X formerly Twitter
+   
+
+  
+
+ LinkedIn
+   
+
+  
+
+ Instagram
+   
+
+  
+
+ YouTube","Financial Services","https://www.linkedin.com/company/first-horizon-bank","https://media.licdn.com/dms/image/v2/D560BAQGUGHouGzgT8w/company-logo_100_100/company-logo_100_100/0/1728395524314/first_horizon_bank_logo?e=2147483647&v=beta&t=znyN5Hbc8l-fLXgA5uY95iBVEn46yn4Y5sWUu_Qx-Jw","","","","","","","","","","",""
+"li-4323455843","linkedin","https://www.linkedin.com/jobs/view/4323455843","","Oracle EBS Developer- Secret Clearance","Deloitte","New Orleans, LA","2025-11-19","fulltime","","","","","",False,"not applicable","Information Technology","","","Our Deloitte Enterprise Performance team is at the forefront of enterprise technology, working across finance, supply chain, and IT operations to deliver holistic performance improvement and digital transformation. Join our team of strategic advisers and architects, differentiated by our industry depth to collaborate with leading solution providers and leverage your experience in strategy, process design, technology enablement, and operational services to enable heart\\-of\\-the\\-business solutions.
+   
+
+  
+
+ Recruiting for this role ends on January 19th, 2026\\.
+   
+
+  
+
+**Work You'll Do**
+* Design, develop, test, and deploy customizations and enhancements for Oracle E\\-Business Suite Financials and Purchasing modules
+* Build and modify Oracle EBS forms, reports (BI Publisher, XML, Oracle Reports), interfaces (integrations with third\\-party systems), extensions, and workflows
+* Analyze business requirements in collaboration with functional and business teams to develop efficient technical solutions
+* Troubleshoot, debug, and resolve application issues within the Oracle EBS environment, providing timely support to end users
+* Develop and maintain technical documentation, including designs, test scripts, and deployment procedures
+* Ensure solution design and development aligns with Oracle best practices, security policies, and compliance requirements
+
+
+**The Team**
+ Deloitte's Government \\& Public Services (GPS) practice \\- our people, ideas, technology and outcomes \\- is designed for impact. Serving federal, state, \\& local government clients as well as public higher education institutions, our team of professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.
+   
+
+  
+
+ Our Oracle offering drives business transformation services to improve performance and value delivered by the full suite of Oracle solutions.
+   
+
+  
+
+**Qualifications**
+ Required
+ **:**
+* Bachelor's degree
+* Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future
+* Active Secret security clearance required
+* 5\\+ years experience in the development and customization experience with Oracle E\\-Business Suite Financials modules with SQL and/or PL/SQL
+* 2\\+ years experience working with Oracle EBS Financials (e.g., AP, AR, GL) or Purchasing (Procure\\-to\\-Pay) in a federal environment
+* Ability to travel 25%, on average, based on the work you do and the clients and industries/sectors you serve
+
+
+ The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $107,600 to $198,400\\.
+   
+
+  
+
+ You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.
+   
+
+  
+
+ Information for applicants with a need for accommodation: https://www2\\.deloitte.com/us/en/pages/careers/articles/join\\-deloitte\\-assistance\\-for\\-disabled\\-applicants.html","Accounting, IT Services and IT Consulting, and Business Consulting and Services","https://www.linkedin.com/company/deloitte","https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY","","","","","","","","","","",""
+"li-4323195823","linkedin","https://www.linkedin.com/jobs/view/4323195823","","Salesforce Senior Associate","PwC","New Orleans, LA","2025-11-18","fulltime","","","","","",False,"associate","Other","","","**Specialty/Competency:** 
+ Salesforce
+   
+
+  
+
+**Industry/Sector:** 
+ Not Applicable
+   
+
+  
+
+**Time Type:** 
+ Full time
+   
+
+  
+
+**Travel Requirements:** 
+ Up to 80%
+   
+
+  
+
+ At PwC, our people in business application consulting specialise in consulting services for a variety of business applications, helping clients optimise operational efficiency. These individuals analyse client needs, implement software solutions, and provide training and support for seamless integration and utilisation of business applications, enabling clients to achieve their strategic objectives. As a Salesforce consulting generalist at PwC, you will possess a broad range of consulting skills and experience across various Salesforce applications. You will provide consulting services to clients, analysing their needs, implementing software solutions, and offering training and support for effective utilisation of Salesforce applications. Your versatile knowledge will allow you to assist clients in optimising operational efficiency and achieving their strategic objectives.
+   
+
+  
+
+ Focused on relationships, you are building meaningful client connections, and learning how to manage and inspire others. Navigating increasingly complex situations, you are growing your personal brand, deepening technical expertise and awareness of your strengths. You are expected to anticipate the needs of your teams and clients, and to deliver quality. Embracing increased ambiguity, you are comfortable when the path forward isn’t clear, you ask questions, and you use these moments as opportunities to grow.
+   
+
+  
+
+**Skills**
+ Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:
+   
+
+  
+
+* Respond effectively to the diverse perspectives, needs, and feelings of others.
+* Use a broad range of tools, methodologies and techniques to generate new ideas and solve problems.
+* Use critical thinking to break down complex concepts.
+* Understand the broader objectives of your project or role and how your work fits into the overall strategy.
+* Develop a deeper understanding of the business context and how it is changing.
+* Use reflection to develop self awareness, enhance strengths and address development areas.
+* Interpret data to inform insights and recommendations.
+* Uphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements.
+
+
+ The Opportunity
+   
+
+  
+
+ As part of the Salesforce Consulting team you develop and implement scalable technical solutions that meet client requirements. As a Senior Associate, you guide and mentor junior team members while navigating complex challenges to deliver quality work and build meaningful client relationships.
+   
+
+  
+
+**Responsibilities**
+* Analyze and interpret data to provide actionable insights
+* Develop strategies to enhance Salesforce applications
+* Uphold professional standards and exemplary practices in consulting
+* Proactively identify and address potential project risks
+
+
+ What You Must Have
+   
+
+  
+
+* Bachelor's Degree
+* 3 years of experience
+
+
+ What Sets You Apart
+   
+
+  
+
+* Master's Degree preferred
+* Certifications Preferred: Salesforce.com Certified Administrator, Salesforce.com Certified Developer, Salesforce.com Certified Sales/Service/Experience Consultant
+* Demonstrating hands\\-on experience with Salesforce configuration
+* Defining scalable technical solution architecture
+* Translating customer requirements into working solutions
+* Managing communication with development teams
+
+
+ Learn more about how we work: https://pwc.to/how\\-we\\-work
+   
+
+  
+
+ PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H\\-1B lottery, except as set forth within the following policy: https://pwc.to/H\\-1B\\-Lottery\\-Policy.
+   
+
+  
+
+ As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.
+   
+
+  
+
+ For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.
+   
+
+  
+
+ Applications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us\\-application\\-deadlines
+   
+
+  
+
+ The salary range for this position is: $77,000 \\- $202,000, plus individuals may be eligible for an annual discretionary bonus. For roles that are based in Maryland, this is the listed salary range for this position. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits\\-at\\-a\\-glance","Accounting, Financial Services, and Business Consulting and Services","https://uk.linkedin.com/company/pwc","https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_100_100/B4EZaB6j58H0AQ-/0/1745936334912/pwc_logo?e=2147483647&v=beta&t=stNIhYwMNfiRmzhcYIuKvLl6j-_E5sJ8JNb3x27Tv1s","","","","","","","","","","",""
+"li-4340945309","linkedin","https://www.linkedin.com/jobs/view/4340945309","https://careers.ey.com/ey/job/New-York-Technology-Consulting-Digital-Engineering-PlatformBackend-Engineer-Manager-NY-10001-8604/1268409601/?feedId=337401&utm_source=LinkedInJobPostings&utm_campaign=j2w_linkedin&urlHash=Y8ly","Technology Consulting - Digital Engineering - Platform/Backend Engineer - Manager","EY","New Orleans, LA","2025-11-18","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","ssc.customersupport@ey.com","Location: Anywhere in Country
+   
+
+  
+
+ At EY, we’re all in to shape your future with confidence.
+   
+
+  
+
+ We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world.
+   
+
+  
+
+**The opportunity**
+ Join our dynamic Technology – Engineering \\& Systems Integration team as a Platform Engineer. This role is pivotal in designing, building, and maintaining the foundational infrastructure and services that power our applications. You will work closely with software engineers, DevOps, and data teams to ensure our platform is scalable, secure, and developer\\-friendly.
+   
+
+  
+
+ The Platform Engineering carries the responsibility of contributing to our technical innovation and efficiency. In this role, individuals will leverage their career by staying hands\\-on while contributing to a multifaceted team of engineers towards the goal of streamlining and automating our operations and processes. In this role, you will identify and define user/customer requirements, focusing on developing user interfaces (UI) across various platforms such as mobile, web, and tablets. You will be responsible for creating software components and services that interact seamlessly with upstream and downstream components, ensuring that business requirements are met through effective coding and programming.
+   
+
+  
+
+**Your Key Responsibilities**
+ As a Platform Engineer, you will play a pivotal role in delivering innovative solutions. In the role, you will be at the forefront of contributing to the delivery of processes, solutions, and projects. You will apply your judgment and select appropriate methodologies to inform recommendations, navigate success criteria, barriers, risks, and issues. This role presents an opportunity to challenge yourself, grow your skills, and contribute to our team's success. Expect regular travel as needed by our external clients. Your time will be spent on various responsibilities, including:
+   
+
+  
+
+* Collaborating with clients to gather and analyze requirements, ensuring that the final product meets their needs.
+* Designing and developing user interfaces that are not only functional but also enhance user experience.
+* Writing clean, maintainable code and creating specifications that support business objectives.
+* Regular travel may be required to meet with clients, providing you with the opportunity to engage directly with stakeholders.
+
+
+**Key responsibilities include:**
+* Design and implement robust APIs and microservices using Python, FastAPI and OpenAPI.
+* Architect and maintain containerized applications using Docker, Kubernetes, and Helm.
+* Develop and optimize data models and queries using PostgreSQL and ORMs (e.g., SQLAlchemy).
+* Champion test\\-driven development (TDD) practices, including unit and integration testing.
+* Collaborate with cross\\-functional teams to build distributed systems leveraging message queues (RabbitMQ) and caching layers (Redis).
+* Integrate authentication and authorization mechanisms using Keycloak, OAuth2, OIDC, and Azure Active Directory (AAD).
+* Work with Azure cloud services, including API gateways (APIM, FrontDoor) and object storage (Azure Blob and File Storage).\\[ST1] \\[CB2]
+* Creating and debugging kubernetes\\-hosted services.
+* Explore and implement interactions with AI/LLM systems, including agentic workflows, vector stores and embedding\\-based search.
+* Monitor, troubleshoot, and optimize platform performance and reliability.
+* Occasional contributions to CI/CD pipelines and infrastructure\\-as\\-code.
+
+
+**Skills And Attributes For Success**
+ To excel in this role, you should possess a blend of technical and interpersonal skills. The following attributes will make a significant impact:
+   
+
+  
+
+* Strong understanding of agile delivery and development methodologies.
+* Proficiency in application development tools and quality assurance practices.
+* Ability to build and manage relationships with clients, fostering trust and value.
+* Excellent communication skills, capable of conveying complex ideas with clarity.
+
+
+**To qualify for the role, you must have**
+* Bachelor’s degree in computer science, Software Engineering, or a related field
+* Typically, no less than 4 \\- 6 years relevant experience in professional platform engineering experience or similar role in software development and system administration.
+* Strong proficiency in Python and FastAPI for backend development.
+* Solid experience with microservices architecture, API design, and implementation.
+* Hands\\-on experience with containers, Kubernetes, and Helm.
+* Deep understanding of relational databases, especially PostgreSQL, and ORM tools.
+* Proven experience with unit testing, integration testing, and TDD methodologies.
+* Experience with mTLS for secure service\\-to\\-service communication.
+* Proficiency in Agile Delivery methodologies.
+* Experience with Application Delivery Processes.
+* Familiarity with Application Development Tools.
+* Knowledge of Quality Assurance practices.
+* Understanding of Testing practices.
+* Familiarity with the System Development Lifecycle.
+* Experience in System Integration.
+
+
+**Ideally, you’ll also have**
+* Experience with building and evolving distributed systems
+* Experience with integration technologies : APIs, message queues, and caches\\[ST3] \\[LK4]
+* Familiarity with identity and access management tools like Keycloak, OAuth2, OIDC, and AAD.
+* Exposure to cloud services (Azure preferred), including API gateways and object storage.
+* Experience with LLMs, vector databases, and semantic search.
+* Knowledge of CI/CD tools and infrastructure automation (e.g., Terraform, GitHub Actions) are assets.
+* Experience in complex problem\\-solving and critical thinking.
+* Strong emotional agility and the ability to collaborate in hybrid environments.
+* A proactive approach to learning and adapting to new technologies.
+
+
+**What We Look For**
+ We seek individuals who are not only technically proficient but also possess a strong sense of curiosity and a desire to learn. Top performers are those who can navigate complex challenges with ease, communicate effectively, and build meaningful relationships with clients and colleagues alike.
+   
+
+  
+
+**What We Offer You**
+ At EY, we’ll develop you with future\\-focused skills and equip you with world\\-class experiences. We’ll empower you in a flexible environment, and fuel you and your extraordinary talents in a diverse and inclusive culture of globally connected teams. Learn more.
+   
+
+  
+
+* We offer a comprehensive compensation and benefits package where you’ll be rewarded based on your performance and recognized for the value you bring to the business. The base salary range for this job in all geographic locations in the US is $142,600 to $261,500\\. The base salary range for New York City Metro Area, Washington State and California (excluding Sacramento) is $171,200 to $297,200\\. Individual salaries within those ranges are determined through a wide variety of factors including but not limited to education, experience, knowledge, skills and geography. In addition, our Total Rewards package includes medical and dental coverage, pension and 401(k) plans, and a wide range of paid time off options.
+* Join us in our team\\-led and leader\\-enabled hybrid model. Our expectation is for most people in external, client serving roles to work together in person 40\\-60% of the time over the course of an engagement, project or year.
+* Under our flexible vacation policy, you’ll decide how much vacation time you need based on your own personal circumstances. You’ll also be granted time off for designated EY Paid Holidays, Winter/Summer breaks, Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well\\-being.
+
+
+**Are you ready to shape your future with confidence? Apply today.**
+ EY accepts applications for this position on an on\\-going basis.
+   
+
+  
+
+ For those living in California, please click here for additional information.
+   
+
+  
+
+ EY focuses on high\\-ethical standards and integrity among its employees and expects all candidates to demonstrate these qualities.
+   
+
+  
+
+**EY \\| Building a better working world**
+ EY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets.
+   
+
+  
+
+ Enabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow.
+   
+
+  
+
+ EY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi\\-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.
+   
+
+  
+
+ EY provides equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, pregnancy, genetic information, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law.
+   
+
+  
+
+ EY is committed to providing reasonable accommodation to qualified individuals with disabilities including veterans with disabilities. If you have a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please call 1\\-800\\-EY\\-HELP3, select Option 2 for candidate related inquiries, then select Option 1 for candidate queries and finally select Option 2 for candidates with an inquiry which will route you to EY’s Talent Shared Services Team (TSS) or email the TSS at ssc.customersupport@ey.com.","Professional Services","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","","","","","","","",""
+"li-4340232325","linkedin","https://www.linkedin.com/jobs/view/4340232325","https://www.kongsberg.com/careers/vacancies/field-service-engineer\\u002d\\u002d-dpsw/?source=linkedin&urlHash=tXog","Field Service Engineer - DPSW","Kongsberg Maritime","New Orleans, LA","2025-11-17","fulltime","","","","","",True,"entry level","Information Technology","","","An exciting opportunity has arisen as Field Service Engineer – Dynamic Positioning Software, reporting to Operations Manager US \\- Bridge \\& Control. In this role, you will work on DP releases in both the delivery and after sales phases. They will provide technical support both in the office and onboard to customers and colleagues.
+   
+
+  
+
+**Responsibilities**
+* Technical support on Dynamic Positioning Systems, Kongsberg Reference Systems, other Vendor Reference Systems, and various Navigation Systems.
+* General support activities and technical assistance including on sight and remote support.
+* Up to 50% travel for service trips to vessels, shipyard, and other customer sites.
+* Commissioning work on new builds and upgrades to existing installations.
+* Technical assistance to Sales \\& Marketing and Aftersales.
+* Follow up with appropriate technical department after service jobs.
+* Develop qualifications by participating at internal / external courses and education.
+* Maintain certifications through yearly online certification tests.
+* Report problems and suggest improvements using KM Quality Tools as QC Responsible
+* Able to operate in a remote environment.
+
+
+**Organizational** 
+ – as related to values, mission, and core competencies to KM
+   
+
+  
+
+* Be customer orientated and “service minded”
+* Service minded and customer focused
+* Cooperative with ability to work in teams
+* Flexible, responsible, and dependable
+* Positively contribute to environment
+* Willingness to travel.
+* Quality mind set
+* Knowledgeable about and demonstrates KMI values
+
+
+**Functional / Technical** 
+ – Knowledge and abilities to perform work with quality results
+   
+
+  
+
+* Associates’ Degree in technical discipline or work equivalent.
+* Ability to handle simultaneous activities and work in a hectic environment.
+
+
+**Management** 
+ – Attributes \\& Capabilities illustrating management potential
+   
+
+  
+
+* Be a team player.
+* Good communication skills and fluent in English.
+* Dedication and desire to build a long career within the technical field.
+
+
+**Work location** 
+ St. Rose, LA
+   
+
+  
+
+**What We Can Offer You**
+* Competitive compensation packages
+* Fully subsidized health \\& welfare benefits with an option of a high deductible plan which includes an employer contribution towards your health savings account
+* Fully subsidized dental and vision coverage
+* Up to 5% employer match program
+* Flexibility with Paid Time Off
+* Career growth opportunities
+* Safe and collaborative culture
+
+
+**Kongsberg Maritime** 
+ is a technology pioneer, enabling a more sustainable future for our oceans. Our zero\\-emission integrated technologies advance the maritime industry and solve our customers' toughest problems. With unmatched competence, domain knowledge, innovation, and market reach, we are the trusted maritime partner. Headquartered in Kongsberg, Norway, the company has manufacturing, sales and service facilities in 35 countries
+   
+
+  
+
+ Our
+ **Global Customer Support** 
+ division is responsible for Kongsberg Maritimes services, upgrades and support in the aftermarket. Our 2300 employees are present in 35 different countries around the world. During the operational lifetime of more than 30\\.000 installations, we ensure cost\\-efficient delivery of services, upgrades and spare parts in order to secure availability and predictability to our customers.
+   
+
+  
+
+**KONGSBERG** 
+ is a leading global technology group. Throughout our proud two hundred year history, we have continuously advanced, applying innovative solutions to the needs of our customers, partners and society at large. We believe diversity is our strength. By fostering an inclusive and diverse culture we nurture and ensure space for different perspectives and ideas. We work determined to mature and improve our ability to utilize our diversity and culture of differences to create positive business results.
+   
+
+  
+
+ Pro
+ **tech** 
+ ting people and planet
+   
+
+  
+
+*KONGSBERG provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.*","Maritime Transportation","https://no.linkedin.com/company/kongsberg-maritime","https://media.licdn.com/dms/image/v2/D560BAQETsdLxoTGAuw/company-logo_100_100/company-logo_100_100/0/1718190377177/kongsberg_maritime_logo?e=2147483647&v=beta&t=Wa4D-p2byDSZvkSC5MHQz629aXlpjBquEOfhk2eRCnU","","","","","","","","","","",""
+"li-3955122736","linkedin","https://www.linkedin.com/jobs/view/3955122736","https://epic.avature.net/Careers/RegisterMethod?folderId=742&source=LinkedIn&urlHash=b3iG","Technical Solutions Engineer","Epic","New Orleans, LA","2025-11-16","fulltime","","","","","",False,"entry level","Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Problem\\-solving with a purpose.**
+ As a Technical Solutions Engineer at Epic, you’ll work on software that impacts 305 million patients around the world. Alongside customer counterparts, you’ll tackle mission\\-critical and complex problems – we’re
+ *way* 
+ beyond “turn it off and on again” issues. You’ll need to diagnose the problem, identify a solution, and manage the implementation of the solution, sometimes across multiple physical locations and stakeholders. Learn more about our team at https://careers.epic.com/Jobs/Technical\\-Solutions\\-Engineer.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet.**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's degree or greater
+* A history of academic excellence or professional success
+* Willingness to travel occasionally to customer locations
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4236016509","linkedin","https://www.linkedin.com/jobs/view/4236016509","","Senior Software Developer","MANTECH","Gainesville, MS","2025-11-16","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**ManTech** 
+ seeks a motivated, career and customer\\-oriented
+ **Senior Software Developer** 
+ to join our team in
+ **Stennis, MS** 
+ .
+   
+
+  
+
+ In this role you will research, design, develop, and test operating systems\\-level software, compilers, and network distribution software. You will set operational specifications and formulates and analyzes software requirements and may design embedded systems software.
+   
+
+  
+
+**Responsibilities Include, But Are Not Limited To**
+* Leads and performs systems software development that will operate in the Department of Homeland Security (DHS) enterprise network and on DHS devices.
+* Collaborates with customers and stakeholders to identify requirements, design systems software, develop updates to existing applications, and build in cyber security to reduce the attack surface
+* Coordinates and collaborates with technical teams providing advice, staying abreast of technical solutions, and provide necessary systems software to support the DHS customer mission
+* Develop and utilize continuous integration/continuous deployment (CI/CD) processes for repeatable and automated testing, analysis, and deployment into the DHS enterprise
+* Develops and maintains diagrams, documentation, and other artifacts that support software use, maintenance, troubleshooting, and operations
+* Uses software development best practices for code documentation, development, refactoring, and other core functions to facilitate ease of use and reuse by other software developers, quality assurance evaluators, and software audits
+* Analyze, review, recommend changes as appropriate for processes to keep application, technology platforms, and processes efficient and aligned with mission, laws, regulations, and policies
+
+
+**Minimum Qualifications**
+* Bachelor’s Degree in Computer Science, Software Engineering, Information Systems or related field
+* 10\\+ years of experience leading and performing systems software development
+* Knowledge of various software programming languages, i.e. Python, Java, C\\+\\+, Cobol, etc
+* Hands\\-on experience developing, updating, and integrating software applications into a federal government enterprise network
+* Understanding and experience with primary network topologies, LANs, WANs and other common network standards; strong understanding of network protocols and technologies, including TCP/IP, DNS, DHCP, and QoS, MPLS; Very strong knowledge of routing protocols (e.g., BGP, EIGRP, OSPF) and network protocols (e.g., TCP/IP, GRE, IPSEC, and VRF)
+* IAM III/IAT III
+
+
+**Preferred Qualifications**
+* One of the following certifications: Certified Business Analysis Professional (CBAP), Agile Certified Practitioner (PMI\\-ACP), Certified Data Management Pr5ofessional (CDMP), Six Sigma Certification, ITIL4
+* ServiceNow Certification
+* Understanding of ITIL4 principles
+
+
+**Clearance Requirements**
+* Must have a current/active Secret clearance with the ability to obtain and maintain a TS/SCI.
+* The ability to obtain and maintain a DHS EOD suitability is required prior to starting this position.
+
+
+**Physical Requirements**
+* Must be able to remain in a stationary position 50%
+* Constantly operates a computer and other office productivity machinery, such as a calculator, copy machine and computer printer
+* The person in this position needs to occasionally move about inside the office to access file cabinets, office machinery, etc.","IT System Data Services","https://www.linkedin.com/company/mantech","https://media.licdn.com/dms/image/v2/D4E0BAQHVJOdYM3b78A/company-logo_100_100/B4EZfCppN9GcAU-/0/1751317386572/mantech_logo?e=2147483647&v=beta&t=6USWkPT_gi3XNUEAG7F_AJ8Moha1p1NfFq9M7gqHLbg","","","","","","","","","","",""
+"li-4320162871","linkedin","https://www.linkedin.com/jobs/view/4320162871","https://epic.avature.net/Careers/RegisterMethod?folderId=30063&source=LinkedIn&urlHash=ioyu","Integration Solutions Engineer","Epic","New Orleans, LA","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Make a meaningful impact by creating bridges that improve healthcare.**
+ For healthcare providers to make informed decisions and deliver the highest\\-quality patient care, they depend on data from niche systems across hundreds of specializations. Epic's Integration Solutions Engineers maintain that information flow across disparate systems. This group of experts tackles new challenges every day. If you seek variety in your work, you'll find it as an Integrations Solutions Engineer.
+   
+
+  
+
+ As an Integration Solutions Engineer, you'll optimize the data connections critical to high\\-quality patient care. Alongside customer teams, you'll enhance and support integrations between Epic and external systems to ensure efficient and secure data exchanges. You'll anticipate challenges and diagnose interface issues. You'll fine\\-tune integrations to meet evolving operational needs in diverse healthcare settings. In doing so, you'll enable our customer's operational success, and empower them to deliver better patient care.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's or greater in engineering, math, information systems, or a related field
+* A history of academic and professional success
+* Strong analytical and reasoning skills
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4320152717","linkedin","https://www.linkedin.com/jobs/view/4320152717","https://epic.avature.net/Careers/RegisterMethod?folderId=30064&source=LinkedIn&urlHash=KvAy","Integration Project Engineer","Epic","New Orleans, LA","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Make a meaningful impact by creating bridges that improve healthcare.**
+ For healthcare providers to make informed decisions and deliver the highest\\-quality patient care, they depend on data from niche systems across hundreds of specializations. Epic's Integration Project Engineers architect information flow across disparate systems. Each project presents a new set of challenges and opportunities. If you seek variety in your work, you'll find it as an Integration Project Engineer
+   
+
+  
+
+ Travel across the US (and potentially abroad) as a critical member of our implementation team and ensure the early success of new Epic community members. Once you're trained up, both Epic and customer teams will look to you to advise their implementation strategy, architecture, and project management.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's or greater in engineering, math, information systems, or a related field
+* A history of academic and professional success
+* Strong analytical and reasoning skills
+* Willingness to travel 25\\-60% of working days, with a typical month including 1\\-2 trips lasting 2\\-4 days
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4320222687","linkedin","https://www.linkedin.com/jobs/view/4320222687","","Integration Solutions Engineer","Epic","Metairie, LA","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Make a meaningful impact by creating bridges that improve healthcare.**
+ For healthcare providers to make informed decisions and deliver the highest\\-quality patient care, they depend on data from niche systems across hundreds of specializations. Epic's Integration Solutions Engineers maintain that information flow across disparate systems. This group of experts tackles new challenges every day. If you seek variety in your work, you'll find it as an Integrations Solutions Engineer.
+   
+
+  
+
+ As an Integration Solutions Engineer, you'll optimize the data connections critical to high\\-quality patient care. Alongside customer teams, you'll enhance and support integrations between Epic and external systems to ensure efficient and secure data exchanges. You'll anticipate challenges and diagnose interface issues. You'll fine\\-tune integrations to meet evolving operational needs in diverse healthcare settings. In doing so, you'll enable our customer's operational success, and empower them to deliver better patient care.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's or greater in engineering, math, information systems, or a related field
+* A history of academic and professional success
+* Strong analytical and reasoning skills
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4320302504","linkedin","https://www.linkedin.com/jobs/view/4320302504","","Integration Project Engineer","Epic","Metairie, LA","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Make a meaningful impact by creating bridges that improve healthcare.**
+ For healthcare providers to make informed decisions and deliver the highest\\-quality patient care, they depend on data from niche systems across hundreds of specializations. Epic's Integration Project Engineers architect information flow across disparate systems. Each project presents a new set of challenges and opportunities. If you seek variety in your work, you'll find it as an Integration Project Engineer
+   
+
+  
+
+ Travel across the US (and potentially abroad) as a critical member of our implementation team and ensure the early success of new Epic community members. Once you're trained up, both Epic and customer teams will look to you to advise their implementation strategy, architecture, and project management.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's or greater in engineering, math, information systems, or a related field
+* A history of academic and professional success
+* Strong analytical and reasoning skills
+* Willingness to travel 25\\-60% of working days, with a typical month including 1\\-2 trips lasting 2\\-4 days
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""

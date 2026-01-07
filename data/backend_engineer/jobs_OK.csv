@@ -1,0 +1,2763 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"li-4338403321","linkedin","https://www.linkedin.com/jobs/view/4338403321","https://jsv3.recruitics.com/redirect?rx_cid=3658&rx_jobId=R10215234&rx_url=https%3A%2F%2Fjobs.northropgrumman.com%2Fcareers%2Fjob%2F1340068757617%3Fcode%3DJB-18202%26rx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D375073%26rx_id%3D62a84cd2-c62d-11f0-b7ba-c300d74a1be8%26rx_job%3DR10215234%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_ts%3D20251122T121203Z%26rx_vp%3Dslots%26source%3DJB-18202%26utm_audience%3Dprospectivetalentemployees%26utm_campaign%3Dta-general%26utm_content%3Djobfeed%26utm_format%3Dcpl%26utm_medium%3Djobboard%26utm_network%3Dpartnerdirect%26utm_source%3Dlinkedin-jobslots&urlHash=wXbx","Full Stack Software Developer (AHT) - R10215234","Northrop Grumman","Oklahoma City, OK","2025-11-21","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","RELOCATION ASSISTANCE: Relocation assistance may be available
+   
+
+  
+
+ CLEARANCE TYPE: Secret
+   
+
+  
+
+ TRAVEL: No
+   
+
+  
+
+**Description**
+ At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history \\- from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.
+   
+
+  
+
+ Northrop Grumman Defense Systems (NGDS) is looking for a
+ **Full\\-stack Software Engineer** 
+ based out of
+ **Oklahoma City, OK** 
+ . Our Team works on state\\-of\\-the\\-art Mission Planning systems. This is a role in a large program that will support the full software product lifecycle in an Agile Scrum framework: requirement definition, estimation, implementation, unit testing, integration testing, SW/HW integration, test documentation, supporting test events, and customer support. The ideal candidate will be a cross\\-functional team player, willing to take on challenges, that collaborate with internal and external teams and that is driven to provide solutions to internal and external customers.
+   
+
+  
+
+**Responsibilities Include**
+* Designs, develops, documents, tests and debugs applications software and systems that contain logical and mathematical solutions while ensuring software standards are met
+* Maintain and improve the software CI/CD pipelines to enable fast, bug free delivery of critical business software to production
+* Set up and deploy Development, Test, and Build environments
+* Create and update Windows installers
+* Install, test, and verify software products
+* Provide support for the software build and installation
+* Work within a Cross\\-Functional scrum to develop high\\-priority mission planning features.
+* Understand third\\-party software and hardware peripherals to support implementation of software interfaces and support integration
+* Develop software test products such as Verification Cross Reference Matrices to tie software requirements to software tests, Software Test Plans, Software Test Procedures, and Software Test Reports.
+* Define and develop test approaches for new software and system capabilities.
+* Compile data and define changes required in testing procedures or new testing requirements.
+* Perform frequent Smoke Testing and frequent Acceptance Testing on SW builds.
+* Resolve technical issues within a scrum, across scrums, and with the support of other functional roles.
+* Interface on a technical level with the customer
+* Support authoring and development of contract deliverable documentation that support deliverable software products and test events
+* Help define automated test strategies.
+* Support the Agile Framework as a Scrum Master, when required
+
+
+ All work must be performed on\\-site in Oklahoma City
+   
+
+  
+
+**Basic Qualifications**
+* Bachelor's degree in STEM and a minimum of 2 years of relevant (Computer Science, etc.) experience, or 0 years of experience with a Master’s degree (Computer Science, etc.) experience. Relevant (Computer Science, etc.) years of experience in lieu of degree may be considered.
+* Current DoD Secret Clearance (adjudicated within the last 5 years), with ability to obtain a Top\\-Secret clearance and Special Access Program (SAP) clearances
+* Experience with/using Agile Methodology and Continuous Integration (CI) / Continuous Deployment (CD) Tools (Bamboo, Jenkins) and Practices
+* Proficiency in C\\# and/or Java and Object\\-Oriented Software Design paradigms
+* Experience with Microsoft Windows technologies
+* Test procedure development and maintenance
+* Experience supporting/coordinating formal test events.
+* Experience with one or more of the following scripts: yaml, Python, PowerShell, Batch, Typescript
+* Experience with automated testing and test software such as TestComplete 4\\.
+* A functional understanding of how revision control systems (e.g., BitBucket, git, CVS, etc.) are used.
+* Hands\\-on system troubleshooting skills.
+* Ability to obtain SAP access.
+
+
+**Preferred (Nice To Have) Qualifications**
+* Proficiency in C\\#, .NET Framework
+* Experience with Windows Presentation Foundation (WPF) and Microsoft Windows\\-based Applications
+* Experience with Microservice development and service communication protocols such as gRPC and/or REST
+* Scrum Master experience
+* Experience with Software Design Patterns
+* Experience with/using Relational Databases, SQL
+* Experience with the Atlassian Tool Suite: Bitbucket, Jira, Confluence, Crucible/Fish\\-eye
+* Familiarity with/using/deploying to Cloud technology: Azure and/or AWS
+* Familiarity with/using Containers in Docker and/or Kubernetes
+* Experience with/using and/or managing these DevOps tools: Ansible, Terraform, Chef, or Puppet
+* Excellent communication and organizational skills; strong interpersonal and analytic skills
+* Previous in\\-depth mission planning domain knowledge of program software design and code
+* Certified ScrumMaster® (CSM®) or Professional Scrum Master™ (PSM™) certification
+* Experience working with requirements in DOORS.
+* Demonstrated ability to implement process improvements, streamline activities, and develop efficiencies.
+* Strong interpersonal and analytic skills; Works well in a team\\-environment
+* Experience with Joint Mission Planning System (JMPS) Framework (FW)
+* Exposure to Infrastructure as Code (IaC) development
+* Experience with Air Force mission planning
+* CompTIA Security\\+ Certification
+* Active Top\\-Secret Clearance (adjudicated within the last 5 years or currently enrolled in Continuous Evaluation)
+* Current SCI/SAP access
+
+
+ Primary Level Salary Range: $73,100\\.00 \\- $109,700\\.00
+   
+
+  
+
+ The above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions.
+   
+
+  
+
+ Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.
+   
+
+  
+
+ The application period for the job is estimated to be 20 days from the job posting date. However, this timeline may be shortened or extended depending on business needs and the availability of qualified candidates.
+   
+
+  
+
+ Northrop Grumman is an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO and pay transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions.","Defense and Space Manufacturing","https://www.linkedin.com/company/northrop-grumman-corporation","https://media.licdn.com/dms/image/v2/C4E0BAQFnJf3Nn259IA/company-logo_100_100/company-logo_100_100/0/1630610111160/northrop_grumman_corporation_logo?e=2147483647&v=beta&t=K8pfKECf7OSDUwyHLawBryuZsVQ0rLy8IDfwML15vKg","","","","","","","","","","",""
+"li-4338367032","linkedin","https://www.linkedin.com/jobs/view/4338367032","","Sr ServiceNow Developer","532 Group LLC","Oklahoma City, OK","2025-11-21","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","""
+ **Government Services, As They Should Be** 
+ ""
+   
+
+  
+
+**532 Group** 
+ exists to make change happen. We are a federal consulting firm dedicated to making government services effective, extensible, scalable, and secure. Our knowledge and experience allow us to see beyond the superficial and dig deep into the underlying cause of a problem \\- developing innovative solutions that will work today and tomorrow.
+   
+
+  
+
+ We are hiring for a
+ **Sr ServiceNow Developer** 
+ to work on a U.S. Federal Civilian project.
+   
+
+  
+
+**Candidates must have (or be able to obtain) a public trust clearance.** 
+ This position requires candidates to obtain/maintain a public trust background investigation.
+   
+
+  
+
+**Candidates must be a U.S. Citizen, or Permanent Resident with a Green Card (no Visas, no Exceptions). Residency will be validated.**
+ Start date: Immediate (anticipated)
+   
+
+  
+
+**Job Summary**
+ We are looking for a Sr ServiceNow developer to deliver join our team supporting federal clients. You will be responsible for configuring ServiceNow components and developing customized solutions within the ServiceNow platform. You will also analyze requirements, user stories, acceptance criteria, wireframes, work in a cross\\-functional agile delivery team, support testing, deployment, and documentation activities, as well as troubleshoot/resolve errors. To ensure success as a developer, you should have extensive experience working with ServiceNow platforms, application development skills, and the ability to solve complex software problems. Ultimately, a strong developer can create dynamic and scalable ServiceNow applications that meet the changing needs of client.
+   
+
+  
+
+**Responsibilities And Duties**
+* Work as a senior resource and lead for teams and projects (e.g., performing code reviews and giving direct feedback, owning branch strategy and pull requests, defining standards/processes, instilling coding best practices and security, driving DecSecOps practices, authoring custom frameworks, coaching other developers and team members, and working closely with project leadership
+* Work on a cross\\-functional agile delivery team to analyze and deliver user stories, features, and enhancements
+* Develop customized solutions within the ServiceNow platform
+* Design, code, and implement ServiceNow applications
+* Write unit tests and perform due diligence to meet acceptance criteria
+* Create timelines and development goals
+* Test the stability and functionality of the application
+* Troubleshoot and fix bugs
+* Write documents and provide technical training
+
+
+**Qualifications And Minimum Skills**
+* Bachelor's degree in a related field of study
+* ServiceNow Certified System Administrator (CSA)
+* ServiceNow Certified Application Developer (CAD)
+* Direct ServiceNow configuration experience
+* 3\\+ years' experience in low\\-code/no\\-code platforms (e.g., ServiceNow, Salesforce, Appian)
+* 5\\+ years' experience in development on RBMS platforms (e.g., Oracle, SQL, MySQL, MariaDB)
+* 5\\+ years' experience data modeling to include creating and modifying standard and custom objects, writing stored procedures, optimizing queries and views, and performing ETL
+* 5\\+ years' experience in development using web technologies (e.g., JavaScript, HTML, CSS, Bootstrap)
+* 5\\+ years' experience in JSON, XML, SOAP, REST and working knowledge of application programming interfaces (APIs) to support low\\-code/no\\-code platforms
+* 5\\+ years' experience in working on agile delivery teams (e.g., with POs, testers, architects) as well as performing testing, debugging, root cause analysis, and authoring technical artifacts, documents, and deliverables
+* 3\\+ years' experience deploying ServiceNow applications
+* 3\\+ years' experience developing in Java
+* Excellent communication and written skills
+* Must be a U.S. Citizen or Permanent Resident w/Green Card (no Visas, no Exceptions)
+* Must be able to obtain/maintain a Federal Background Investigation
+
+
+**Nice To Have Skills And Experience**
+* Active Public Trust Clearance
+* Experience working with the Federal Government
+* 5\\+ years' experience as a developer using object\\-oriented programming languages (e.g., Java, C\\#, C\\+\\+)
+* 5\\+ years' experience using Git with branching / merging, code reviews, and pull requests
+* 2\\+ years' experience using AWS
+
+
+**Benefits**
+ At 532 Group we recognize our people as our greatest strength. Benefits of working with us include:
+   
+
+  
+
+* Remote Work
+* Health Care (Health, Dental, Vision)
+* Retirement Plan (401k)
+* Paid Time Off (PTO)
+* 11 Federal Holidays
+* Discretionary Bonuses
+* A growing list of other benefits
+
+
+ A pay range for the posted position is listed below. Note that base pay offered may vary depending on multiple factors that are considered in determining final pay for this position, including but not limited to, relevant work experience, certifications, market location, and job\\-related competencies. Employees hired will be in an ""at will position.""
+   
+
+  
+
+ Pay Range: $100,000 \\- $120,000 Annually
+   
+
+  
+
+ Powered by JazzHR
+   
+
+  
+
+ 4VMAUNqjxG","Internet Publishing","https://www.linkedin.com/company/532-group-llc","https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u","","","","","","","","","","",""
+"li-4323677262","linkedin","https://www.linkedin.com/jobs/view/4323677262","","IT Engineer IV- Remote","TalentAlly","Oklahoma, United States","2025-11-21","fulltime","","","","","",True,"mid-senior level","General Business","","TalentAcquisition@csaa.com, TalentAcquisition@csaa.com","We, here at CSAA IG are one of the top personal lines property and casualty insurance groups in the U.S. Our employees proudly live our core beliefs and fulfill our enduring purpose to help members prevent, prepare for and recover from life's uncertainties, and we're proud of the culture we create together. As we commit to progress over perfection, we recognize that every day is an opportunity to be innovative and adaptable. We hire good people for a brighter tomorrow. We are actively hiring for an IT Engineer IV.
+   
+
+  
+
+**Your Role:** 
+ This role is responsible for collaborating with business stakeholders and external vendors to document both functional and non\\-functional requirements, develop user stories, and maintain up\\-to\\-date design and mapping documents. Primarily focused on the telematics area, the position will support Next Generation (NG) initiatives from a telematics perspective while maintaining and supporting the telematics platform roadmap. Additionally, the role will serve as the primary point of contact for external telematics vendors, ensuring effective communication and collaboration.
+   
+
+  
+
+**Your Work**
+* Aligns highly complex solutions with business and IT strategies.
+* Ensures clarity and compliance with the organization's architectural standards and documents functional and non\\-functional requirements.
+* Ensures clarity and inclusion of appropriate details, and strategy, in the same.
+* Maintains documentation for new and existing applications.
+* Works closely with customers, business analysts, developers and other team members to understand business requirements that drive the analysis and design of quality technical solutions.
+* Provides subject matter expertise to project stakeholders (customers and IT) and reviews documentation of other analysts for completeness.
+* Involved in the full systems life cycle.
+* Responsible for designing, documenting, implementing, maintaining and supporting highly complex or mission critical application software that is delivered on time and within budget.
+* May lead small teams to accomplish assigned projects.
+* Root Cause/solution recommendation \\- Analyzes defects with an eye towards finding root cause, recommending both technical and non\\-technical solutions.
+
+
+**Required Experience, Education And Skills**
+* Bachelor's degree in related area (Computer Science, Information Systems or other related field) or an equivalent combination of education and experience.
+* 6\\+ years System documentation experience and/or
+* Experience with Installation, configuration, upgrade, and triage of IBM Datapower appliances.
+* Experience in managing Container Platforms like Kubernetes.
+* Experience in administration of Apache Kafka.
+* Working knowledge of Java Application servers like IBM WebSphere and Apache Tomcat.
+* Working knowledge of Apache HTTP Server.
+* Experience working and using AWS Cloud Services with up\\-to date AWS certifications.
+* Experience with shell scripting and Ansible for automating administrative tasks.
+* Experience in Application monitoring, alerting and reporting tools such as New Relic, ELK and Splunk.
+* Working knowledge of the Unix/Linux Operating systems.
+* Responsibility for sharing 24 x 7 on call rotation duties with other team members.
+* Ability to work flexible hours including weekends and nights.
+* Ability to have good communications with customer.
+
+
+**What would make us excited about you?**
+* Working knowledge of industry practices and CSAA IG's policies and the ability to develop a clear understanding of the company's key functional processes and resources.
+* Actively shapes our company culture (e.g., participating in employee resource groups, volunteering, etc.)
+* Lives into cultural norms (e.g., willing to have cameras when it matters: helping onboard new team members, building relationships, etc.)
+* Travels as needed for role, including divisional / team meetings and other in\\-person meetings.
+* Fulfills business needs, which may include investing extra time, helping other teams, etc.
+
+
+**Let's keep working together**
+ Submit your application to be considered. If reasonable accommodation is needed to participate in the job application or interview process please contact \\[TalentAcquisition@csaa.com](mailto:TalentAcquisition@csaa.com).
+   
+
+  
+
+ PDN\\-a06630cf\\-3699\\-4521\\-af81\\-96b204c1df8d","Technology, Information and Media","https://www.linkedin.com/company/talentallyatwork","https://media.licdn.com/dms/image/v2/D4E0BAQHbDxd4fgyh_A/company-logo_100_100/company-logo_100_100/0/1724678394122/prodivnet_logo?e=2147483647&v=beta&t=vF_1KSH_LL_TedXPVjfoZ0u3TaYtvpfkhGvY3nw_Bv0","","","","","","","","","","",""
+"li-4333400346","linkedin","https://www.linkedin.com/jobs/view/4333400346","","Senior Systems Engineer","McBride","Oklahoma, United States","2025-11-21","fulltime","","","","","",True,"mid-senior level","Information Technology","","","McBride Consulting has an exciting opportunity for a
+ **Senior Systems Engineer providing support to the Air Force Life Cycle Management Center/PEO Electronic Systems Directorate (AFLCMC/ES). The Air Force Program Execution Office for PEO Electronic Systems (AFPEO/ES) has the collective AFMC mission responsibility to manage and execute the modernization, development, testing, production, fielding, and sustainment of the PEO Electronic Systems portfolio, which includes over 130 programs for the U.S. Air Force (USAF) and foreign allies. AFLCMC/ES is headquartered at Hanscom AFB, MA, with geographically separated operating units CONUS and OCONUS.
+   
+
+  
+
+ This position is located at Tinker, AFB
+   
+
+  
+
+ This position is with AFLCMC/ESA and will provide systems engineering support across the acquisition lifecycle, including requirements analysis, design, development, test, operation, sustainment, and system disposal.
+   
+
+  
+
+**In this Advisory and Assistance Services (A\\&AS) role, you will provide expert\\-level support to Department of Defense (DoD) programs by assisting government leadership with decision\\-making, planning, and execution throughout the acquisition lifecycle. You will apply your technical and/or professional expertise to ensure compliance with applicable policies and regulations, contribute to mission success, and help deliver critical capabilities to the warfighter.
+   
+
+  
+
+**Responsibilities**
+* Provide systems, electrical, and/or mechanical engineering support for new and legacy DoD systems
+* Accomplish and coordinate engineering tasks for modifications and systems upgrades
+* Provide support to customers including data analysis, modification programs, repair requirements, reliability/maintainability actions, and worldwide user support
+* Assist in designing, planning, execution, analysis, reporting, and documentation during any phase of test and evaluation programs, including applicable FAA certifications and procedures
+* Provide engineering review of programs throughout the life\\-cycle
+* Review and ensure all engineering\\-related documents are accurate and complete
+* Participate in the development of system specifications and system architecture products
+* Participate in test and evaluation support, including planning, test conduct, and evaluation of results against operational requirements
+* Assist in scheduling and securing required test resources in support of project and program office objectives
+* Provide technical evaluation of contractor proposals
+* Monitor, assess, and report on test and evaluation efforts; provide recommendations for test facility improvements
+* Support development of system and program technical plans, including review of technical documents, participation in working groups, tracking risks/issues, and reviewing test plans, procedures, and data
+
+
+**Qualifications**
+**Citizenship: Must be a US citizen
+   
+
+  
+
+**Minimum Required Qualifications**
+**Clearance: Must have and be able to maintain a Secret clearance
+   
+
+  
+
+**Years of Experience: Bachelors Degree or 15 years of directly related experience with 8 years in a DoD setting
+   
+
+  
+
+**Additional Requirements**
+* Experience in requirements development, production and deployment, operation and support
+* Experience in architectures development and implementation
+* Experience with modeling \\& simulation (including Model\\-Based Systems Engineering)
+* Experience in verification \\& validation, technical data package development/sustainment, and configuration management principles
+* Experience with network architectures, embedded systems, and application deployment
+* Familiarity with DoD Acquisition processes (Technology Maturation, Risk Reduction, EMD, Production, Deployment)
+
+
+**Preferred Qualifications**
+**Clearance: Secret clearance (Top Secret desirable)
+   
+
+  
+
+**Education**
+ Bachelor’s in professional engineering from an ABET\\-accredited program with 12 years of experience (5 in DoD) or
+   
+
+  
+
+**Additional Requirments
+   
+
+  
+
+**Location: Tinker AFB, OK
+   
+
+  
+
+**Remote, Onsite, or Hybrid: Onsite
+   
+
+  
+
+**Requirements**
+* 
++ Masters Degree from ABET\\-accredited program with 10 years of experience (5 in DoD)
++ Electrical and Mechanical engineering experience (electrical preferred)
++ Electrical or Mechanical Engineering degree required
++ Experience leading technical teams highly desired
++ Experience with Air Traffic Control systems is a plus Technical Skills
+- Systems, electrical, and mechanical engineering
+- Test and evaluation planning, execution, and analysis
+- Requirements development and system specifications
+- Model\\-Based Systems Engineering (MBSE) principles
+- Verification, validation, and configuration management
+- Network architectures and embedded systems integration Interpersonal Skills
+* Strong documentation and reporting skills
+* Ability to collaborate with cross\\-functional teams and working groups
+* Ability to evaluate and communicate technical requirements
+* Problem\\-solving and critical thinking abilities Additional Information******************
+  
+
+  
+
+**Our people and culture**
+ McBride is an Equal Opportunity Employer. McBride Consulting does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non\\-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.","Business Consulting and Services","https://www.linkedin.com/company/mcbride-llc","https://media.licdn.com/dms/image/v2/D4E0BAQF4XWIqge0VxQ/company-logo_100_100/company-logo_100_100/0/1693922683021/mcbride_llc_logo?e=2147483647&v=beta&t=EZ4bOLvbwFuwIzA59dg5jIxI-89PjozIUQcKBHxpzLk","","","","","","","","","","",""
+"li-4310995001","linkedin","https://www.linkedin.com/jobs/view/4310995001","","Engineer, Data Visualization and Business Intelligence","KPMG US","Oklahoma City, OK","2025-11-20","fulltime","","","","","",True,"associate","General Business","","","Known for being a great place to work and build a career, KPMG provides audit, tax and advisory services for organizations in today's most important industries. Our growth is driven by delivering real results for our clients. It's also enabled by our culture, which encourages individual development, embraces an inclusive environment, rewards innovative excellence and supports our communities. With qualities like those, it's no wonder we're consistently ranked among the best companies to work for by Fortune Magazine, Consulting Magazine, Seramount, Fair360 and others. If you're as passionate about your future as we are, join our team.
+   
+
+  
+
+ KPMG is currently seeking an Engineer, Data Visualization and Business Intelligence to join our Digital Nexus technology organization. This is a hybrid work opportunity.
+   
+
+  
+
+ Responsibilities:
+   
+
+  
+
+* Design and deliver interactive Power BI dashboards that clearly communicate actionable insights to stakeholders; contribute strategic thought leadership to shape the firm's business intelligence vision and standards
+* Empower the BI community through governance guidance, training and cross\\-functional collaboration; guide the firms Power BI and Alteryx communities by developing and acquiring content for Community of Practice presentations
+* Apply critical thinking and creativity to design innovative, non\\-standard BI solutions that address complex and evolving business challenges; design, build and optimize data models to support analytics, ensuring accuracy, reliability and efficiency
+* Stay ahead of emerging technologies including Generative AI and AI agents to identify novel opportunities that improve analytics, automation and decision\\-making across the enterprise
+* Design and maintain scalable data pipelines using Azure Data Factory and Databricks to ingest, transform and deliver data across medallion architecture layers; develop production\\-grade ETL/ELT solutions using PySpark and SQL to produce analytics\\-ready Delta Lake datasets aligned with enterprise standards
+
+
+ Qualifications:
+   
+
+  
+
+* Minimum one year of recent experience working in analytics including data sourcing, data integration, data analysis, data visualization, business intelligence, statistical analysis, or data science
+* Bachelor's degree from an accredited college or university in Computer Science, Data Analytics, Data Processing, Information \\& Data Science, Information Management, Library Science, Management Information Systems or similar program is preferred
+* Experience working in an IT environment supporting projects and strong experience using Microsoft suite (Excel, PowerPoint, Word and Outlook) preferred
+* Strong verbal/written communication, problem solving, organizational and independent judgment skills to support an environment driven by customer service and teamwork
+* Ability to build productive relationships with peers, managers, and cross\\-functional stakeholders; ability to maintain confidentiality of sensitive and privileged information
+* Work location may be in the office, at client sites, or virtual/remote depending on business need; must be located within the U.S. when working remotely; client site locations may require travel and overnight/extended stay
+* Applicant must be authorized to work in the U.S. without the need for employment\\-based visa sponsorship now or in the future; KPMG LLP will not sponsor applicants for U.S. work visa status for this opportunity (no sponsorship is available for H\\-1B, L\\-1, TN, O\\-1, E\\-3, H\\-1B1, F\\-1, J\\-1, OPT, CPT or any other employment\\-based visa)
+
+
+ KPMG complies with all local/state regulations regarding displaying salary ranges. If required, the ranges displayed below or via the URL below are specifically for those potential hires who will work in the location(s) listed. Any offered salary is determined based on relevant factors such as applicant's skills, job responsibilities, prior relevant experience, certain degrees and certifications and market considerations. In addition, the firm is proud to offer a comprehensive, competitive benefits package, with options designed to help you make the best decisions for yourself, your family, and your lifestyle. Available benefits are based on eligibility. Our Total Rewards package includes a variety of medical and dental plans, vision coverage, disability and life insurance, 401(k) plans, and a robust suite of personal well\\-being benefits to support your mental health. Depending on job classification, standard work hours, and years of service, KPMG provides Personal Time Off per fiscal year. Additionally, each year the firm publishes a calendar of holidays to be observed during the year and provides two firmwide breaks each year where employees will not be required to use Personal Time Off; one is at year end and the other is around the July 4th holiday. Additional details about our benefits can be found towards the bottom of our KPMG US Careers site at Benefits \\& How We Work.
+   
+
+  
+
+ Follow this link to obtain salary ranges by city outside of CA:
+   
+
+  
+
+ https://kpmg.com/us/en/how\\-we\\-work/pay\\-transparency.html/?id\\=7501\\_9\\_25
+   
+
+  
+
+ KPMG LLP (the U.S. member firm of KPMG International) offers a comprehensive compensation and benefits package. KPMG is an equal opportunity employer. KPMG complies with all applicable federal, state and local laws regarding recruitment and hiring. All qualified applicants are considered for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, citizenship status, disability, protected veteran status, or any other category protected by applicable federal, state or local laws. The attached link contains further information regarding the firm's compliance with federal, state and local recruitment and hiring laws. No phone calls or agencies please.
+   
+
+  
+
+ KPMG does not currently require partners or employees to be fully vaccinated or test negative for COVID\\-19 in order to go to KPMG offices, client sites or KPMG events, except when mandated by federal, state or local law. In some circumstances, clients also may require proof of vaccination or testing (e.g., to go to the client site).
+   
+
+  
+
+ KPMG recruits on a rolling basis. Candidates are considered as they apply, until the opportunity is filled. Candidates are encouraged to apply expeditiously to any role(s) for which they are qualified that is also of interest to them.
+   
+
+  
+
+ Los Angeles County applicants: Material job duties for this position are listed above. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness, and safeguard business operations and company reputation. Pursuant to the California Fair Chance Act, Los Angeles County Fair Chance Ordinance for Employers, Fair Chance Initiative for Hiring Ordinance, and San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.","Financial Services","https://www.linkedin.com/company/kpmg-us","https://media.licdn.com/dms/image/v2/D4E0BAQHbnWdsb2zvMg/company-logo_100_100/company-logo_100_100/0/1689011295423?e=2147483647&v=beta&t=PtMaQizwxcNDODCenXz1eNxcpxDBguMeboqiMc5Py9U","","","","","","","","","","",""
+"li-4323594140","linkedin","https://www.linkedin.com/jobs/view/4323594140","https://ad.doubleclick.net/ddm/clk/438405794;254302458;m?https://jobs.us.pwc.com/job/-/-/932/88610112368?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&urlHash=_isk","US Tech - Tech Lead","PwC","Oklahoma City, OK","2025-11-20","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Specialty/Competency:** 
+ Software Engineering
+   
+
+  
+
+**Industry/Sector:** 
+ Not Applicable
+   
+
+  
+
+**Time Type:** 
+ Full time
+   
+
+  
+
+**Travel Requirements:** 
+ Up to 20%
+   
+
+  
+
+ At PwC, our people in software and product innovation focus on developing cutting\\-edge software solutions and driving product innovation to meet the evolving needs of clients. These individuals combine technical experience with creative thinking to deliver innovative software products and solutions. Those in software engineering at PwC will focus on developing innovative software solutions to drive digital transformation and enhance business performance. In this field, you will use your knowledge to design, code, and test cutting\\-edge applications that revolutionise industries and deliver exceptional user experiences.
+   
+
+  
+
+ Growing as a strategic advisor, you leverage your influence, expertise, and network to deliver quality results. You motivate and coach others, coming together to solve complex problems. As you increase in autonomy, you apply sound judgment, recognising when to take action and when to escalate. You are expected to solve through complexity, ask thoughtful questions, and clearly communicate how things fit together. Your ability to develop and sustain high performing, diverse, and inclusive teams, and your commitment to excellence, contributes to the success of our Firm.
+   
+
+  
+
+**Skills**
+ Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:
+   
+
+  
+
+* Craft and convey clear, impactful and engaging messages that tell a holistic story.
+* Apply systems thinking to identify underlying problems and/or opportunities.
+* Validate outcomes with clients, share alternative perspectives, and act on client feedback.
+* Direct the team through complexity, demonstrating composure through ambiguous, challenging and uncertain situations.
+* Deepen and evolve your expertise with a focus on staying relevant.
+* Initiate open and honest coaching conversations at all levels.
+* Make difficult decisions and take action to resolve issues hindering team effectiveness.
+* Model and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements.
+
+
+ The Opportunity
+   
+
+  
+
+ As part of the Information Technology Development team you are to lead the creation and implementation of impactful technology processes and business processes by creating automated workflows to replace manual workflows. As a Senior Manager you are to lead large projects, innovate processes, and maintain operational excellence while interacting with clients at a senior level to drive project success. You are also to serve as a strategic advisor, leveraging your specialized knowledge and technical acumen of industry\\-leading business trends, the firm’s client service offerings, and professional industry networks to deliver quality results to clients and provide strategic input into the firm’s business strategies.
+   
+
+  
+
+**Responsibilities**
+* Lead large projects and confirm their successful execution
+* Innovate and improve technology and business processes
+* Create automated workflows to replace manual processes
+* Serve as a strategic advisor leveraging specialized knowledge
+* Maintain operational excellence through process innovation
+* Engage with clients at a senior level to drive project success
+* Provide strategic input into the firm's business strategies
+* Utilize industry\\-leading business trends and networks to deliver quality results
+
+
+ What You Must Have
+   
+
+  
+
+* Bachelor's Degree
+* At least 6 years of experience in progressive roles focused on managing information technology applications
+* Bachelor's degree or in lieu of a degree, demonstrating, in addition to the minimum years of experience required for the role, three years of specialized training and/or progressively responsible work experience in technology for each missing year of college
+
+
+ What Sets You Apart
+   
+
+  
+
+* Master's Degree in Computer Applications, Computer Programming preferred
+* Lean IT principles and data\\-driven approaches
+* Script languages and automation
+* Modern web application development
+* Mobile application development
+* NoSQL databases proficiency
+* API management
+* Continuous integration/continuous deployment
+* Data Integration Tools
+
+
+ Learn more about how we work: https://pwc.to/how\\-we\\-work
+   
+
+  
+
+ PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H\\-1B lottery, except as set forth within the following policy: https://pwc.to/H\\-1B\\-Lottery\\-Policy.
+   
+
+  
+
+ As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.
+   
+
+  
+
+ For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.
+   
+
+  
+
+ Applications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us\\-application\\-deadlines
+   
+
+  
+
+ The salary range for this position is: $91,000 \\- $321,500, plus individuals may be eligible for an annual discretionary bonus. For roles that are based in Maryland, this is the listed salary range for this position. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits\\-at\\-a\\-glance","Accounting, Financial Services, and Business Consulting and Services","https://uk.linkedin.com/company/pwc","https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_100_100/B4EZaB6j58H0AQ-/0/1745936334912/pwc_logo?e=2147483647&v=beta&t=stNIhYwMNfiRmzhcYIuKvLl6j-_E5sJ8JNb3x27Tv1s","","","","","","","","","","",""
+"li-4322685063","linkedin","https://www.linkedin.com/jobs/view/4322685063","","Full Stack Developer","Hobby Lobby","Oklahoma City, OK","2025-11-19","fulltime","","","","","",False,"mid-senior level","Art/Creative, Management, and Customer Service","","","**Job Description \\- Overview**
+ Our ideal candidate is a team player with 3 to 5 years’ experience who has a passion for building great software. We're looking for a self\\-motivated and versatile developer to join an energetic and collaborative team in building and maintaining applications to support an ever\\-growing company.
+   
+
+  
+
+**Primary Functions/Job Description**
+* Build and maintain multi\\-tiered systems utilizing languages such as Java, C\\# and/or JavaScript
+* Explore and develop skills in new or unfamiliar technologies and frameworks
+* Communicate and coordinate with management and other departments on project tasks
+* Ability to contribute in all phases of a project
+* Prepare all appropriate user and technical documentation for assigned development projects
+* Provide end\\-user production support for in\\-house developed and purchased software including after\\-hours support scheduled on a rotating basis with other developers
+* Work with Database Administrators to develop new database tables and modify existing database tables in MS SQL
+
+
+**Job Description \\- Requirements**
+**Required Qualifications**
+* One of the following:
+* Bachelor’s Degree in Computer Science or MIS
+* 3\\-5 years applicable experience working in an IT environment
+* Experience building applications with Java, C\\# and/or JavaScript
+* Solid understanding of HTTP and Web protocols
+* Knowledge of object\\-oriented and/or functional paradigms
+* Familiar with relational database design, preferably MS SQL Server or MySQL
+* Skill in building RESTful web services and n\\-tiered distributed systems
+* Experience in a source control system, preferably Git
+* Ability to write and debug SQL queries and stored procedures
+
+
+**Preferred Skills**
+* Familiarity in frameworks such as Spring Boot, .Net Core, etc.
+* Good understanding of Agile methodology
+* Experience with the following:
+* Building microservices
+* Developing cloud\\-based applications and services (AWS, GCP, Azure, etc.)
+* Working with containerized platforms such as Docker, Kubernetes, Openshift, etc.
+* Model\\-View\\-Controller architectural pattern (ASP.NET MVC, Spring or similar)
+* Construct front\\-end applications using Angular, React, NextJS, etc.
+* Building applications using NoSQL databases such as MongoDB or DocumentDB
+
+
+**Benefits include:**
+* Competitive Wages
+* Medical, Dental and Prescription Plan
+* 401(k) Program with Company Match
+* Paid Vacation
+* Sick / Personal Pay (SPP)
+* Employee Discount
+* Life Insurance and Long Term Disability Insurance (LTD)
+* Flexible Spending Plan
+* Holiday Pay
+* Integris Clinic and Pharmacy on campus
+* Chaplain Services on campus
+
+
+**Hobby Lobby Stores, Inc. is an Equal Opportunity Employer**
+ For reasonable accommodation of disability during the hiring process call (800\\) 200\\-1494\\.
+ **Job Title**
+ Full Stack Developer
+   
+
+  
+
+**Address 1**
+ 7707 SW 44th Street
+   
+
+  
+
+**Zip Code**
+ 73179
+   
+
+  
+
+**Department**
+ Information Systems
+   
+
+  
+
+ Req ID: None","Retail Art Supplies, Retail, and Retail Groceries","https://www.linkedin.com/company/hobby-lobby","https://media.licdn.com/dms/image/v2/D560BAQHYC8enRBknbA/company-logo_100_100/company-logo_100_100/0/1684357433469/hobby_lobby_logo?e=2147483647&v=beta&t=5QMdfJr6oeV5rghqu08KpPz8-zistU5LPXhsRGrylzw","","","","","","","","","","",""
+"li-4323262791","linkedin","https://www.linkedin.com/jobs/view/4323262791","https://rr.jobsyn.org/3B1E0563F8774ABD876B25290FC069A01606?utm_source=linkedin&utm_medium=jobboard&urlHash=1RnN","Software Engineer","Pearson","Oklahoma City, OK","2025-11-19","fulltime","","","","","",True,"not applicable","Engineering and Information Technology","","TalentExperienceGlobalTeam@grp.pearson.com","**Organization Summary**
+ At Pearson, we are committed to a world that is always learning and to our talented team who makes it all possible.  We are bold thinkers and standout innovators who push the boundaries of technology. We create seeds of learning that become the catalyst for the world’s innovations. Within the Pearson Virtual Schools (PVS) division we have reimagined K\\-12 education through our virtual school and curriculum offerings. Our schools, Connections Academy and Pearson Online Academy, provide a best\\-in\\-class online learning environment for K\\-12 students to acquire the skills and confidence they need to adapt and thrive in a changing world.  We also support school districts with curriculum, teachers, and technology as they make the shift to online. The COVID\\-19 pandemic introduced significant disruption and transformation to the K\\-12 learning market. And as a result, our category has seen explosive growth, and our business has experienced enormous increases in awareness and enrollment. This presents an incredible opportunity for our team to chart a ground\\-breaking path through this shifting environment to achieve continued success.
+   
+
+  
+
+**Position Summary**
+**Pearson Virtual Schools is seeking a mission\\-driven software engineer with a passion for innovation and problem\\-solving.** 
+ This role is ideal for someone who thrives on exploring new technologies, values scalable and efficient solutions, and is committed to delivering exceptional customer experiences. As a key member of our team, you will contribute to the evolution of our K–12 online learning platform by building new features, enhancing existing functionality, and driving meaningful impact in digital education.
+   
+
+  
+
+**Core Tasks And Responsibilities**
+ Design and deliver high\\-quality software solutions using appropriate technologies, aligned with business goals, architectural standards, and engineering best practices.
+   
+
+  
+
+ Leverage modern development tools and emerging technologies, including AI\\-powered solutions, to accelerate delivery, enhance code quality, and drive innovation throughout the software lifecycle.
+   
+
+  
+
+ Evaluate technical alternatives and collaborate with cross\\-functional teams to determine and implement the most effective solutions.
+   
+
+  
+
+ Embrace and execute Agile methodologies to foster collaboration, transparency, and continuous delivery across the development lifecycle.
+   
+
+  
+
+ Document solutions at a level that supports clarity, collaboration, and long\\-term maintainability. Focus on capturing key design decisions, implementation details, and rationale to ensure shared understanding across the team and continuity over time.
+   
+
+  
+
+ Actively pursue technical growth through structured training opportunities, including courses, workshops, and certifications, while also staying informed through industry literature and peer engagement.
+   
+
+  
+
+ Support departmental and organizational goals by proactively contributing to initiatives and tasks that enhance engineering practices and operational efficiency.
+   
+
+  
+
+ Provide support for occasional system issues, including off\\-hours incidents, and coordinate team responses.
+   
+
+  
+
+**Required Skills, Experience, And Competencies**
+ Ability to develop object\\-oriented Web applications, preferably using C\\#/.NET.
+   
+
+  
+
+ Familiarity with JavaScript and modern web frameworks (e.g. React, Angular, Node.js).
+   
+
+  
+
+ Understanding of microservices architecture and building RESTful APIs.
+   
+
+  
+
+ Basic knowledge of SQL and relational databases.
+   
+
+  
+
+ Awareness of cloud computing concepts and technologies; exposure to platforms like AWS or Azure is a plus.
+   
+
+  
+
+ Basic understanding of AI and machine learning concepts.
+   
+
+  
+
+ Ability to integrate AI\\-powered features into applications to enhance functionality.
+   
+
+  
+
+ Capability to proactively use AI\\-assisted tools to improve engineering workflows, such as code generation, debugging, documentation, or task automation, to accelerate individual and team productivity.
+   
+
+  
+
+ Familiarity with the software development lifecycle and version control systems like Git.
+   
+
+  
+
+ Exposure to CI/CD practices, especially using tools like GitHub Actions or Azure Pipelines.
+   
+
+  
+
+ Experience with work item tracking tools (e.g. Jira, Azure DevOps).
+   
+
+  
+
+ Willingness to learn and apply Agile methodologies, particularly Scrum, including active participation in sprint planning, stand\\-ups, and retrospectives.
+   
+
+  
+
+ Understanding of Test\\-Driven Development (TDD) concepts.
+   
+
+  
+
+ Strong problem\\-solving skills with the ability to work independently and ask for help when needed.
+   
+
+  
+
+ Ability to work and collaborate effectively in a remote team environment.
+   
+
+  
+
+ Clear and professional verbal and written communication skills.
+   
+
+  
+
+ Attention to detail and commitment to writing clean, maintainable code.
+   
+
+  
+
+ Eagerness to learn and grow through feedback and mentorship.
+   
+
+  
+
+ Reliable high\\-speed internet access for remote work.
+   
+
+  
+
+**Key Behaviors**
+**Mission\\-Driven Mindset** 
+ : You care deeply about people and our mission. You prioritize collaboration with teammates, internal partners, and customers, and strive to contribute meaningfully to shared goals.
+   
+
+  
+
+**Active Listener** 
+ : You seek diverse perspectives, ask thoughtful questions, and remain open to learning new approaches and better ways of working.
+   
+
+  
+
+**Initiative and Ownership** 
+ : You take action when you see a problem, even if it’s outside your immediate scope. You’re eager to contribute and learn by doing, and you support others in finding solutions.
+   
+
+  
+
+**Courage to Grow** 
+ : You welcome new challenges, take calculated risks, and embrace opportunities to improve yourself, your team, and the customer experience.
+   
+
+  
+
+**Respectful Communication** 
+ : You engage in honest conversations with empathy and professionalism, even when the topics are difficult.
+   
+
+  
+
+**Proactive Contributor** 
+ : You stay alert to potential issues and work with your team to address them early, learning to anticipate needs and act with purpose.
+   
+
+  
+
+**Adaptability** 
+ : You respond positively to change and help your team navigate it, always keeping the customer’s best interest in mind.
+   
+
+  
+
+**Team\\-Oriented Collaboration** 
+ : You value input from others, technical and non\\-technical, and communicate clearly to bridge gaps and build shared understanding.
+   
+
+  
+
+**Attention to Detail** 
+ : You take pride in the quality of your work, ensuring accuracy and reliability in everything you build or support.
+   
+
+  
+
+*Applications will be accepted through 11/24/2025\\. This window may be extended depending on business needs.*
+ Compensation at Pearson is influenced by a wide array of factors including but not limited to skill set, level of experience, and specific location. As required by the California, Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, New York State, New York City, Vermont, Washington State, and Washington DC laws, the pay range for this position is as follows:
+   
+
+  
+
+ The minimum full\\-time salary range is between $85,000 \\- $100,000\\.
+   
+
+  
+
+ This position is eligible to participate in an annual incentive program, and information on benefits offered is here.
+   
+
+  
+
+**Who We Are**
+ At Pearson, our purpose is simple: to help people realize the life they imagine through learning. We believe that every learning opportunity is a chance for a personal breakthrough. We are the world's lifelong learning company. For us, learning isn't just what we do. It's who we are. To learn more: We are Pearson.
+   
+
+  
+
+ Pearson is an Equal Opportunity Employer and a member of E\\-Verify. Employment decisions are based on qualifications, merit and business need. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, sexual orientation, gender identity, gender expression, age, national origin, protected veteran status, disability status or any other group protected by law. We actively seek qualified candidates who are protected veterans and individuals with disabilities as defined under VEVRAA and Section 503 of the Rehabilitation Act.
+   
+
+  
+
+ If you are an individual with a disability and are unable or limited in your ability to use or access our career site as a result of your disability, you may request reasonable accommodations by emailing TalentExperienceGlobalTeam@grp.pearson.com.
+   
+
+  
+
+**Job:** 
+ Engineering
+   
+
+  
+
+**Job Family:** 
+ TECHNOLOGY
+   
+
+  
+
+**Organization:** 
+ Virtual Learning
+   
+
+  
+
+**Schedule:** 
+ FULL\\_TIME
+   
+
+  
+
+**Workplace Type:** 
+ Remote
+   
+
+  
+
+**Req ID:** 
+ 21664
+   
+
+  
+
+ \\#location","Education Administration Programs and E-Learning Providers","https://uk.linkedin.com/company/pearson","https://media.licdn.com/dms/image/v2/D4E0BAQG9W4lfcWc9dQ/company-logo_100_100/B4EZYPofEYHkAQ-/0/1744018993869/pearson_logo?e=2147483647&v=beta&t=tatnP8PCFOON7lKpbmG0JRCF4QYNwFaondEAOnunhUs","","","","","","","","","","",""
+"li-4319014976","linkedin","https://www.linkedin.com/jobs/view/4319014976","","Data Engineer","Illumination Works","","2025-11-19","fulltime","","","","","",False,"mid-senior level","Information Technology, Engineering, and Consulting","","","**Location:** 
+ Oklahoma City, OK \\- hybrid role (2\\-3 days a week onsite)
+ 
+
+
+
+  
+
+
+
+
+
+ We are looking for a
+ **Data Engineer** 
+ passionate about building and scaling
+ **Data Analytics as a Service (DAaaS)** 
+ offerings. In this role, you will be responsible for creating data pipelines, structures and integrations that power advanced analytics, machine learning models, and data\\-driven experimentation across the business. You will work at the intersection of data engineering and data science, enabling the rapid development, testing, and deployment of insights and predictive models by ensuring clean, reliable, and well\\-structured data is readily available.
+ 
+
+
+
+  
+
+
+
+
+
+ Key responsibilities for this position include:
+ 
+
+
+* Design and build
+ **scalable data pipelines** 
+ to support data science use cases, including feature engineering, model training, and real\\-time inference
+* Collaborate closely with data scientists, ML engineers, and analysts to understand data requirements and deliver high\\-quality, production\\-ready datasets
+* Structure and maintain
+ **analytics\\-ready data models** 
+ optimized for performance, scalability, and reuse
+* Design and support the data layer of a self\\-service analytics and modeling platform, enabling fast access to pre\\-processed and enriched data
+* Operationalize outputs from data science, including storing model results, tracking predictions, and supporting feedback loops
+* Build automation tools and frameworks for data science workflows, such as feature stores, experiment tracking, and model evaluation pipelines
+* Work with infrastructure teams to ensure scalable deployment of data services supporting analytics and ML
+* Maintain strong
+ **data quality, governance,** 
+ and documentation to ensure transparency and reliability across data products
+
+
+
+  
+
+
+
+
+
+**Do you have what it takes?** 
+ Are you driven to implement creative solutions that unravel complex and ever\\-changing challenges? We value passion, curiosity, and perseverance with an ability to communicate ideas and results to diverse audiences. We look for people who thrive in collaborative and independent assignments, have the aptitude to learn new data quickly, and who are willing to mentor junior team members.
+ 
+
+
+
+  
+
+
+
+
+
+ Required skills and experience:
+ 
+
+
+* 5\\+ years of experience as a Data Engineer, Analytics Engineer, or similar role
+* Experience building infrastructure for data science platforms
+* Strong proficiency in SQL and Python for building and orchestrating data workflows
+* Experience with modern data stack tools
+* Deep understanding of data modeling for analytics and machine learning applications
+* Hands\\-on experience with cloud\\-based data warehouses and object storage
+* Experience with Databricks
+* Familiarity with machine learning workflows, including feature pipelines, training/inference data prep, and model outputs
+* Strong focus on automation, reusability, and modular design for scalable analytics delivery
+* Comfortable working in cross\\-functional teams with data scientists, ML engineers, and business stakeholders
+* Understanding of data privacy, security, and compliance considerations in data science
+* Outstanding problem\\-solving skills
+* Excellent verbal and written communication skills
+* Minimum Education: Bachelor’s degree in Computer Science, Mathematics, or comparable academic discipline
+* Must have or be willing to obtain Secret Clearance (this requires US Citizenship)
+* Acceptable candidates must successfully pass a drug test and background screen
+
+
+
+  
+
+
+
+
+
+**About Illumination Works** 
+
+
+
+
+ At Illumination Works, we know data, and we should, we’ve been doing it since we started in 2006! We specialize in everything data from big data to data science, data engineering, software engineering, and cloud design. We are a trusted technology partner in user\\-centered digital transformation—delivering impactful business results to clients. We partner with customers to solve their unique technology and data challenges and stay on top of modern technologies and advancements leveraging our Innovation Lab. Check out our website to learn more at www.ilwllc.com.
+ 
+
+
+
+  
+
+
+
+
+
+**Why choose us?** 
+ We invest in our employees in all aspects of their life and we value family. We offer market competitive salary, a generous PTO package, and comprehensive medical, dental, vision and life insurance plans. We also offer 401K, short/long\\-term disability insurance, a fun and engaging culture, and training opportunities to keep you up to speed on the latest technologies.
+ 
+
+
+
+  
+
+
+
+
+
+ Illumination Works is committed to hiring and retaining the best workforce. We hire the best talent for our customers’ needs. We make our hiring decisions without regard to race, color, religion, sexual orientation, gender identity or national origin, age, veteran status, disability, or any other protected class. Acceptable candidates must successfully pass a drug test and background screen.","IT Services and IT Consulting, Engineering Services, and Data Infrastructure and Analytics","https://www.linkedin.com/company/illumination-works","https://media.licdn.com/dms/image/v2/C4E0BAQFXIGOHZegtcA/company-logo_100_100/company-logo_100_100/0/1630616696407/illumination_works_logo?e=2147483647&v=beta&t=JiuuA91SEeHYwGkmQdzC9RX6Zh4yYe4kBqHJ0SwW2rA","","","","","","","","","","",""
+"li-4336829095","linkedin","https://www.linkedin.com/jobs/view/4336829095","","Freelance Software Developer (Rust) - Quality Assurance (AI Trainer)","Mindrift","Oklahoma, United States","2025-11-19","parttime","","","","","",True,"mid-senior level","Other","","","***This opportunity is only for candidates currently residing in the specified country. Your location may affect eligibility and rates. Please submit your resume in English and indicate your level of English.***
+ At Mindrift, innovation meets opportunity. We believe in using the power of collective intelligence to ethically shape the future of AI.
+   
+
+  
+
+**What We Do**
+ The Mindrift platform connects specialists with AI projects from major tech innovators. Our mission is to unlock the potential of Generative AI by tapping into real\\-world expertise from across the globe.
+   
+
+  
+
+**About The Role**
+ GenAI models are improving very quickly, and one of our goals is to make them capable of addressing specialized questions and achieving complex reasoning skills. If you join the platform as an AI Tutor in Coding, you'll have the opportunity to collaborate on these projects.
+   
+
+  
+
+ Although every project is unique, you might typically:
+   
+
+  
+
+* Code generation and code review
+* Prompt evaluation and complex data annotation
+* Training and evaluation of large language models
+* Benchmarking and agent\\-based code execution in sandboxed environments
+* Working across multiple programming languages (Python, JavaScript/TypeScript, Rust, SQL, etc.)
+* Adapting guidelines for new domains and use cases
+* Following project\\-specific rubrics and requirements
+* Collaborating with project leads, solution engineers, and supply managers on complex or experimental projects
+
+
+**How To Get Started**
+ Simply apply to this post, qualify, and get the chance to contribute to projects aligned with your skills, on your own schedule. From creating training prompts to refining model responses, you'll help shape the future of AI while ensuring technology benefits everyone.
+   
+
+  
+
+**Requirements**
+* You hold a Bachelor's degree in Computer Science, Software Engineering, or related field
+* You have at least 3 years of professional experience, including Rust fundamentals: memory safety (ownership, borrow checker), concurrency, error handling, idiomatic syntax
+* Hands\\-on experience with Rust testing tools (e.g., cargo test, property\\-based testing with quickcheck).
+* Familiarity with Rust tooling (Cargo, Clippy, rustfmt), module and crate management
+* Experience with code review, quality analysis, and identifying/fixing code smells and type issues.⁠
+* Familiarity with test integration in CI/CD environments
+* Experience using, integrating, or tutoring others with AI solutions or LLMs in Rust/test automation contexts.
+* Strong skills in defect documentation, profiling/debugging Hackathon experience is a plus
+* Your level of English is advanced (C1\\) or above
+* You are ready to learn new methods, able to switch between tasks and topics quickly and sometimes work with challenging, complex guidelines
+* Our freelance role is fully remote so, you just need a laptop, internet connection, time available and enthusiasm to take on a challenge
+
+
+**Benefits**
+**Why this freelance opportunity might be a great fit for you?**
+* Get paid for your expertise, with rates that can go up to $60/hour depending on your skills, experience, and project needs
+* Take part in a part\\-time, remote, freelance project that fits around your primary professional or academic commitments
+* Work on advanced AI projects and gain valuable experience that enhances your portfolio
+* Influence how future AI models understand and communicate in your field of expertise","IT Services and IT Consulting","https://www.linkedin.com/company/mindrift-ai","https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_100_100/company-logo_100_100/0/1725448348201/mindrift_ai_logo?e=2147483647&v=beta&t=QWIMS9k-I4kkSKVcx06uFCRLdHDZZ1w9E8dWeBmOHCk","","","","","","","","","","",""
+"li-4318490033","linkedin","https://www.linkedin.com/jobs/view/4318490033","","Building Automation Programmer","Jobot","Norman, OK","2025-11-19","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","Want to learn more about this role and Jobot? Click our Jobot logo and follow our LinkedIn page!
+   
+
+  
+
+ Job details
+   
+
+  
+
+**BAS Programmer opening in Oklahoma**
+ This Jobot Job is hosted by Courtney Hoogervorst
+   
+
+  
+
+ Are you a fit? Easy Apply now by clicking the ""Easy Apply"" button and sending us your resume.
+   
+
+  
+
+ Salary $90,000 \\- $120,000 per year
+   
+
+  
+
+**A Bit About Us**
+ Full Service Contractor focusing on commercial and industrial HVAC systems. Multiple offices in the Midwest. Specialties include Building automation, automatic temperature control, process control, system engineering, system installation and service
+   
+
+  
+
+****Why join us?****
+* Low Medical, Dental, Vision rates
+* 401k Retirement
+* Paid Time Off
+* Paid Holidays
+* Wellness Programs
+* PPE and tools
+
+
+**Job Details**
+ Actively looking to add a Building Automation Programmer to our team the Oklahoma City area . The ideal candidate will be a technical problem solver who utilizes their experience and expertise in line\\-based programming, standards and procedures, and their knowledge of building systems and applications to develop programs for DDC controllers and graphics for user interface tools.
+   
+
+  
+
+**Responsibilities**
+* Provide controls systems database, interface, programming, etc. for sequences as provided by the design specialist, project specifications, or other applicable sources.
+* Provide technical assistance of systems during start\\-up and commissioning on projects as assigned.
+* Provide technical support to installation personnel on project sites.
+* Provide information and support for other contractors on project site.
+* Debug installation issues during both the static and dynamic start up and commissioning of building controls and special systems.
+* Provide input to sales staff as requested or required to assist in the accurate estimation, design, installation, start up, commissioning, and training for building systems.
+* Provide start up documentation, commissioning documents, etc. as required for assigned projects.
+* Provide service support on existing installations ensuring systems continue to meet existing building occupancy codes and insure efficient building operation.
+* Complete documentation required for this position in an accurate and timely manner.
+* Assist in preparing of as\\-built drawings and Operation \\& Maintenance Manuals.
+* Assist in turnover of projects from operations team to service team.
+
+
+**Requirements**
+* 3\\+ years of experience programming BAS and integrating with third party equipment preferred.
+* In\\-depth knowledge and experience with various commercial HVAC systems.
+* Programming experience with Johnson Controls / Facility Explorer / Tridium Niagara highly preferred
+* Experience with hands\\-on/field troubleshooting preferred.
+* BACnet and Modbus protocol experience
+
+
+ Interested in hearing more? Easy Apply now by clicking the ""Easy Apply"" button.
+   
+
+  
+
+ Jobot is an Equal Opportunity Employer. We provide an inclusive work environment that celebrates diversity and all qualified candidates receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, age (40 and over), disability, military status, genetic information or any other basis protected by applicable federal, state, or local laws. Jobot also prohibits harassment of applicants or employees based on any of these protected categories. It is Jobot’s policy to comply with all applicable federal, state and local laws respecting consideration of unemployment status in making hiring decisions.
+   
+
+  
+
+ Sometimes Jobot is required to perform background checks with your authorization. Jobot will consider qualified candidates with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance.
+   
+
+  
+
+ Information collected and processed as part of your Jobot candidate profile, and any job applications, resumes, or other information you choose to submit is subject to Jobot's Privacy Policy, as well as the Jobot California Worker Privacy Notice and Jobot Notice Regarding Automated Employment Decision Tools which are available at jobot.com/legal.
+   
+
+  
+
+ By applying for this job, you agree to receive calls, AI\\-generated calls, text messages, or emails from Jobot, and/or its agents and contracted partners. Frequency varies for text messages. Message and data rates may apply. Carriers are not liable for delayed or undelivered messages. You can reply STOP to cancel and HELP for help. You can access our privacy policy here jobot.com/privacy\\-policy
+   
+
+  
+
+**Want to learn more about this role and Jobot?**
+ Click our Jobot logo and follow our LinkedIn page!","Construction, Civil Engineering, and Industrial Machinery Manufacturing","https://www.linkedin.com/company/jobot","https://media.licdn.com/dms/image/v2/D560BAQFSymuoKPb5TA/company-logo_100_100/B56ZqdRXbtHAAQ-/0/1763575167899/jobot_logo?e=2147483647&v=beta&t=HiLZBK-lHDEZQjliiRg4Wnwz3GOmygYnS9OmpDWxrbw","","","","","","","","","","",""
+"li-4310969567","linkedin","https://www.linkedin.com/jobs/view/4310969567","","Senior Systems Engineer","Astrion","Oklahoma, United States","2025-11-19","fulltime","","","","","",False,"mid-senior level","Engineering","","","**Overview**
+**SENIOR SYSTEMS ENGINEER**
+**LOCATION:** 
+ Tinker AFB, Oklahoma City, OK
+   
+
+  
+
+**JOB STATUS:** 
+ Full\\-time
+   
+
+  
+
+**CLEARANCE:** 
+ Secret
+   
+
+  
+
+**CERTIFICATION:** 
+ N/A
+   
+
+  
+
+**TRAVEL:** 
+ Limited; As Needed
+   
+
+  
+
+**SALARY:** 
+ $110,000\\.00 \\- $120,000\\.00 Annually
+   
+
+  
+
+ Astrion has an exciting opportunity for a
+ **Senior Systems Engineer** 
+ located in
+ **Tinker AFB** 
+ in
+ **Oklahoma City, OK** 
+ . This role provides support to the Air Force Life Cycle Management Center/PEO Electronic Systems Directorate (AFLCMC/ES). The Air Force Program Execution Office for PEO Electronic Systems (AFPEO/ES) has the collective AFMC mission responsibility to manage and execute the modernization, development, testing, production, fielding, and sustainment of the PEO Electronic Systems portfolio, which includes over 130 programs for the U.S. Air Force (USAF) and foreign allies. AFLCMC/ES is headquartered at Hanscom AFB, MA, with geographically separated operating units CONUS and OCONUS.
+   
+
+  
+
+ This position is with AFLCMC/ESA and will provide systems engineering support across the acquisition lifecycle, including requirements analysis, design, development, test, operation, sustainment, and system disposal.
+   
+
+  
+
+**Required Qualifications / Skills**
+* Bachelors Degree or 15 years of directly related experience with 8 years in a DoD setting
+* Experience in requirements development, production and deployment, operation and support
+* Experience in architectures development and implementation
+* Experience with modeling \\& simulation (including Model\\-Based Systems Engineering)
+* Experience in verification \\& validation, technical data package development/sustainment, and configuration management principles
+* Experience with network architectures, embedded systems, and application deployment
+* Familiarity with DoD Acquisition processes (Technology Maturation, Risk Reduction, EMD, Production, Deployment)
+* Must be a US citizen
+
+
+**Preferred Qualifications / Skills**
+* Bachelor’s in professional engineering from an ABET\\-accredited program with 12 years of experience (5 in DoD) or
++ Masters Degree from ABET\\-accredited program with 10 years of experience (5 in DoD)
+
+* Electrical and Mechanical engineering experience (electrical preferred)
+* Electrical or Mechanical Engineering degree required
+* Experience leading technical teams highly desired
+* Experience with Air Traffic Control systems is a plus
+* Technical Skills
++ Systems, electrical, and mechanical engineering
++ Test and evaluation planning, execution, and analysis
++ Requirements development and system specifications
++ Model\\-Based Systems Engineering (MBSE) principles
++ Verification, validation, and configuration management
++ Network architectures and embedded systems integration
+
+* Interpersonal Skills
++ Strong documentation and reporting skills
++ Ability to collaborate with cross\\-functional teams and working groups
++ Ability to evaluate and communicate technical requirements
++ Problem\\-solving and critical thinking abilities
+
+
+**Responsibilities**
+ In this Advisory and Assistance Services (A\\&AS) role, you will provide expert\\-level support to Department of Defense (DoD) programs by assisting government leadership with decision\\-making, planning, and execution throughout the acquisition lifecycle. You will apply your technical and/or professional expertise to ensure compliance with applicable policies and regulations, contribute to mission success, and help deliver critical capabilities to the warfighter.
+   
+
+  
+
+* Provide systems, electrical, and/or mechanical engineering support for new and legacy DoD systems
+* Accomplish and coordinate engineering tasks for modifications and systems upgrades
+* Provide support to customers including data analysis, modification programs, repair requirements, reliability/maintainability actions, and worldwide user support
+* Assist in designing, planning, execution, analysis, reporting, and documentation during any phase of test and evaluation programs, including applicable FAA certifications and procedures
+* Provide engineering review of programs throughout the life\\-cycle
+* Review and ensure all engineering\\-related documents are accurate and complete
+* Participate in the development of system specifications and system architecture products
+* Participate in test and evaluation support, including planning, test conduct, and evaluation of results against operational requirements
+* Assist in scheduling and securing required test resources in support of project and program office objectives
+* Provide technical evaluation of contractor proposals
+* Monitor, assess, and report on test and evaluation efforts; provide recommendations for test facility improvements
+* Support development of system and program technical plans, including review of technical documents, participation in working groups, tracking risks/issues, and reviewing test plans, procedures, and data
+
+
+ Air Force
+   
+
+  
+
+ EPASS HB
+   
+
+  
+
+ TINKER
+   
+
+  
+
+ \\#CJ","Defense and Space Manufacturing","https://www.linkedin.com/company/astrion","https://media.licdn.com/dms/image/v2/D560BAQFKfY9ICyVfqg/company-logo_100_100/company-logo_100_100/0/1701711872831/astrion_logo?e=2147483647&v=beta&t=-bZYkV6Kk1KAEO_j478fXjw6tJL9Q1-BBWMVFh-YU5o","","","","","","","","","","",""
+"li-4318945341","linkedin","https://www.linkedin.com/jobs/view/4318945341","https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk/job/Madison-Wisconsin-United-States-of-America/Senior-Staff-Data-Engineer_R32408?source=LinkedIn&urlHash=BPiK","Senior Staff Data Engineer","Zendesk","Oklahoma, United States","2025-11-19","fulltime","","","","","",True,"mid-senior level","Information Technology","","peopleandplaces@zendesk.com","**Job Description**
+ Our Enterprise Data \\& Analytics (EDA) is looking for an experienced Senior Staff Data Engineer to lead the design, development, and scaling of our enterprise data platform. You’ll work in a collaborative Agile environment using the latest engineering best practices with involvement in all aspects of the software development lifecycle.
+   
+
+  
+
+ As a Senior Staff Engineer on our EDA Engineering Team, you will be pivotal in building and supporting significant aspects of our data services and pipelines, that powers the next generation reporting and analytics platform. You’ll partner with architects, engineers, analysts, and business stakeholders to ensure our data platforms are reliable, observable, secure, and governed. This role is ideal for someone who thrives at the intersection of data architecture and engineering execution, influencing technical direction across multiple teams while remaining hands\\-on with data platforms.
+   
+
+  
+
+**What You Get To Do Every Single Day**
+* Lead data engineering projects at scale in a high visibility role working across multiple teams
+* Successfully plan and deliver complex, multi\\-team or system, long\\-term projects, including ones with external dependencies
+* Owns one or more large, mission\\-critical systems or multiple complex, team level projects, overseeing all aspects from design through implementation and operation
+* Cross functional and team collaboration on researching and brainstorming different solutions for technical challenges we face
+* Design and build end to end analytics solutions that provide practical insights into customer 360, finance, product, sales and other key business domains; can do critical R\\&D, PoC, vendor evaluation
+* Establish engineering best practices and mentoring other engineers in making technical decisions on projects and foster a culture of technical excellence and continuous learning
+* Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery
+
+
+**Basic Qualifications**
+**What you bring to the role:**
+* 10\\+ years of experience in data engineering, data architecture, or distributed systems, with at least 5 years in technical leadership roles.
+* 7\\+ years of data engineering experience building, working \\& maintaining scalable data platforms
+* 4\\+ years of hands\\-on Snowflake experience, including designing and managing data warehouses, optimizing performance and costs, migrating data from other systems, and implementing best practices for scalability and efficiency.
+* 5\\+ years of experience with Cloud columnar databases (Snowflake, Google BigQuery etc)
+* 3\\+ years of production experience with dbt and modern ELT pipelines.
+* Extensive experience working with various data technologies and tools such as Airflow, Snowflake, Fivetran, DBT, AWS, GitHub Actions, Docker, Kubernetes, terraform.
+* Hands\\-on experience with AWS services (S3, Glue, EMR, Athena, Snowpipe, Kubernetes, Terraform).
+* Understanding of data governance, security controls, and access management.
+* Solid experience in observability, alerting, and incident management for data systems.
+* Ability to work optimally in multifaceted, occasionally interrupt driven environment that includes geographically spread teams and customers
+* Intermediate experience with any of the programming language: Python, Go, Java, Scala, we use primarily Python
+* Excellent communication skills to collaborate with executives, data scientists, analysts, and engineers.
+* Ability to work closely with data scientists, analysts, and other stakeholders to translate business requirements into technical solutions.
+* Proven ability to mentor staff and senior engineers, raising the technical bar across teams.
+
+
+**What Does Our Data Stack Looks Like**
+* ELT (MYSQL CDC, Kafka, Snowflake, Fivetran, dbt Core \\& DBT Cloud, Astronomer, Alation, Montecarlo)
+* BI (Tableau, Looker)
+* Infrastructure (AWS, Kubernetes, Terraform, Github Actions)
+
+
+ The US annualized base salary range for this position is $183,000\\.00\\-$275,000\\.00\\. This position may also be eligible for bonus, benefits, or related incentives. While this range reflects the minimum and maximum value for new hire salaries for the position across all US locations, the offer for the successful candidate for this position will be based on job related capabilities, applicable experience, and other factors such as work location. Please note that the compensation details listed in US role postings reflect the base salary only (or OTE for commissions based roles), and do not include bonus, benefits, or related incentives.
+   
+
+  
+
+ Hybrid: In this role, our hybrid experience is designed at the team level to give you a rich onsite experience packed with connection, collaboration, learning, and celebration \\- while also giving you flexibility to work remotely for part of the week. This role must attend our local office for part of the week. The specific in\\-office schedule is to be determined by the hiring manager.
+   
+
+  
+
+**The Intelligent Heart Of Customer Experience**
+ Zendesk software was built to bring a sense of calm to the chaotic world of customer service. Today we power billions of conversations with brands you know and love.
+   
+
+  
+
+ Zendesk believes in offering our people a fulfilling and inclusive experience. Our hybrid way of working, enables us to purposefully come together in person, at one of our many Zendesk offices around the world, to connect, collaborate and learn whilst also giving our people the flexibility to work remotely for part of the week.
+   
+
+  
+
+ As part of our commitment to fairness and transparency, we inform all applicants that artificial intelligence (AI) or automated decision systems may be used to screen or evaluate applications for this position, in accordance with Company guidelines and applicable law.
+   
+
+  
+
+ Zendesk is an equal opportunity employer, and we’re proud of our ongoing efforts to foster global diversity, equity, \\& inclusion in the workplace. Individuals seeking employment and employees at Zendesk are considered without regard to race, color, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, disability, military or veteran status, or any other characteristic protected by applicable law. We are an AA/EEO/Veterans/Disabled employer. If you are based in the United States and would like more information about your EEO rights under the law, please click here.
+   
+
+  
+
+ Zendesk endeavors to make reasonable accommodations for applicants with disabilities and disabled veterans pursuant to applicable federal and state law. If you are an individual with a disability and require a reasonable accommodation to submit this application, complete any pre\\-employment testing, or otherwise participate in the employee selection process, please send an e\\-mail to peopleandplaces@zendesk.com with your specific accommodation request.","Software Development","https://www.linkedin.com/company/zendesk","https://media.licdn.com/dms/image/v2/D4E0BAQH_bC13eyDqjw/company-logo_100_100/company-logo_100_100/0/1684356295421/zendesk_logo?e=2147483647&v=beta&t=w6vh07kTKA91c64ELehbqv7PXy7evnbswb2OTjBxlRo","","","","","","","","","","",""
+"li-4323261903","linkedin","https://www.linkedin.com/jobs/view/4323261903","","Full Stack Developer","Addison Group","Oklahoma City, OK","2025-11-18","other","","","","","",False,"entry level","Engineering and Information Technology","","","**Job Title:** 
+ Full Stack Developer
+   
+
+  
+
+**Location:** 
+ Oklahoma City, OK (hybrid, on\\-site)
+   
+
+  
+
+**Salary Range:** 
+ $80,000 \\- $125,000 / year depending on experience.
+   
+
+  
+
+**Benefits:** 
+*The position is eligible for medical, dental, vision, and 401(k).*
+* Must be authorized to work in the United States now, and in the future, without assistance.
+
+
+**Overview**
+ We are looking for a Full Stack Developer with a primary focus on
+ **C\\#/.NET** 
+ and a secondary focus on
+ **PHP/Laravel** 
+ . This role will support and enhance our web applications and assist with updates and integrations tied to our
+ **CRM system** 
+ .
+   
+
+  
+
+**Key Responsibilities**
+* Develop and maintain applications using C\\#, .NET, ASP.NET Core
+* Support and update existing PHP/Laravel applications
+* Work with our CRM platform to build integrations, automate workflows, and support data needs
+* Build and consume REST APIs
+* Create and update front\\-end components using JavaScript, HTML, and CSS
+* Work with SQL Server and MySQL
+* Help troubleshoot issues and support ongoing enhancements across systems
+
+
+**Required Skills**
+* Strong experience with C\\#/.NET
+* Experience with PHP/Laravel
+* Familiarity with CRM platforms and basic integration work
+* Front\\-end skills (JavaScript, HTML, CSS)
+* SQL experience (SQL Server or MySQL)
+* Ability to handle tasks across the stack in a collaborative environment
+
+
+ ﻿No 3rd parties.
+   
+
+  
+
+ ﻿
+   
+
+  
+
+***Why choose Addison IT?***
+* Pay: We negotiate high salaries using U.S. Bureau of Labor Statistics
+* Benefits \\& Bonuses: You are eligible for medical, dental, vision insurance benefits, 401K, and monetary bonuses
+* Permanent Employment: Many of Addison’s job openings lead to potential permanent employment
+* Connections: You connect directly with hiring managers from renowned organizations
+* Options: You are presented with multiple employment options near your home
+* Professional Development: You are provided hiring process advice, resume revision, and employment term negotiation
+
+
+*Addison Group is an Equal Opportunity Employer. Addison Group provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state, and local laws. Addison Group complies with applicable state and local laws governing non\\-discrimination in employment in every location in which the company has facilities. Reasonable accommodation is available for qualified individuals with disabilities, upon request.*","Staffing and Recruiting","https://www.linkedin.com/company/addisongroup","https://media.licdn.com/dms/image/v2/C560BAQGkWEu9IfrLsg/company-logo_100_100/company-logo_100_100/0/1657132506176/addisongroup_logo?e=2147483647&v=beta&t=WMT1RXVwxNZ7cicPct9lSOM4f6Un714pwyAoDRhWIYM","","","","","","","","","","",""
+"li-4336840801","linkedin","https://www.linkedin.com/jobs/view/4336840801","","Online Task Contributor - English Speaker (WFH)","TELUS Digital","Oklahoma, United States","2025-11-18","parttime","","","","","",True,"entry level","Administrative","","","If you are looking for a part\\-time remote position that allows you to enjoy working from home while learning more about and contributing to the development of AI technologies, look no further. This flexible freelance role will help you to make your spare time pay off.
+ 
+
+
+
+  
+
+
+
+
+
+**A Day in the Life of an Online Task Contributor:** 
+
+
+
+
+  
+
+
+
+
+* In this role, you will be evaluating and providing feedback on content found in new products and search engine results in order to improve their content and quality
+* Your ultimate goal will be to contribute towards evaluating websites and products over time and making internet search more exciting, relevant, and interesting for millions of end users, including yourself.
+
+
+
+  
+
+
+
+
+
+ Join our team today and start putting your skills to play a part in improving the quality of one of the largest search engines in the world.
+ 
+
+
+
+  
+
+
+
+
+
+ The estimated hourly earnings for this role are 11\\.5 USD. Payment is based on completed tasks, with the potential for higher earnings based on productivity.
+ 
+
+
+
+  
+
+
+
+
+
+**TELUS International AI Community** 
+
+
+
+
+  
+
+
+
+
+
+ Our global AI Community is a vibrant network of 1 million\\+ contributors from diverse backgrounds who help our customers collect, enhance, train, translate, and localize content to build better AI models. Become part of our growing community and make an impact supporting the machine learning models of some of the world’s largest brands.
+ 
+
+
+
+  
+
+
+
+
+
+ Qualification path
+ 
+
+
+
+  
+
+
+
+
+
+ No previous professional experience is required to apply to this role, however, working on this project will require you to pass the basic requirements and go through a standard assessment process. This is a part\\-time long\\-term project and your work will be subject to our standard quality assurance checks during the term of this agreement.
+ 
+
+
+
+  
+
+
+
+
+
+**Basic Requirements** 
+
+
+
+* Proficiency in written and verbal in English
+* Residency in the United States for the past 3 consecutive years
+* Ownership and regular use of a smartphone (Android V5\\.0 or higher or iPhone running iOS version 14\\.0 or higher) and a desktop/laptop with internet connection at your expense.
+* Gmail as your primary email account
+* Familiarity with current and historical local business, media, sports, news, social media, and cultural affairs
+* Experience navigating web browsers and smartphone apps for content interaction.
+* Willingness to download Apps
+* Understanding of various social media environments, including memes, virality, and trends
+* An interest in projects relating to AI platforms is preferred
+
+
+
+  
+
+
+
+
+
+**Assessment** 
+
+
+
+
+ In order to be hired into the program, you’ll take an English language assessment and an open book qualification exam that will determine your suitability for the position and complete ID verification. Don’t worry, our team will provide you with guidelines and learning materials before your exam. You will be required to complete the exam in a specific timeframe but at your convenience!
+ 
+
+
+
+  
+
+
+
+
+
+**Equal Opportunity** 
+
+
+
+
+ All qualified applicants will receive consideration for a contractual relationship without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. At TELUS International AI, we are proud to offer equal opportunities and are committed to creating a diverse and inclusive community. All aspects of selection are based on applicants’ qualifications, merits, competence, and performance without regard to any characteristic related to diversity.","IT Services and IT Consulting","https://ca.linkedin.com/company/telus-digital","https://media.licdn.com/dms/image/v2/D560BAQG9RsfYMPHl6Q/company-logo_100_100/B56Zlcq4hqJ0AQ-/0/1758196369808/telus_digital_logo?e=2147483647&v=beta&t=oNQ2WPNYDH44FcKkqH3vmkhfJRYZRPUrHGDBNPd3jjU","","","","","","","","","","",""
+"li-4336617470","linkedin","https://www.linkedin.com/jobs/view/4336617470","","Freelance GenAI Developer - Prompt Engineering & Data Workflows","Mindrift","Oklahoma, United States","2025-11-18","parttime","","","","","",True,"entry level","Other","","","***This opportunity is only for candidates currently residing in the specified country. Your location may affect eligibility and rates. Please submit your resume in English and indicate your level of English.***
+ Mindrift is looking for passionate freelance contributors to join the Tendem project (https://tendem.ai/) and help shape the future of hybrid agents — where human expertise and Vibe Coding work together seamlessly.
+   
+
+  
+
+ As a
+ **Vibe Coding Expert** 
+ , you'll partner with systems that take on repetitive tasks, while you provide the nuance, judgment, and creativity needed to deliver outstanding results.
+   
+
+  
+
+ In this role, you won't just refine what Vibe Coding generates — you'll actively collaborate with it, shaping and completing outputs so they are accurate, reliable, and ready for real\\-world use. Your day\\-to\\-day work may range from tackling complex challenges across different domains with the support of automation, to producing well\\-reasoned, precise, and clearly written outputs backed by credible sources.
+   
+
+  
+
+ This flexible, part\\-time remote opportunity is ideal for professionals with technical expertise and hands\\-on experience in scripting, automation, or AI\\-driven tools. Your contributions will directly influence how Vibe Coding systems evolve, learn, and empower industries worldwide.
+   
+
+  
+
+**What We Do**
+ The Mindrift platform connects specialists with AI projects from major tech innovators. Our mission is to unlock the potential of Generative AI by tapping into real\\-world expertise from across the globe.
+   
+
+  
+
+**About The Role**
+ This is a freelance role for a project, and your typical tasks may include:
+   
+
+  
+
+* Your mission \\- deliver well\\-reasoned, accurate, and clearly written outputs backed by credible sources.
+* Solve complex tasks in different domains with the help of automations
+* Develop and submit precise answers based on complex prompts, including coding, automation, and data processing tasks.
+* Write and optimize Python scripts for data analysis, automation, and verification.
+* Work with large datasets efficiently, ensuring data is clean and well\\-structured.
+* Utilize various LLMs to generate advanced prompts and improve AI output quality.
+* Format outputs in required structures such as Markdown, JSON, tables, etc.
+* Identify and troubleshoot non\\-trivial technical problems related to AI workflows and integrations.
+
+
+**How To Get Started**
+ Simply apply to this post, qualify, and get the chance to contribute to projects that match your technical skills, on your own schedule. From coding and automation to fine\\-tuning AI outputs, you'll play a key role in advancing AI capabilities and real\\-world applications.
+   
+
+  
+
+**Requirements**
+* You hold a Bachelor's or Master's Degree in Engineering, Applied Mathematics, Computer Science, or related technical fields
+* You have a minimum of 1 year of professional experience in AI automation, data engineering, or software development is desirable
+* Your level of English is upper\\-intermediate (B2\\) or above
+* Strong data analysis and automation skills, with experience in scripting (e.g., Python) for task efficiency.
+* Proficient in working with large datasets and integrating data from multiple sources
+* Ability to develop, test, and optimize AI\\-driven workflows and tools.
+* Detail\\-oriented mindset to ensure accuracy and quality in data processing and output
+* Hands\\-on experience with LLMs and AI frameworks to enhance automation and problem\\-solving
+* You are ready to learn new methods, able to switch between tasks and topics quickly and sometimes work with challenging, complex guidelines
+* Our freelance role is fully remote so, you just need a laptop, internet connection, time available and enthusiasm to take on a challenge
+
+
+**Benefits**
+**Why this freelance opportunity might be a great fit for you?**
+* Get paid for your expertise, with rates that can go up to $20/hour depending on your skills, experience, and project needs
+* Take part in a part\\-time, remote, freelance project that fits around your primary professional or academic commitments
+* Work on advanced AI projects and gain valuable experience that enhances your portfolio
+* Influence how future AI models understand and communicate in your field of expertise","IT Services and IT Consulting","https://www.linkedin.com/company/mindrift-ai","https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_100_100/company-logo_100_100/0/1725448348201/mindrift_ai_logo?e=2147483647&v=beta&t=QWIMS9k-I4kkSKVcx06uFCRLdHDZZ1w9E8dWeBmOHCk","","","","","","","","","","",""
+"li-4301266789","linkedin","https://www.linkedin.com/jobs/view/4301266789","","Quality Assurance Engineer","Leidos","Oklahoma City, OK","2025-11-18","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","LeidosCareersFraud@leidos.com","**Description**
+ The Multi Domain Solutions Division at Leidos is looking for a
+ **Quality Assurance Engineer** 
+ to support a fast\\-paced program with the Air Force Life Cycle Management Center. This role involves supporting the ensuring the delivery of comprehensive IT and support services to ensure mission success while adhering to DoD standards and regulations. The
+ **Quality Assurance Engineer** 
+ will ensure the design, development, and deployment of systems, hardware, and components meet stringent quality standards as well as support the internal quality process.
+   
+
+  
+
+**Primary Responsibilities**
+* Collaborate with the Program Manager to develop strategies, goals, tasks, roles, responsibilities, and information needs for QA surveillance.
+* Serve as the program's QA lead for planning, work product reviews, and quality audits.
+* Implement and maintain the Quality Assurance Program Plan (QAPP).
+* Support Quality Management Reviews by reporting to higher\\-level management on the program's quality achievements and progress towards meeting quality objectives.
+* Update the program's Tailored Process Baseline (TPB), as required.
+* Provide review and input to program plans and other documents to ensure accurate and on\\-time deliverables.
+* Conduct quality audits in adherence to the program's audit schedule and Leidos policies, and report audit results to program leadership.
+* Generate corrective action requests for audit findings and maintain the Common Audit Database (CAD) with timely updates/closures of audit findings.
+* Oversee the development, documentation, and execution of test plans, test cases, and test scripts in compliance with DoD standards and regulations.
+* Ensure the program meets Department of Defense Service Level Agreements (SLAs) and Service Level Objectives (SLOs) by rigorously testing performance, functionality, and security.
+* Identify risks and proactively work with teams to mitigate them, ensuring the system operates within prescribed CMMI levels and meets organizational quality standards.
+* Review and ensure that solutions adhere to Capability Maturity Model® Integration (CMMI) criteria and all DoD\\-specific processes throughout the software development lifecycle (SDLC).
+* Conduct regular reviews of software development and maintenance processes to ensure compliance with DoD and CMMI standards.
+* Evaluate software, hardware, and system performance against established metrics and DoD compliance requirements (e.g., NIST, FISMA).
+* Collaborate with cross\\-functional teams to ensure all QA activities support the overall program’s success and meet the high standards of quality expected in the DoD context.
+* Generate test reports, including defect status and resolution tracking, and provide progress updates to DoD leadership.
+* Ensure compliance with security standards and regulations (e.g., DISA STIGs, FISMA) during testing and across all aspects of service delivery.
+* Manage program instantiation of the Quality Management System (QMS).
+* Create and oversee Quality Assurance Plans (QAP).
+* Implement audit practices for internal processes and products.
+* Ensure compliance with PWS, SLAs/SLOs, EENG, ISO (namely 9001:2015\\) for the program as applicable.
+* Create, update, and adopt a Tailored Process Baseline (TPB) for the program as applicable.
+
+
+**Basic Qualifications**
+* US Citizen with at least a Top Secret clearance and the ability to obtain a SCI prior to your start date.
+* Bachelor’s Degree with 8\\+ years of experience or Master’s degree with 6\\+ years of experience. Additional years of experience is required in lieu of a degree.
+* In\\-depth knowledge of DoD compliance standards (e.g., NIST, FISMA, RMF, DISA STIGs) and security protocols.
+* Familiarity with Service Level Agreements (SLAs) and Service Level Objectives (SLOs) as they pertain to managed services and DoD programs.
+* Experience with testing in an environment that adheres to Capability Maturity Model® Integration (CMMI).
+* Solid understanding of software development methodologies (e.g., Agile, Waterfall) and project management processes.
+
+
+**Preferred Qualifications**
+* Advanced knowledge of DoD security frameworks such as NIST 800\\-53 and DISA STIG guidelines.
+* Familiarity with the Risk Management Framework (RMF) and its application in DoD software development and testing.
+* Familiar with ISO 24k and 27k standards.
+* Knowledge of cloud environments and testing related to DoD\\-approved platforms (e.g., AWS GovCloud, Microsoft Azure for Government).
+* Familiarity with software quality metrics and performance evaluations specific to DoD service contracts.
+
+
+ If you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.
+   
+
+  
+
+**Original Posting**
+ September 15, 2025
+   
+
+  
+
+ For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.
+   
+
+  
+
+**Pay Range**
+ Pay Range $89,700\\.00 \\- $162,150\\.00
+   
+
+  
+
+ The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+   
+
+  
+
+**About Leidos**
+ Leidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16\\.7 billion for the fiscal year ended January 3, 2025\\. For more information, visit www.Leidos.com.
+   
+
+  
+
+**Pay And Benefits**
+ Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at www.leidos.com/careers/pay\\-benefits.
+   
+
+  
+
+**Securing Your Data**
+ Beware of fake employment opportunities using Leidos’ name. Leidos will never ask you to provide payment\\-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system – never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment\\-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at LeidosCareersFraud@leidos.com.
+   
+
+  
+
+ If you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission.
+   
+
+  
+
+**Commitment to Non\\-Discrimination**
+ All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.
+   
+
+  
+
+ \\#Featuredjob","Government Administration and IT Services and IT Consulting","https://www.linkedin.com/company/leidos","https://media.licdn.com/dms/image/v2/D4E0BAQHTor-P1DNHaw/company-logo_100_100/company-logo_100_100/0/1704390469533/leidos_logo?e=2147483647&v=beta&t=7psQ5ekO4ZUcinXX8Oq0T5IOdcmiJHogiin7ySgynCE","","","","","","","","","","",""
+"li-4323320031","linkedin","https://www.linkedin.com/jobs/view/4323320031","https://ad.doubleclick.net/ddm/clk/438405794;254302458;m?https://jobs.us.pwc.com/job/-/-/932/88535470656?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&urlHash=IQQQ","Salesforce Senior Associate","PwC","Oklahoma City, OK","2025-11-18","fulltime","","","","","",False,"associate","Other","","","**Specialty/Competency:** 
+ Salesforce
+   
+
+  
+
+**Industry/Sector:** 
+ Not Applicable
+   
+
+  
+
+**Time Type:** 
+ Full time
+   
+
+  
+
+**Travel Requirements:** 
+ Up to 80%
+   
+
+  
+
+ At PwC, our people in business application consulting specialise in consulting services for a variety of business applications, helping clients optimise operational efficiency. These individuals analyse client needs, implement software solutions, and provide training and support for seamless integration and utilisation of business applications, enabling clients to achieve their strategic objectives. As a Salesforce consulting generalist at PwC, you will possess a broad range of consulting skills and experience across various Salesforce applications. You will provide consulting services to clients, analysing their needs, implementing software solutions, and offering training and support for effective utilisation of Salesforce applications. Your versatile knowledge will allow you to assist clients in optimising operational efficiency and achieving their strategic objectives.
+   
+
+  
+
+ Focused on relationships, you are building meaningful client connections, and learning how to manage and inspire others. Navigating increasingly complex situations, you are growing your personal brand, deepening technical expertise and awareness of your strengths. You are expected to anticipate the needs of your teams and clients, and to deliver quality. Embracing increased ambiguity, you are comfortable when the path forward isn’t clear, you ask questions, and you use these moments as opportunities to grow.
+   
+
+  
+
+**Skills**
+ Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:
+   
+
+  
+
+* Respond effectively to the diverse perspectives, needs, and feelings of others.
+* Use a broad range of tools, methodologies and techniques to generate new ideas and solve problems.
+* Use critical thinking to break down complex concepts.
+* Understand the broader objectives of your project or role and how your work fits into the overall strategy.
+* Develop a deeper understanding of the business context and how it is changing.
+* Use reflection to develop self awareness, enhance strengths and address development areas.
+* Interpret data to inform insights and recommendations.
+* Uphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements.
+
+
+ The Opportunity
+   
+
+  
+
+ As part of the Salesforce Consulting team you develop and implement scalable technical solutions that meet client requirements. As a Senior Associate, you guide and mentor junior team members while navigating complex challenges to deliver quality work and build meaningful client relationships.
+   
+
+  
+
+**Responsibilities**
+* Analyze and interpret data to provide actionable insights
+* Develop strategies to enhance Salesforce applications
+* Uphold professional standards and exemplary practices in consulting
+* Proactively identify and address potential project risks
+
+
+ What You Must Have
+   
+
+  
+
+* Bachelor's Degree
+* 3 years of experience
+
+
+ What Sets You Apart
+   
+
+  
+
+* Master's Degree preferred
+* Certifications Preferred: Salesforce.com Certified Administrator, Salesforce.com Certified Developer, Salesforce.com Certified Sales/Service/Experience Consultant
+* Demonstrating hands\\-on experience with Salesforce configuration
+* Defining scalable technical solution architecture
+* Translating customer requirements into working solutions
+* Managing communication with development teams
+
+
+ Learn more about how we work: https://pwc.to/how\\-we\\-work
+   
+
+  
+
+ PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H\\-1B lottery, except as set forth within the following policy: https://pwc.to/H\\-1B\\-Lottery\\-Policy.
+   
+
+  
+
+ As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.
+   
+
+  
+
+ For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.
+   
+
+  
+
+ Applications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us\\-application\\-deadlines
+   
+
+  
+
+ The salary range for this position is: $77,000 \\- $202,000, plus individuals may be eligible for an annual discretionary bonus. For roles that are based in Maryland, this is the listed salary range for this position. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits\\-at\\-a\\-glance","Accounting, Financial Services, and Business Consulting and Services","https://uk.linkedin.com/company/pwc","https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_100_100/B4EZaB6j58H0AQ-/0/1745936334912/pwc_logo?e=2147483647&v=beta&t=stNIhYwMNfiRmzhcYIuKvLl6j-_E5sJ8JNb3x27Tv1s","","","","","","","","","","",""
+"li-3864451682","linkedin","https://www.linkedin.com/jobs/view/3864451682","","Technical Solutions Engineer","Epic","Oklahoma City, OK","2025-11-17","fulltime","","","","","",False,"entry level","Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Problem\\-solving with a purpose.**
+ As a Technical Solutions Engineer at Epic, you’ll work on software that impacts 305 million patients around the world. Alongside customer counterparts, you’ll tackle mission\\-critical and complex problems – we’re
+ *way* 
+ beyond “turn it off and on again” issues. You’ll need to diagnose the problem, identify a solution, and manage the implementation of the solution, sometimes across multiple physical locations and stakeholders. Learn more about our team at https://careers.epic.com/Jobs/Technical\\-Solutions\\-Engineer.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet.**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's degree or greater
+* A history of academic excellence or professional success
+* Willingness to travel occasionally to customer locations
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4186274705","linkedin","https://www.linkedin.com/jobs/view/4186274705","","DevOps Engineer","Epic","Oklahoma City, OK","2025-11-17","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+ Design, build, coordinate, and maintain our multi\\-tenant, high\\-complexity, enterprise scale hosting architecture. We have opportunities for all experience levels. Whether you're just starting in your career or have decades of experience, you're looking to get in the weeds with technical infrastructure engineering or want to develop Infrastructure as Code solutions, or are interested in learning more about the systems that support the nation's best healthcare systems, we have an opportunity for you.
+   
+
+  
+
+ Infrastructure Engineers specialize in different areas. Experience and/or interest in different technologies can be discussed during the recruitment process.
+   
+
+  
+
+**Backgrounds Considered:**
+* IT/Systems/Computer Engineering
+* Cybersecurity/Networking
+* Computer Science
+
+
+**Infrastructure Engineering Areas:**
+* Security
+* Network
+* Network Security
+* Network Services
+* DevOps
+* Cloud
+* SAN \\& Backup
+* Virtualization
+* Windows
+
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's Degree in CIS, IS, IT, or a related field
+* Relocation to Madison, WI area (reimbursed)
+* Eligibility to work in the U.S. without visa sponsorship
+* Available to work 1st, 2nd, or 3rd shift
+* COVID\\-19 vaccination
+
+
+ As a member of the Hosting team at Epic, you'll be responsible for the confidentiality, integrity, and availability of Epic Hosting. Those responsibilities include::
+   
+
+  
+
+* Following policies and procedures and escalating when policies or procedures are not followed
+* Escalating potential security incidents and providing relevant information
+* Meeting all security responsibilities defined in policies and procedures","Computer Networking and Computer and Network Security","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4186270744","linkedin","https://www.linkedin.com/jobs/view/4186270744","","DevOps Engineer","Epic","Norman, OK","2025-11-17","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+ Design, build, coordinate, and maintain our multi\\-tenant, high\\-complexity, enterprise scale hosting architecture. We have opportunities for all experience levels. Whether you're just starting in your career or have decades of experience, you're looking to get in the weeds with technical infrastructure engineering or want to develop Infrastructure as Code solutions, or are interested in learning more about the systems that support the nation's best healthcare systems, we have an opportunity for you.
+   
+
+  
+
+ Infrastructure Engineers specialize in different areas. Experience and/or interest in different technologies can be discussed during the recruitment process.
+   
+
+  
+
+**Backgrounds Considered:**
+* IT/Systems/Computer Engineering
+* Cybersecurity/Networking
+* Computer Science
+
+
+**Infrastructure Engineering Areas:**
+* Security
+* Network
+* Network Security
+* Network Services
+* DevOps
+* Cloud
+* SAN \\& Backup
+* Virtualization
+* Windows
+
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's Degree in CIS, IS, IT, or a related field
+* Relocation to Madison, WI area (reimbursed)
+* Eligibility to work in the U.S. without visa sponsorship
+* Available to work 1st, 2nd, or 3rd shift
+* COVID\\-19 vaccination
+
+
+ As a member of the Hosting team at Epic, you'll be responsible for the confidentiality, integrity, and availability of Epic Hosting. Those responsibilities include::
+   
+
+  
+
+* Following policies and procedures and escalating when policies or procedures are not followed
+* Escalating potential security incidents and providing relevant information
+* Meeting all security responsibilities defined in policies and procedures","Computer Networking and Computer and Network Security","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-3986111783","linkedin","https://www.linkedin.com/jobs/view/3986111783","","Software Engineer","Epic","Norman, OK","2025-11-16","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Code that saves lives.**
+ As a software developer at Epic, you’ll write software that impacts the lives of 325 million patients around the world. Working in your own office, surrounded by thousands of high\\-caliber developers, you’ll use modern development methodologies and employ user\\-centered design, analytics, and machine learning tools to drive innovation in healthcare. Using leading\\-edge technologies and languages like JS, TS, and C\\#, you’ll invent better ways to reduce medical errors, streamline record sharing between hospitals, and provide the quality of care a patient deserves. Learn more about our team at https://careers.epic.com/jobs/softwaredevelopment/.
+   
+
+  
+
+**Write software for the most innovative health systems on the planet.**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Relocation to the Madison, WI area (Reimbursed)
+* BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field
+* A history of academic excellence or professional success
+* Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)
+* COVID\\-19 vaccination","Software Development","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-3986116426","linkedin","https://www.linkedin.com/jobs/view/3986116426","","Software Engineer","Epic","Oklahoma City, OK","2025-11-16","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Code that saves lives.**
+ As a software developer at Epic, you’ll write software that impacts the lives of 325 million patients around the world. Working in your own office, surrounded by thousands of high\\-caliber developers, you’ll use modern development methodologies and employ user\\-centered design, analytics, and machine learning tools to drive innovation in healthcare. Using leading\\-edge technologies and languages like JS, TS, and C\\#, you’ll invent better ways to reduce medical errors, streamline record sharing between hospitals, and provide the quality of care a patient deserves. Learn more about our team at https://careers.epic.com/jobs/softwaredevelopment/.
+   
+
+  
+
+**Write software for the most innovative health systems on the planet.**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Relocation to the Madison, WI area (Reimbursed)
+* BS/BA or greater in Computer Science, Mathematics, Software Engineering, Computer Engineering, or a related field
+* A history of academic excellence or professional success
+* Eligible to work in the United States without visa sponsorship (persons with appropriate qualifications and eligible for TN status under NAFTA may apply)
+* COVID\\-19 vaccination","Software Development","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4336309980","linkedin","https://www.linkedin.com/jobs/view/4336309980","","Full Stack Application Developer","Addison Group","Oklahoma City, OK","2025-11-16","fulltime","","","","","",False,"not applicable","Information Technology","","","**Job Title:** 
+ Full Stack Application Developer
+   
+
+  
+
+**Location:** 
+ Oklahoma City, OK (on\\-site)
+   
+
+  
+
+**Salary Range:** 
+ $80,000 \\- $150,000 / year depending on experience.
+   
+
+  
+
+**Benefits:** 
+*The position is eligible for medical, dental, vision, and 401(k).*
+* Must be authorized to work in the United States now, and in the future, without assistance.
+
+
+**Position Overview**
+ We’re looking for an experienced
+ **Full Stack Application Developer** 
+ to join our team in Oklahoma City. This individual will play a key role in maintaining and improving our enterprise software ecosystem while helping drive our transition toward modern, cloud\\-based solutions. The ideal candidate thrives in environments that balance legacy system support with forward\\-looking development involving cloud data platforms, AI/ML tools, and mobile technologies.
+   
+
+  
+
+**What You’ll Do**
+* Develop, maintain, and enhance enterprise applications using C\\#, .NET Framework, .NET Core, ASP.Net (WebForms and MVC), and modern JavaScript frameworks.
+* Build and optimize server\\-side components and data services using Entity Framework and SQL Server.
+* Collaborate closely with cross\\-functional teams to understand requirements and translate them into scalable, high\\-performing software solutions.
+* Support ongoing modernization efforts that incorporate Azure Databricks, machine learning frameworks, and iOS application development.
+* Participate in the full software development lifecycle—including architecture design, coding, testing, deployment, and documentation.
+* Ensure code quality, system reliability, and application performance across environments.
+
+
+**What We’re Looking For**
+* 5\\+ years of professional experience in full\\-stack software development.
+* Proven expertise in C\\#, .NET Framework, .NET Core, ASP.Net (WebForms and MVC), and JavaScript.
+* Solid understanding of Entity Framework, SQL, and object\\-oriented design principles.
+* Proficiency in front\\-end technologies including HTML5, CSS3, jQuery, and modern JS frameworks such as React or Angular.
+* Strong analytical and communication skills with a proactive, solution\\-oriented mindset.
+* Enthusiasm for learning and adopting emerging technologies such as Databricks, AI/ML frameworks, and mobile (iOS) development.
+
+
+**Technical Environment**
+* Languages: C\\#, JavaScript, TypeScript, SQL, and Python (preferred).
+* Frameworks: .NET WebForms, MVC, Entity Framework, jQuery, React/Angular.
+* Databases: Microsoft SQL Server or equivalent relational databases.
+* Cloud Platforms: Microsoft Azure, Databricks, Power BI (preferred).
+* Mobile Development: iOS (Swift, SwiftUI).
+* Tools \\& Practices: Git, Azure DevOps, unit testing, code reviews, SDLC best practices.
+
+
+ ﻿No 3rd parties.
+   
+
+  
+
+ ﻿
+   
+
+  
+
+***Why choose Addison IT?***
+* Pay: We negotiate high salaries using U.S. Bureau of Labor Statistics
+* Benefits \\& Bonuses: You are eligible for medical, dental, vision insurance benefits, 401K, and monetary bonuses
+* Permanent Employment: Many of Addison’s job openings lead to potential permanent employment
+* Connections: You connect directly with hiring managers from renowned organizations
+* Options: You are presented with multiple employment options near your home
+* Professional Development: You are provided hiring process advice, resume revision, and employment term negotiation
+
+
+*Addison Group is an Equal Opportunity Employer. Addison Group provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state, and local laws. Addison Group complies with applicable state and local laws governing non\\-discrimination in employment in every location in which the company has facilities. Reasonable accommodation is available for qualified individuals with disabilities, upon request.*
+ IND 005\\-010","Staffing and Recruiting","https://www.linkedin.com/company/addisongroup","https://media.licdn.com/dms/image/v2/C560BAQGkWEu9IfrLsg/company-logo_100_100/company-logo_100_100/0/1657132506176/addisongroup_logo?e=2147483647&v=beta&t=WMT1RXVwxNZ7cicPct9lSOM4f6Un714pwyAoDRhWIYM","","","","","","","","","","",""
+"li-4338610376","linkedin","https://www.linkedin.com/jobs/view/4338610376","","Software Engineer - Python/Golang - Kubernetes","Canonical","Oklahoma City, OK","","fulltime","","","","","",True,"entry level","Engineering and Information Technology","","","Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000\\+ colleagues in 70\\+ countries and very few office based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.
+   
+
+  
+
+ The company is founder led, profitable and growing.
+   
+
+  
+
+ We are hiring a software engineer to join our Kubernetes product team. As a member of that team, you will build the operators and addons; the former, offering complete lifecycle management of mission\\-critical components, and the latter, a zero\\-ops experience for seamlessly integrating projects into your Kubernetes.
+   
+
+  
+
+ You will gain familiarity with the latest features in Kubernetes and look to incorporate the best of open\\-source to bring functionality to our end\\-users. You will collaborate with industry peers and partners to bring the right solutions to our customers.
+   
+
+  
+
+ This is an exciting opportunity for a software engineer passionate about open source software, Linux, Golang, Python and Kubernetes.
+   
+
+  
+
+***Location***
+ : This is a remote position available in EMEA and the Americas.
+   
+
+  
+
+ What you will focus on
+   
+
+  
+
+* Write high\\-quality code to create new features
+* Debug issues and interact with a vibrant community
+* Collaborate proactively with a distributed team
+* Work with helpful and talented engineers including experts in many fields
+* Work from home with global travel 2 to 4 weeks for internal and external events
+
+
+ What we are looking for in you
+   
+
+  
+
+* You are a Golang developer also fluent in Python
+* You have experience with Kubernetes
+* You have strong written and verbal communication skills
+* You have a Bachelor's or equivalent in Computer Science, STEM or similar degree
+* You love technology and working with brilliant people
+
+
+ What we offer you
+   
+
+  
+
+ We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance\\-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+   
+
+  
+
+* Distributed work environment with twice\\-yearly team sprints in person
+* Personal learning and development budget of USD 2,000 per year
+* Annual compensation review
+* Recognition rewards
+* Annual holiday leave
+* Maternity and paternity leave
+* Employee Assistance Programme
+* Opportunity to travel to new locations to meet colleagues
+* Priority Pass, and travel upgrades for long haul company events
+
+
+**About Canonical**
+ Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence \\- in order to succeed, we need to be the best at what we do. Canonical has been a remote\\-first company since its inception in 2004\\. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+   
+
+  
+
+ Canonical is an equal opportunity employer
+   
+
+  
+
+ We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.","Software Development","https://uk.linkedin.com/company/canonical","https://media.licdn.com/dms/image/v2/C560BAQEbIYAkAURcYw/company-logo_100_100/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=17jhZvUOD-0vAJw3nIGnkBiYtBbXfEriIhIo6TfDmzc","","","","","","","","","","",""
+"li-4338510787","linkedin","https://www.linkedin.com/jobs/view/4338510787","","Software Engineer - Python/Golang - Kubernetes","Canonical","Cleveland County, OK","","fulltime","","","","","",True,"entry level","Engineering and Information Technology","","","Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000\\+ colleagues in 70\\+ countries and very few office based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.
+   
+
+  
+
+ The company is founder led, profitable and growing.
+   
+
+  
+
+ We are hiring a software engineer to join our Kubernetes product team. As a member of that team, you will build the operators and addons; the former, offering complete lifecycle management of mission\\-critical components, and the latter, a zero\\-ops experience for seamlessly integrating projects into your Kubernetes.
+   
+
+  
+
+ You will gain familiarity with the latest features in Kubernetes and look to incorporate the best of open\\-source to bring functionality to our end\\-users. You will collaborate with industry peers and partners to bring the right solutions to our customers.
+   
+
+  
+
+ This is an exciting opportunity for a software engineer passionate about open source software, Linux, Golang, Python and Kubernetes.
+   
+
+  
+
+***Location***
+ : This is a remote position available in EMEA and the Americas.
+   
+
+  
+
+ What you will focus on
+   
+
+  
+
+* Write high\\-quality code to create new features
+* Debug issues and interact with a vibrant community
+* Collaborate proactively with a distributed team
+* Work with helpful and talented engineers including experts in many fields
+* Work from home with global travel 2 to 4 weeks for internal and external events
+
+
+ What we are looking for in you
+   
+
+  
+
+* You are a Golang developer also fluent in Python
+* You have experience with Kubernetes
+* You have strong written and verbal communication skills
+* You have a Bachelor's or equivalent in Computer Science, STEM or similar degree
+* You love technology and working with brilliant people
+
+
+ What we offer you
+   
+
+  
+
+ We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance\\-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+   
+
+  
+
+* Distributed work environment with twice\\-yearly team sprints in person
+* Personal learning and development budget of USD 2,000 per year
+* Annual compensation review
+* Recognition rewards
+* Annual holiday leave
+* Maternity and paternity leave
+* Employee Assistance Programme
+* Opportunity to travel to new locations to meet colleagues
+* Priority Pass, and travel upgrades for long haul company events
+
+
+**About Canonical**
+ Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence \\- in order to succeed, we need to be the best at what we do. Canonical has been a remote\\-first company since its inception in 2004\\. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+   
+
+  
+
+ Canonical is an equal opportunity employer
+   
+
+  
+
+ We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.","Software Development","https://uk.linkedin.com/company/canonical","https://media.licdn.com/dms/image/v2/C560BAQEbIYAkAURcYw/company-logo_100_100/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=17jhZvUOD-0vAJw3nIGnkBiYtBbXfEriIhIo6TfDmzc","","","","","","","","","","",""
+"li-4331718488","linkedin","https://www.linkedin.com/jobs/view/4331718488","","Infrastructure Engineer","Jobot Consulting","Oklahoma City, OK","","contract","","","","","",False,"not applicable","Information Technology","","","Want to learn more about this role and Jobot Consulting? Click our Jobot Consulting logo and follow our LinkedIn page!
+   
+
+  
+
+ Job details
+   
+
+  
+
+ This Jobot Consulting Job is hosted by Dan Dungy
+   
+
+  
+
+ Are you a fit? Easy Apply now by clicking the ""Easy Apply"" button and sending us your resume.
+   
+
+  
+
+ Salary $65,000 \\- $85,000 per year
+   
+
+  
+
+**A Bit About Us**
+ Growing Managed Services Company in Oklahoma City. We have several positions open now and looking for professional and technical engineers and analysts to help support our customers.
+   
+
+  
+
+****Why join us?****
+ We have a fun culture and a history of keeping great technicians and pushing them to take their career to the next level. We have open jobs because we are growing and we are creating opportunities for our internal employees as well.
+   
+
+  
+
+**Job Details**
+ Job Details
+   
+
+  
+
+ Our company is on the lookout for a dynamic and dedicated Infrastructure Engineer to join our team. This exciting role will require you to be the backbone of our IT infrastructure, ensuring our systems are running smoothly and efficiently. You will be responsible for designing, implementing, and maintaining our computer systems and networks, ensuring high levels of system performance and availability. The ideal candidate should have a background in IT, computer systems engineering, or systems engineering and analysis.
+   
+
+  
+
+**Responsibilities**
+* Design, install, and support our company's network and computer systems.
+* Maintain network servers such as file servers, VPN gateways, and intrusion detection systems.
+* Administer servers, desktop computers, printers, routers, switches, firewalls, phones, personal digital assistants, smartphones, software deployment, security updates, and patches.
+* Oversee the daily performance of computer systems.
+* Respond to IT issues; hardware maintenance, software, networking, etc.
+* Evaluate and recommend security improvements and system upgrades.
+* Monitor network to ensure optimal performance.
+* Create and manage user accounts, permissions, email, anti\\-virus, anti\\-spam.
+* Provide technical support to clients, coworkers, and other team members.
+* Create and maintain a disaster recovery plan.
+* Perform regular backup operations and implement appropriate processes for data protection, disaster recovery, and failover procedures.
+
+
+**Qualifications**
+* 5\\+ years of experience in a similar role.
+* Proven experience with Active Directory, hardware installation, Firewall, Cisco Routers, Exchange, GPOs, server, O365, server 2019\\.
+* Degree in Information Technology, Computer Science or a related discipline; professional certification (e.g. Microsoft Certified Systems Administrator (MCSA)) is a plus.
+* Ability to create scripts in Python, Perl or other language.
+* Familiarity with various operating systems and platforms.
+* Knowledge of internet security and data privacy principles.
+* Exceptional organizing and time\\-management skills.
+* Excellent diagnostic, problem\\-solving and analytical skills.
+* Excellent communication ability.
+* Outstanding organizational and time\\-management skills.
+* In\\-depth understanding of diverse computer systems and networks.
+* Good knowledge of internet security and data privacy principles.
+* Ability to meet deadlines and manage stress effectively in high\\-pressure situations.
+* Understanding of complex information and requirements.
+* Excellent prioritization and multitasking abilities.
+* Ability to create and deliver presentations.
+* Detail\\-oriented with strong problem\\-solving skills and administrative capabilities.
+
+
+ Interested in hearing more? Easy Apply now by clicking the ""Easy Apply"" button.
+   
+
+  
+
+ Jobot is an Equal Opportunity Employer. We provide an inclusive work environment that celebrates diversity and all qualified candidates receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, age (40 and over), disability, military status, genetic information or any other basis protected by applicable federal, state, or local laws. Jobot also prohibits harassment of applicants or employees based on any of these protected categories. It is Jobot’s policy to comply with all applicable federal, state and local laws respecting consideration of unemployment status in making hiring decisions.
+   
+
+  
+
+ Sometimes Jobot is required to perform background checks with your authorization. Jobot will consider qualified candidates with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance.
+   
+
+  
+
+ Information collected and processed as part of your Jobot candidate profile, and any job applications, resumes, or other information you choose to submit is subject to Jobot's Privacy Policy, as well as the Jobot California Worker Privacy Notice and Jobot Notice Regarding Automated Employment Decision Tools which are available at jobot.com/legal.
+   
+
+  
+
+ By applying for this job, you agree to receive calls, AI\\-generated calls, text messages, or emails from Jobot, and/or its agents and contracted partners. Frequency varies for text messages. Message and data rates may apply. Carriers are not liable for delayed or undelivered messages. You can reply STOP to cancel and HELP for help. You can access our privacy policy here jobot.com/privacy\\-policy
+   
+
+  
+
+**Want to learn more about this role and Jobot Consulting?**
+ Click our Jobot Consulting logo and follow our LinkedIn page!","IT Services and IT Consulting and Software Development","https://www.linkedin.com/company/jobot-consulting","https://media.licdn.com/dms/image/v2/D560BAQGZzhNnyXRpJg/company-logo_100_100/company-logo_100_100/0/1737157467230/jobot_consulting_logo?e=2147483647&v=beta&t=xa3zi4MCGJhV-8ieQA5WVQtSRPbkAMzT-EUe3_DLpH4","","","","","","","","","","",""
+"li-4313492551","linkedin","https://www.linkedin.com/jobs/view/4313492551","","Digital Engineer, Senior","Booz Allen Hamilton","Oklahoma City, OK","","fulltime","","","","","",True,"not applicable","Engineering and Information Technology","","","**Job Number: R0227591**
+ Digital Engineer, Senior
+   
+
+  
+
+**The Opportunity:**
+ As a Digital Engineer on our team, you have the chance to create critical systems to support our customer’s Digital Engineering (DE) transformation. Your technical expertise will be vital as you work with the government on the Government Reference Architecture (GRA) ecosystem being developed to support weapons and test systems design and integration approaches.
+   
+
+  
+
+ You will use your system engineering expertise to develop enterprise architectures, description system models, engineering analysis, and reports as needed. Come develop your skills in DE and Model\\-Based Systems Engineering (MBSE) while gaining experience with new systems development. Grow your skills by merging DE and MBSE and Agile systems engineering methods provide creative solutions for development, implementation, testing, and sustainment of new and legacy systems. Join our team and help turn requirements into accomplishments that drive change.
+   
+
+  
+
+ Join us. The world can't wait.
+   
+
+  
+
+**You Have:**
+* 5\\+ years of experience with DE and MBSE related to DoD enterprise and systems development
+* Experience with system engineering life cycle, including requirements, design, development, integration, testing, and deployment for major DoD weapons and test systems
+* Experience with DE and MBSE tools and processes to create and manage tailored mode\\-based artifacts that capture analysis and the resulting engineering decisions and trades made during acquisition and development
+* Experience with conducting model\\-based performance simulations to determine the impact of requirements changes on enterprise and system performance and behaviors
+* Experience with System Modeling Language (SysML) for weapon system modeling and Unified Architecture Framework (UAF) for C5I networks and test systems modeling
+* Experience with MagicDraw and Cameo, Teamcenter, and DOORS, and SBE Vision
+* Knowledge of Weapon Open System Architecture (WOSA) design principles and technologies
+* Ability to work effectively in a multi\\-disciplinary, dynamic team environment, including internal staff, external contractors, and government customers
+* Secret clearance
+* Bachelor’s degree in an Engineering, Science, Technology, or Mathematics field
+
+
+**Nice If You Have:**
+* Knowledge of systems engineering standard: IEEE 15288
+* Knowledge of using enterprise and system models during government programs and engineering reviews
+* Knowledge of configuration management, risk management, and cybersecurity
+* Knowledge of object\\-oriented programming languages, including C\\+\\+, Java, or Python
+* Ability to plan and deliver capability and demonstrations using Agile Project Management
+* Ability to produce solutions independently or with a team
+* Possession of excellent verbal and written communication skills
+* Master's degree in an Engineering, Science, Technology, or Mathematics field preferred
+* SysML OMG Certified Systems Modelling Professional (OCSMP) Certification
+* INCOSE Systems Engineering Professional Certification, including CSEP or ASEP Certification
+
+
+**Clearance:**
+ Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; Secret clearance is required.
+   
+
+  
+
+**Compensation**
+ At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well\\-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work\\-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full\\-time and part\\-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.
+   
+
+  
+
+ Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract\\-specific affordability and organizational requirements. The projected compensation range for this position is $86,800\\.00 to $198,000\\.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees. This posting will close within 90 days from the Posting Date.
+   
+
+  
+
+**Identity Statement**
+ As part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.
+   
+
+  
+
+**Work Model**
+ Our people\\-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.
+   
+
+  
+
+* If this position is listed as remote or hybrid, you’ll periodically work from a Booz Allen or client site facility.
+* If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.
+
+
+**Commitment to Non\\-Discrimination**
+ All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.","IT Services and IT Consulting","https://www.linkedin.com/company/booz-allen-hamilton","https://media.licdn.com/dms/image/v2/D4E0BAQFXBzVcVDSTOQ/company-logo_100_100/company-logo_100_100/0/1737465459820/booz_allen_hamilton_logo?e=2147483647&v=beta&t=SswDqk5ZXqP0jtQgXL12ktHuwfRb0zf8se42kJe-lFM","","","","","","","","","","",""
+"li-4320252664","linkedin","https://www.linkedin.com/jobs/view/4320252664","","Integration Project Engineer","Epic","Norman, OK","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Make a meaningful impact by creating bridges that improve healthcare.**
+ For healthcare providers to make informed decisions and deliver the highest\\-quality patient care, they depend on data from niche systems across hundreds of specializations. Epic's Integration Project Engineers architect information flow across disparate systems. Each project presents a new set of challenges and opportunities. If you seek variety in your work, you'll find it as an Integration Project Engineer
+   
+
+  
+
+ Travel across the US (and potentially abroad) as a critical member of our implementation team and ensure the early success of new Epic community members. Once you're trained up, both Epic and customer teams will look to you to advise their implementation strategy, architecture, and project management.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's or greater in engineering, math, information systems, or a related field
+* A history of academic and professional success
+* Strong analytical and reasoning skills
+* Willingness to travel 25\\-60% of working days, with a typical month including 1\\-2 trips lasting 2\\-4 days
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4338318478","linkedin","https://www.linkedin.com/jobs/view/4338318478","","Senior Golang Integration Engineer - Remote - USA","FullStack","Oklahoma City, OK","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**About FullStack**
+ FullStack is one of the fastest\\-growing software consultancy companies in the Americas. We deliver transformational digital solutions to top global companies and Silicon Valley startups. As an employee\\-first company, we focus on hiring the most talented software designers and developers by creating a positive, respectful, and supportive work environment where they can achieve their greatest potential.
+   
+
+  
+
+**We’re Most Proud Of**
+* Offering life\\-changing career opportunities to talented software professionals across the Americas.
+* Building highly\\-skilled software development teams for hundreds of the world’s greatest companies.
+* Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.
+* Our 4\\.2\\-star rating on GlassDoor.
+* Our client Net Promoter Score of 68, twice the industry average.
+
+
+**The Position**
+ We're Looking To Hire a Senior Golang Integration Engineer To Join Our Team. You'll Work With Our Incredible Clients In One Of Two Ways
+   
+
+  
+
+* Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+* Design \\& Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+
+**What We're Looking For**
+* 5\\+ years of professional software development experience.
+* Advanced English is required.
+* Successful completion of a four\\-year college degree is required.
+* Strong proficiency in Golang.
+* Experience in the health tech sector or with healthcare\\-related systems is highly preferred.
+* Proven experience building third\\-party integrations.
+* Experience building integrations with claims clearinghouses such as Aility, including receiving, processing, and returning insurance claims in EDI formats.
+* Hands\\-on experience integrating with financial systems like Modern Treasury, leveraging it as a ledger platform for managing and tracking financial transactions.
+* Ability to work through new and difficult issues and contribute to libraries as needed.
+* Ability to create and maintain continuous integration and delivery of applications.
+* Forensic attention to detail.
+* A positive mindset and a can\\-do attitude.
+* Experience working on Agile / Scrum teams.
+* Meaningful experience working on large, complex systems.
+* Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.
+* Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+* Ability to consistently work 40 hours per week.
+
+
+**What We Offer**
+* Competitive Salary.
+* Paid Time Off (vacation, sick leave, maternity and paternity leave, holidays).
+* 100% remote work.
+* The ability to work with leading startups and Fortune 500 companies.
+* Health, dental, and vision insurance.
+* 401(k) w/ 4% match.
+* Ample opportunity for career advancement.
+* Continuing education opportunities.
+
+
+ FullStack is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status.
+   
+
+  
+
+ Learn more about our Applicants Privacy Notice.","IT Services and IT Consulting, Computer and Network Security, and Information Services","https://www.linkedin.com/company/fullstack-labs","https://media.licdn.com/dms/image/v2/D4E0BAQFl6I0phUCDQg/company-logo_100_100/B4EZo1FC7hIIAQ-/0/1761827107300/fullstack_labs_logo?e=2147483647&v=beta&t=TX2W7XY8VQOqyE5uwUHWxTPZC3rSHuZcy5UN31sBL-4","","","","","","","","","","",""

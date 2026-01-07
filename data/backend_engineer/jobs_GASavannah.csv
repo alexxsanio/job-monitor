@@ -1,0 +1,254 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"li-4323404213","linkedin","https://www.linkedin.com/jobs/view/4323404213","",".Net Software Engineer III","Hyundai AutoEver America","Savannah, GA","2025-11-19","fulltime","","","","","",False,"associate","Engineering and Information Technology","","","**Software Engineer III**
+**Location \\- Savannah, GA**
+**Company Overview:**
+**Hyundai AutoEver** 
+**America** 
+ is pioneering the future of mobility by integrating cloud\\-based service infrastructure with advanced core vehicle software technologies. In a rapidly evolving automotive OS landscape, we are setting global standards and driving innovation across the mobility ecosystem.
+   
+
+  
+
+ As a global leader in next\\-generation automotive software, Hyundai AutoEver enhances development efficiency and expands data services through Mobilgene—a comprehensive platform that integrates Hyundai Motor Group’s software capabilities. This enables flexible connectivity between hardware and software, empowering a smarter, more agile mobility experience.
+   
+
+  
+
+ We are at the forefront of the infotainment industry, a cornerstone of future vehicle growth. Our expertise spans digital maps, navigation software, and autonomous driving HD maps, built on decades of experience in GIS technology. Through global location\\-based content and integrated OTA (Over\\-the\\-Air) services, we deliver transformative mobility experiences and redefine the way users interact with their vehicles.
+   
+
+  
+
+ As the convergence of industry and ICT accelerates, Hyundai AutoEver is reshaping the mobility paradigm. We are evolving into a hyper\\-connected ICT company, bridging industry and everyday life through:
+   
+
+  
+
+* Smart Mobility powered by our Mobility\\-as\\-a\\-Service (MaaS) platform,
+* Smart Factory solutions that intelligently optimize vehicle production lines,
+* And Smart City platforms that integrate ICT across homes, buildings, safety systems, and energy networks.
+
+
+ Together, these innovations position Hyundai AutoEver as a catalyst for a connected, intelligent, and sustainable mobility future.
+   
+
+  
+
+**Role Overview: .Net Software Engineer III – MES Team**
+ The Software Engineer III will primarily focus on designing, coding, and deploying software solutions that enhance Manufacturing Execution Systems (MES) and related applications. This role is deeply technical, requiring strong programming skills, system integration expertise, and the ability to develop scalable, automated solutions for manufacturing environments.
+   
+
+  
+
+**Key Responsibilities**
+* Develop Custom MES Applications: Write clean, efficient, and maintainable code to build shop\\-floor monitoring tools and extend MES functionality for real\\-time production insights.
+* Integrate and Enhance Existing Systems: Design and implement software modules that integrate with current MES platforms, improving performance and adding new capabilities.
+* Automation and Infrastructure Coding: Develop scripts and tools for automating MES processes, including provisioning, scaling, and managing Kubernetes clusters for high availability and security.
+* System Programming and Optimization: Modify and maintain system\\-level software components (e.g., compilers, macros, subroutines) and optimize database interactions for speed and reliability.
+* Data Collection and Reporting Tools: Build secondary applications for environmental data gathering and assembly repair reporting, ensuring accurate data flow and analytics.
+* Testing and Documentation: Conduct unit and integration tests, debug complex issues, and create detailed technical documentation for code, processes, and system configurations.
+
+
+**Basic Qualifications:**
+* Education \\& Experience
++ Bachelor’s degree in computer science, Information Technology, or related field, or equivalent professional experience.
++ Minimum 5\\+ years of experience in IT or software engineering roles.
+
+* Core Technical Skills
++ Proficiency in Microsoft Office and strong documentation skills.
++ Intermediate/Advanced coding experience in C\\#, ASP.NET, HTML5, WinForms, and debugging GMES applications.
++ Strong knowledge of Vue 3\\.X, Java 17\\.X, Spring Boot 2\\.7\\.X, .NET Framework 4\\.8, and web servers like NginX, Tomcat.
++ Database expertise with MariaDB, Tibero, Oracle 11g, SQL Server, and ability to write PL/SQL statements.
++ Familiarity with Windows and Linux environments (RHEL 9\\.X, RedHat, Debian, Amazon Linux, Rocky Linux, Ubuntu).
+
+* Analytical \\& Problem\\-Solving
++ Excellent analytical skills with ability to troubleshoot complex system issues.
++ Ability to generate ideas for system improvement and optimize performance.
+
+* Other Requirements
++ Ability to work overtime when required.
++ Strong communication skills and ability to act as Subject Matter Expert (SME) for assigned shop.
+
+
+**Preferred Qualifications:**
+* Industry Certifications
++ Certified Manufacturing Technology Professional (CMfgT), Certified in Production and Inventory Management (CPIM), or ISA\\-95 Certificate Program for MES and manufacturing process integration.
+
+* MES Platform Expertise
++ Certifications in Rockwell Automation MES, Siemens SIMATIC IT MES, or Oracle Manufacturing Cloud to demonstrate advanced MES implementation and maintenance skills.
+
+* IT and Security Certifications
++ Certified Information Systems Auditor (CISA) for system audit and compliance, and Project Management Professional (PMP) for MES project leadership.
+
+* Specialized MES and Kubernetes Certifications
++ Certified MES Professional (CmMESP) and Kubernetes certifications such as Certified Kubernetes Administrator (CKA) or Certified Kubernetes Application Developer (CKAD) for container orchestration and automation.
+
+* Technical Certifications (Preferre)
++ A\\+, Microsoft Certifications (MCPD, MCITP, MCTS) are a plus
+
+* Additional Technical Credentials
++ Any relevant certifications in automation, scripting, or cloud technologies that enhance MES integration and scalability.
+
+* Advanced Skills \\& Tools
++ Strong understanding of Kubernetes architecture, APIs, and ecosystem tools (Helm, Kustomize).
++ Proficiency in automation and scripting languages (e.g., Bash, Python).
++ Knowledge of business processes related to MES and basic understanding of PLC (Programmable Logic Controller).
+
+
+**Culture Fit Highlights:**
+* Continuous Improvement Mindset: Thrives in environments that value innovation and process optimization, consistently seeking ways to enhance MES performance and scalability.
+* Collaboration \\& Cross\\-Functional Communication: Comfortable working closely with manufacturing teams, IT, and operations to align technical solutions with business needs.
+* Adaptability in Fast\\-Paced Settings: Demonstrates flexibility to handle evolving priorities, complex integrations, and occasional overtime to meet production goals.
+* Ownership \\& Accountability: Takes initiative as a Subject Matter Expert (SME), ensuring high\\-quality deliverables and clear documentation for long\\-term system reliability.
+* Commitment to Security \\& Compliance: Aligns with organizational standards for secure, compliant, and resilient manufacturing systems.
+
+
+**Salary Range: $79,000 to $112,959/yr.**","IT Services and IT Consulting","https://www.linkedin.com/company/hyundai-autoever-america","https://media.licdn.com/dms/image/v2/C4E0BAQFRWa2Z5XfATQ/company-logo_100_100/company-logo_100_100/0/1673623088232/hyundai_autoever_america_logo?e=2147483647&v=beta&t=f8CsmGe3RKbuUhgbPDrgv5gjNNLJIXEhMBnQGoafACQ","","","","","","","","","","",""
+"li-3864454247","linkedin","https://www.linkedin.com/jobs/view/3864454247","https://epic.avature.net/Careers/RegisterMethod?folderId=742&source=LinkedIn&urlHash=b3iG","Technical Solutions Engineer","Epic","Savannah, GA","2025-11-16","fulltime","","","","","",False,"entry level","Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Problem\\-solving with a purpose.**
+ As a Technical Solutions Engineer at Epic, you’ll work on software that impacts 305 million patients around the world. Alongside customer counterparts, you’ll tackle mission\\-critical and complex problems – we’re
+ *way* 
+ beyond “turn it off and on again” issues. You’ll need to diagnose the problem, identify a solution, and manage the implementation of the solution, sometimes across multiple physical locations and stakeholders. Learn more about our team at https://careers.epic.com/Jobs/Technical\\-Solutions\\-Engineer.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet.**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's degree or greater
+* A history of academic excellence or professional success
+* Willingness to travel occasionally to customer locations
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4320242617","linkedin","https://www.linkedin.com/jobs/view/4320242617","","Integration Solutions Engineer","Epic","Savannah, GA","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Make a meaningful impact by creating bridges that improve healthcare.**
+ For healthcare providers to make informed decisions and deliver the highest\\-quality patient care, they depend on data from niche systems across hundreds of specializations. Epic's Integration Solutions Engineers maintain that information flow across disparate systems. This group of experts tackles new challenges every day. If you seek variety in your work, you'll find it as an Integrations Solutions Engineer.
+   
+
+  
+
+ As an Integration Solutions Engineer, you'll optimize the data connections critical to high\\-quality patient care. Alongside customer teams, you'll enhance and support integrations between Epic and external systems to ensure efficient and secure data exchanges. You'll anticipate challenges and diagnose interface issues. You'll fine\\-tune integrations to meet evolving operational needs in diverse healthcare settings. In doing so, you'll enable our customer's operational success, and empower them to deliver better patient care.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's or greater in engineering, math, information systems, or a related field
+* A history of academic and professional success
+* Strong analytical and reasoning skills
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
+"li-4320122917","linkedin","https://www.linkedin.com/jobs/view/4320122917","https://epic.avature.net/Careers/RegisterMethod?folderId=30064&source=LinkedIn&urlHash=KvAy","Integration Project Engineer","Epic","Savannah, GA","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+   
+
+  
+
+**Make a meaningful impact by creating bridges that improve healthcare.**
+ For healthcare providers to make informed decisions and deliver the highest\\-quality patient care, they depend on data from niche systems across hundreds of specializations. Epic's Integration Project Engineers architect information flow across disparate systems. Each project presents a new set of challenges and opportunities. If you seek variety in your work, you'll find it as an Integration Project Engineer
+   
+
+  
+
+ Travel across the US (and potentially abroad) as a critical member of our implementation team and ensure the early success of new Epic community members. Once you're trained up, both Epic and customer teams will look to you to advise their implementation strategy, architecture, and project management.
+   
+
+  
+
+**Test the limits of your brain for the most innovative health systems on the planet**
+ The top\\-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+   
+
+  
+
+**Live affordably in a city known for its rising tech talent.**
+ Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+   
+
+  
+
+**More than just important work** 
+ .
+   
+
+  
+
+ Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant\\-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four\\-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+   
+
+  
+
+ We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit\\-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non\\-discrimination statement at https://careers.epic.com/EEO.
+   
+
+  
+
+* Bachelor's or greater in engineering, math, information systems, or a related field
+* A history of academic and professional success
+* Strong analytical and reasoning skills
+* Willingness to travel 25\\-60% of working days, with a typical month including 1\\-2 trips lasting 2\\-4 days
+* Eligible to work in the U.S. without visa sponsorship
+* Relocation to the Madison, WI area (reimbursed)
+* COVID\\-19 vaccination","Software Development, Hospitals and Health Care, and Information Technology & Services","https://www.linkedin.com/company/epic1979","https://media.licdn.com/dms/image/v2/C4D0BAQH6HS4jtIcQ4w/company-logo_100_100/company-logo_100_100/0/1631348441877?e=2147483647&v=beta&t=oOcOoqQ5XjMudBpnuLAezQFt6sQvKtSzyNDaM9PGCys","","","","","","","","","","",""
